@@ -8,10 +8,16 @@ layout: compress
   {% include head.html %}
 
   <body>
+  
+    <div class="preloader-mask">
+      <div class="preloader"></div>
+    </div>
 
     {{ content }}
 
     {% include footer.html %}
+
+    {% include js.html %}
 
   </body>
 
