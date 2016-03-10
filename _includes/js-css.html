@@ -1,0 +1,51 @@
+    <link rel="stylesheet" href="/css/main.css">
+    <script type="application/ld+json">
+    {{ site.data.social-profile | jsonify }}
+    </script>
+
+
+
+{% if page.class == 'speakers' %}
+  {% assign speaker_data = site.data.speakers | where:"id", page.speaker %}
+  {% assign speaker = speaker_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "{{ speaker.context }}",
+    "@type": "{{ speaker.type }}",
+    "worksFor": {
+      "type": "{{ speaker.worksFor.type }}",
+      "name: "{{ speaker.worksFor.name }}",
+      "url: "{{ speaker.worksFor.url }}"
+    }
+    "email": "{{ speaker.email }}",
+    "image": "{{ speaker.image }}",
+    "jobTitle: "{{ speaker.jobTitle }}",
+    "name: "{{ speaker.name }}",
+    "sameAs: "{{ speaker.sameAs }}",
+    "description: "{{ speaker.description }}"  
+  }
+  </script>
+{% endif %}
+
+{% if page.class == 'videos' %}
+  {% assign video_data = site.data.videos | where:"id", page.video %}
+  {% assign video = video_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "{{ video.context }}",
+    "@type": "{{ video.type }}",
+    "name": "{{ video.title }}",
+    "description": "{{ video.description }}",
+    "embedUrl": "{{ site.url }}/{{ video.video-container }}",
+    "contentUrl": "{{ site.url }}/public/video/{{ video.source-webm }}",
+    "thumbnailUrl": "{{ site.url }}/public/video/{{ video.poster }}",
+    "@id": "{{ site.url }}{{ page.url }}",
+    "datePublished": "{{ video.dataPublished }}",
+    "uploadDate": "{{ video.dataPublished }}",
+    "author": {
+      "@type": "Organization",
+      "name": "Artinpocket"
+    }
+  }  
+  </script>
+{% endif %}

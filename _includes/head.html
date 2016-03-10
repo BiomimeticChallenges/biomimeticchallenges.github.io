@@ -1,0 +1,127 @@
+<head>
+    <meta charset="utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"> -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="description" content="{% if page.title == "Home" %}{{ site.title }} &middot; {{ site.subtitle }}{% else %}{{ page.title | strip_html | strip_newlines | truncate: 160 }} &middot; {{ site.title | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.subtitle }}
+    {% else %}
+      {{ page.title | strip_html | strip_newlines | truncate: 160 }} &ndash; {% if page.category == 'speakers' %}speakers{% endif %}{% if page.category == 'advisors' %}advisors{% endif %} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  {% if page.og %}
+  <meta property="og:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }} &ndash; {% if page.category == 'speakers' %}speakers{% endif %}{% if page.category == 'advisors' %}advisors{% endif %} &middot; {{ site.title }}" />
+  <meta property="og:type" content="{{ page.og-type }}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+      {% if page.category == 'patrocinadors' %}
+          {% assign who_data = site.patrocina | where:"id", page.who %}
+          {% assign who = who_data | first %}
+          <meta property="og:image" content="{{ site.url }}/public/img/{{ who.logo }}" />
+          <meta property="og:description" content="{{ who.description | strip_html | strip_newlines | truncate: 160 }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:description" content="{{ who.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}/public/img/{{ who.logo }}">
+      {% endif %}
+      {% if page.category == 'speakers' %}
+          {% assign speaker_data = site.data.speakers | where:"id", page.speaker %}
+          {% assign speaker = speaker_data | first %}
+          <meta property="og:image" content="{{ site.url }}/assets/img/speakers/{{ speaker.featured_src }}" />
+          <meta property="og:description" content="{{ speaker.description | strip_html | strip_newlines | truncate: 160 }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:description" content="{{ speaker.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}/assets/img/speakers/{{ speaker.featured_src }}">
+      {% endif %}
+      {% if page.category == 'place' %}
+          {% assign place_data = site.data.places | where:"id", page.place %}
+          {% assign place = place_data | first %}
+          <meta property="og:image" content="{{ site.url }}/public/img/{{ place.img }}" />
+          <meta property="og:description" content="{{ place.description | strip_html | strip_newlines | truncate: 160 }}" />
+          <meta property="place:location:latitude" content="{{ place.latitude }}" />
+          <meta property="place:location:longitude" content="{{ place.longitude }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:description" content="{{ place.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}/public/img/{{ place.img }}">
+      {% endif %}
+      {% if page.category == 'videos' %}
+          {% assign video_data = site.data.videos | where:"id", page.video %}
+          {% assign video = video_data | first %}
+          <meta property="og:image" content="{{ site.url }}/public/video/{{ video.poster }}" />
+          <meta property="og:description" content="{{ video.description | strip_html | strip_newlines | truncate: 160 }}" />
+          <meta property="og:video:url" content="{{ site.url }}/public/video/{{ video.source-mp4 }}">
+          <meta property="og:video:secure_url" content="{{ site.url }}/public/video/{{ video.source-mp4 }}">
+          <meta property="og:video:type" content="{{ video.codec-mp4 }}">
+          <meta property="og:video:width" content="{{ video.width }}">
+          <meta property="og:video:height" content="{{ video.height }}">
+          <meta property="og:video:url" content="{{ site.url }}/public/video/{{ video.source-webm }}">
+          <meta property="og:video:secure_url" content="{{ site.url }}/public/video/{{ video.source-webm }}">
+          <meta property="og:video:type" content="{{ video.codec-webm }}">
+          <meta property="og:video:width" content="{{ video.width }}">
+          <meta property="og:video:height" content="{{ video.height }}">
+
+          <meta name="twitter:card" content="player">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:description" content="{{ video.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image" content="{{ site.url }}/public/video/{{ video.poster }}">
+          <meta name="twitter:player" content="{{ site.url }}{{ video.video-container }}">
+          <meta name="twitter:player:width" content="{{ video.width }}">
+          <meta name="twitter:player:height" content="{{ video.height }}">
+          <meta name="twitter:player:stream" content="{{ site.url }}/public/video/ {{ video.source-mp4 }}">
+          <meta name="twitter:player:stream:content_type" content="{{ video.codec-mp4 }}">
+
+      {% endif %}
+      {% if page.class == '' %}
+          <meta property="og:image" content="{{ site.url }}/public/img/2-nd-simultaneous-digital-art-show-banner-og-2015.jpg" />
+          <meta property="og:description" content="The 2nd exhibition of digital art in Barcelona is presented as a simultaneous exhibition in spaces and buildings of the city. The show was created with the aim of discovering and experimenting with digital art in environments outside the traditional art exhibition circuit" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:description" content="The 2nd exhibition of digital art in Barcelona is presented as a simultaneous exhibition in spaces and buildings of the city. The show was created with the aim of discovering and experimenting with digital art in environments outside the traditional art exhibition circuit">
+          <meta name="twitter:image:src" content="{{ site.url }}/public/img/2-nd-simultaneous-digital-art-show-banner-og-2015.jpg">
+      {% endif %}
+  {% endif %}
+
+  <!-- Icons -->
+
+  <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="/assets/img/touch/chrome-touch-icon-192x192.png">
+
+    <meta name="theme-color" content="#00B1EB">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="WBCh&A">
+    <link rel="apple-touch-icon-precomposed" href="/assets/img/touch/apple-touch-icon-precomposed.png">
+
+    <meta name="msapplication-TileImage" content="/assets/img/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  <link rel="manifest" href="{{ site.url }}/manifest.json">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  {% include js-css.html %}
+</head>

@@ -1,0 +1,8 @@
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "!st World Biomimetic Challenges and Awards",
+  "url" : "https://www.biomimeticchallengesandawards.com/",
+  "sameAs" : [ "https://www.facebook.com/artinpocket.digital.art",
+    "https://www.twitter.com/artinpocket",
+    "https://plus.google.com/110343213762062165287"] 
+}
