@@ -6,6 +6,7 @@
     url: "http://www.pointloma.edu/"
   email: "LynnReaser@pointloma.edu"
   image: "lynn-reaser-wbcha.jpg"
+  featured_src: bg-adv-spk-lynn-reaser-wbcha.jpg
   jobTitle: "Chief Economist, Fermanian Business & Economic Institute"
   name: "Lynn Reaser"
   sameAs: "https://www.linkedin.com/in/lynn-reaser-b0534b13"
@@ -20,6 +21,7 @@
     url: "http://www.ub.edu/masterae/"
   email: "masterae@ub.edu"
   image: "jordi-pigem-wbcha.jpg"
+  featured_src: bg-adv-spk-jordi-pigem-wbcha.jpg
   jobTitle: "Doctor  in Philosophy"
   name: "Jordi Pigem"
   sameAs: "http://www.ub.edu/masterae/staff-item/jordi-pigem/"
@@ -34,6 +36,7 @@
     url: "http://www.medpan.org/en/home"
   email: "pcanals@tinet.org"
   image: "puri-canals-wbcha.jpg"
+  featured_src: bg-adv-spk-puri-canals-wbcha.jpg
   jobTitle: "President of MedPAN"
   name: "Puri Canals"
   sameAs: "https://www.linkedin.com/in/puri-canals-616a146a"
@@ -48,6 +51,7 @@
     url: "http://www.uab.cat/"
   email: "info@martiboada.cat"
   image: "marti-boada-wbcha.jpg"
+  featured_src: bg-adv-spk-marti-boada-wbcha.jpg
   jobTitle: "Professor"
   name: "Martí Boada"
   sameAs: "http://martiboada.cat/"
@@ -62,6 +66,7 @@
     url: "http://www.linv.org/"
   email: stefano.mancusochiocciolaunifi.it
   image: "stefano-mancuso-wbcha.jpg"
+  featured_src: bg-adv-spk-stefano-mancuso-wbcha.jpg
   jobTitle: "Professor and Director"
   name: "Stefano Mancuso"
   sameAs: "https://scholar.google.com/citations?user=l3wMLRoAAAAJ&hl=en"
@@ -76,6 +81,7 @@
     url: "http://www.eur.nl/ese/english/departments/department_of_business_economics/"
   email: "hofstra@ese.eur.nl"
   image: "nel-hofstra-wbcha.jpg"
+  featured_src: bg-adv-spk-nel-hofstra-wbcha.jpg
   jobTitle: "Professor of Business Marketing"
   name: "Nel Hofstra"
   sameAs: "http://www.eur.nl/ese/english/departments/department_of_business_economics/staff/faculty/profiel_mis/7761/"
@@ -89,6 +95,7 @@
     name: "HS Rhein-Waal"
     url: "http://www.hochschule-rhein-waal.de/en"
   image: "julian-vincent-wbcha.jpg"
+  featured_src: bg-adv-spk-julian-vincent-wbcha.jpg
   jobTitle: "Honorary Professor"
   name: "Julian Vincent"
   sameAs: "https://www.linkedin.com/in/julian-vincent-a44496"
@@ -103,6 +110,7 @@
     url: "http://www.dundee.ac.uk/"
   email: david@biomimicry-uk.org
   image: "david-sanchez-wbcha.jpg"
+  featured_src: bg-adv-spk-david-sanchez-wbcha.jpg
   jobTitle: "Biomimetic Designer, Lecturer, Workshop Facilitator"
   name: "David Sanchez"
   sameAs: "https://www.linkedin.com/in/david-sanchez-12005321"
@@ -117,6 +125,7 @@
     url: "http://www.globaleducationmagazine.com/"
   email: "javiercolladoruano@gmail.com"
   image: "javier-collado-wbcha.jpg"
+  featured_src: bg-adv-spk-javier-collado-wbcha.jpg
   jobTitle: "Founder and Director"
   name: "Javier Collado Ruano"
   sameAs: "http://www.javiercolladoruano.com/"
@@ -130,6 +139,7 @@
     name: "James Cook University"
     url: "https://www.jcu.edu.au/"
   image: "andrea-monge-wbcha-grey.jpg"
+  featured_src: bg-adv-spk-andrea-monge-wbcha.jpg
   jobTitle: "Marine Biologist"
   name: "Andrea Monge"
   sameAs: "https://www.linkedin.com/in/andreamonger"
@@ -144,6 +154,7 @@
     url: "http://www.arts.ac.uk/"
   email: h.barnett@csm.arts.ac.uk
   image: "heather-barnett-wbcha-grey.jpg"
+  featured_src: bg-adv-spk-heather-barnett-wbcha.jpg
   jobTitle: "Artist and Researcher"
   name: "Heather Barnett"
   sameAs: "http://heatherbarnett.co.uk/"
@@ -158,6 +169,7 @@
     url: "http://www.arts.ac.uk/"
   email: Carlos.Montana.Hoyos@canberra.edu.au
   image: "carlos-montana-wbcha-grey.jpg"
+  featured_src: bg-adv-spk-carlos-montana-wbcha.jpg
   jobTitle: "Associate Professor & Course Convenor"
   name: "Carlos Alberto Montana Hoyos"
   sameAs: "https://www.linkedin.com/in/carlos-alberto-montana-hoyos-359b6523"
