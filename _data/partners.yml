@@ -1,0 +1,7 @@
+- context: "http://schema.org"
+  type: "Organization"
+  url: http://www.in3dustry.com/en/home
+  logo: logo-in-3d-ustry-wbcha.jpg
+  name: "In(3D)ustry"
+  description: "IN(3D)USTRY From Needs to Solutions goes beyond case studies and machinery into widespread implementation optimizing the entire manufacturing chain, creating a value chain based of different market needs offering solutions to optimize the entire supply chain."
+  id: 00

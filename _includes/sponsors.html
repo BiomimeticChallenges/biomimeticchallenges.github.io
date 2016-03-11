@@ -1,0 +1,33 @@
+	<section id="sponsors" class="section align-center">
+		<div class="container">
+			<span class="icon section-icon icon-documents-bookmarks-12"></span>
+			<h3>Promoter</h3>
+			<div class="sponsors">
+				{% for promoter in site.data.promoters %}
+				<div class="sponsor big"><img src="assets/img/sponsors/{{ promoter.logo }}" alt=""></div>
+				{% endfor %}
+			</div>
+			<hr/>
+			<h3>Organizers</h3>
+			<div class="sponsors">
+				{% for organizer in site.data.organizers %}
+				<div class="sponsor big"><img src="assets/img/sponsors/{{ organizer.logo }}" alt=""></div>
+				{% endfor %}
+			</div>
+			<hr/>
+			<h3>Symbiotic Partner</h3>
+			<div class="sponsors">
+				{% for partner in site.data.partners %}
+				<div class="sponsor inline"><img src="assets/img/sponsors/{{ partner.logo }}" alt=""></div>
+				{% endfor %}
+			</div>
+			<hr/>
+			<h3>Collaborators</h3>
+			<div class="sponsors">
+				{% for collaborator in site.data.collaborators %}
+				<div class="sponsor inline"><img src="assets/img/sponsors/{{ collaborator.logo }}" alt=""></div>
+				{% endfor %}
+			</div>
+
+		</div>
+	</section>

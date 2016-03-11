@@ -1,0 +1,8 @@
+- context: "http://schema.org"
+  type: "Organization"
+  email: "info@worldbiomimetic.org"
+  url: http://www.worldbiomimetic.org/
+  logo: logo-world-biomimetic-foundation-wbcha.jpg
+  name: "World Biomimetics Foundation"
+  description: "At the World Biomimetics Foundation we have applied a distinctive twist in the processes of inspiration, creation and innovation by implementing a methodology called Biomimetics. Biomimetics frames the processes of creativity and innovation inspired by the observation of models, structures and forms of nature."
+  id: 00

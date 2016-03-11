@@ -1,0 +1,39 @@
+- context: "http://schema.org"
+  type: "Organization"
+  email: "marqueting@ub.edu"
+  url: http://www.ub.edu/web/ub/en/index.html
+  logo: logo-universitat-de-barcelona-wbcha.jpg
+  name: "Universitat de Barcelona"
+  description: "The University of Barcelona is the most formidable public institution of higher education in Catalonia, catering to the needs of the greatest number of students and delivering the broadest and most comprehensive offering in higher educational courses. The UB is also the principal centre of university research in Spain and has become a European benchmark for research activity, both in terms of the number of research programmes it conducts and the excellence these have achieved."
+  id: 00
+- context: "http://schema.org"
+  type: "Organization"
+  email: "info@butterflypark.es"
+  url: http://www.butterflypark.es/en/
+  logo: logo-butterfly-park-wbcha.jpg
+  name: "Butterfly Park"
+  description: "We offer our visitors, young and old, the possibility to stroll amongst the tropical gardens and discover the captivating world of butterflies, parrots and other exotic animals. You will be amazed by our animals that roam freely within their natural habitats. Some of the world's most colorful species of butterflies will be fluttering freely around you and you may learn about their life cycle and the remarkable variety of existing species. This is a different kind of wildlife park, unique in Catalonia, with more than 15 years of dedication."
+  id: 01
+- context: "http://schema.org"
+  type: "Organization"
+  email: "reservations@almabarcelona.com"
+  url: http://www.almabarcelona.com/index.php?idioma=eng
+  logo: logo-alma-hotels-wbcha.jpg
+  name: "Alma Barcelona"
+  id: 02
+- context: "http://schema.org"
+  type: "Organization"
+  email: "info@webdelou.com"
+  url: http://www.webdelou.com/
+  logo: logo-lou-comunicacio-wbcha.jpg
+  name: "LOU Comunicació"
+  description: "LOU is a communications agency specializing in new media. Creativity and innovation are constants that we use to develop our projects. We are dedicated to find what is the best message and the best way for those who have something to communicate."
+  id: 03
+- context: "http://schema.org"
+  type: "Organization"
+  email: "info@oxygen.cat"
+  url: http://www.oxygen.cat/
+  logo: logo-oxygen-comunicacio-wbcha.jpg
+  name: "Oxygen Comunicació"
+  description: "Oxygen is a creative technology company based in Barcelona. We have a valuable team of professionals with 18 years of experience, experts in corporate communication, web design, programming and computer systems for the realization of ambitious projects online."
+  id: 04
