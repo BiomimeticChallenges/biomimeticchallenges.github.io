@@ -4,7 +4,7 @@
 			<h3>Promoter</h3>
 			<div class="sponsors">
 				{% for promoter in site.data.promoters %}
-				<div class="sponsor big"><img src="assets/img/sponsors/{{ promoter.logo }}" alt=""></div>
+				<div class="sponsor big"><a href="{{promoter.permalink }}"><img src="assets/img/sponsors/{{ promoter.logo }}" alt=""></a></div>
 				{% endfor %}
 			</div>
 			<hr/>
