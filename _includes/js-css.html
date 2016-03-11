@@ -27,6 +27,28 @@
   </script>
 {% endif %}
 
+{% if page.class == 'advisors' %}
+  {% assign advisor_data = site.data.advisors | where:"id", page.advisor %}
+  {% assign advisor = advisor_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "{{ advisor.context }}",
+    "@type": "{{ advisor.type }}",
+    "worksFor": {
+      "type": "{{ advisor.worksFor.type }}",
+      "name: "{{ advisor.worksFor.name }}",
+      "url: "{{ advisor.worksFor.url }}"
+    }
+    "email": "{{ advisor.email }}",
+    "image": "{{ advisor.image }}",
+    "jobTitle: "{{ advisor.jobTitle }}",
+    "name: "{{ advisor.name }}",
+    "sameAs: "{{ advisor.sameAs }}",
+    "description: "{{ advisor.description }}"  
+  }
+  </script>
+{% endif %}
+
 {% if page.class == 'videos' %}
   {% assign video_data = site.data.videos | where:"id", page.video %}
   {% assign video = video_data | first %}

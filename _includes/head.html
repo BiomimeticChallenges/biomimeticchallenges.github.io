@@ -21,19 +21,6 @@
   <meta property="og:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }} &ndash; {% if page.category == 'speakers' %}speakers{% endif %}{% if page.category == 'advisors' %}advisors{% endif %} &middot; {{ site.title }}" />
   <meta property="og:type" content="{{ page.og-type }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-      {% if page.category == 'patrocinadors' %}
-          {% assign who_data = site.patrocina | where:"id", page.who %}
-          {% assign who = who_data | first %}
-          <meta property="og:image" content="{{ site.url }}/public/img/{{ who.logo }}" />
-          <meta property="og:description" content="{{ who.description | strip_html | strip_newlines | truncate: 160 }}" />
-
-          <meta name="twitter:card" content="summary_large_image">
-          <meta name="twitter:site" content="@{{ site.twitter }}">
-          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
-          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
-          <meta name="twitter:description" content="{{ who.description | strip_html | strip_newlines | truncate: 160 }}">
-          <meta name="twitter:image:src" content="{{ site.url }}/public/img/{{ who.logo }}">
-      {% endif %}
       {% if page.category == 'speakers' %}
           {% assign speaker_data = site.data.speakers | where:"id", page.speaker %}
           {% assign speaker = speaker_data | first %}
@@ -46,6 +33,19 @@
           <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
           <meta name="twitter:description" content="{{ speaker.description | strip_html | strip_newlines | truncate: 160 }}">
           <meta name="twitter:image:src" content="{{ site.url }}/assets/img/speakers/{{ speaker.featured_src }}">
+      {% endif %}
+      {% if page.category == 'advisors' %}
+          {% assign advisor_data = site.data.advisors | where:"id", page.advisor %}
+          {% assign advisor = advisor_data | first %}
+          <meta property="og:image" content="{{ site.url }}/assets/img/advisors/{{ advisor.featured_src }}" />
+          <meta property="og:description" content="{{ advisor.description | strip_html | strip_newlines | truncate: 160 }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:description" content="{{ advisor.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}/assets/img/advisors/{{ speaker.featured_src }}">
       {% endif %}
       {% if page.category == 'place' %}
           {% assign place_data = site.data.places | where:"id", page.place %}
