@@ -1,0 +1,123 @@
+
+
+
+	<section id="awards" class="section align-center">
+
+		<div class="container">
+			
+			<span class="icon section-icon icon-seo-icons-10"></span>
+				<h3>Awards</h3>
+				<br />
+				<br />
+			<div class="col-sm-7 align-right">
+				<p>It will recognize projects in prototype stage,  final development or deployment in the market, that has been involved on a concept, technology, product, service or process that deals with an actual challenge. The description of the project has to show a connection between a biologic mechanism, process or pattern or system regarding to the solution given.</p>
+ 
+ 				<p>It will admit professional start-up teams or local companies (Catalonia, Spain) or international.</p>
+
+				<p>It will accept the sponsorship as a dynamic driver of a conscience, economic and social biomimetic model.  The contribution  of a sponsor will provide priority access to the knowledge of projects, with the challenge of creating collaborative alliances or advisor relationship, in collaboration with the World Biomimetic Foundation.</p>
+      
+				<p>The Advisory board formed by the relational network of professionals of  the World Biomimetic Foundation will validate the submitted projects with the purpose of selecting a limited number of finalists.</p>
+
+				<h6>Bimomimetic Projects Around the World</h6>
+
+				<p>The biomimetic appears in our society and in the economic and productive system with some carrier solutions examples that has optimized the energetic resources, reduces the economic expenses or generated beneficial solutions for everybody. The challenge of the Awards is to strengthen an emergent base and to connect biomimetic projects with the challenge of motivating a new bio inspirer Cosmo vision for the future.</p>
+
+			</div>
+
+			<div class="col-sm-5 img-column">
+				<img src="assets/img/lotus-wbcha-371x412.jpg" alt="" class="img-responsive img-circle" />
+			</div>
+
+			<hr/>
+
+		</div>
+
+		<div class="container">
+			<span class="icon section-icon icon-faces-users-04"></span>
+			<h3>Advisory committee</h3>
+			<p class="text-alt">Meet our <span class="highlight">advisors</span></p>
+			<br />
+			<br />
+
+			<div class="row">
+
+			{% for advisor in site.data.advisors limit: 3 %}
+
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper rounded"><a href="{{ advisor.permalink }}"><img src="assets/img/advisors/{{ advisor.image }}" alt="{{ advisor.name }}" class="img-responsive"></a></div>
+						<h3 class="name">{{ advisor.name }}</h3>
+						<p class="text-alt"><small><strong>{{ advisor.jobTitle }}</strong><br/>{{ advisor.worksFor.name }}</small></p>
+						<p class="about">{{ advisor.description | truncate: 140 }} </p>
+						<ul class="speaker-socials">
+							<li><a href="mailto:{{ advisor.email }}"><span class="fa fa-envelope"></span></a></li>
+						</ul>
+					</div>
+				</div>
+
+			{% endfor %}
+
+			</div>
+
+			<div class="row">
+
+			{% for advisor in site.data.advisors limit: 3 offset: 3 %}
+
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper rounded"><a href="{{ advisor.permalink }}"><img src="assets/img/advisors/{{ advisor.image }}" alt="{{ advisor.name }}" class="img-responsive"></a></div>
+						<h3 class="name">{{ advisor.name }}</h3>
+						<p class="text-alt"><small><strong>{{ advisor.jobTitle }}</strong><br/>{{ advisor.worksFor.name }}</small></p>
+						<p class="about">{{ advisor.description | truncate: 140 }} </p>
+						<ul class="speaker-socials">
+							<li><a href="mailto:{{ advisor.email }}"><span class="fa fa-envelope"></span></a></li>
+						</ul>
+					</div>
+				</div>
+
+			{% endfor %}
+
+			</div>
+
+			<div class="row">
+
+			{% for advisor in site.data.advisors limit: 3 offset: 6 %}
+
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper rounded"><a href="{{ advisor.permalink }}"><img src="assets/img/advisors/{{ advisor.image }}" alt="{{ advisor.name }}" class="img-responsive"></a></div>
+						<h3 class="name">{{ advisor.name }}</h3>
+						<p class="text-alt"><small><strong>{{ advisor.jobTitle }}</strong><br/>{{ advisor.worksFor.name }}</small></p>
+						<p class="about">{{ advisor.description | truncate: 140 }} </p>
+						<ul class="speaker-socials">
+							<li><a href="mailto:{{ advisor.email }}"><span class="fa fa-envelope"></span></a></li>
+						</ul>
+					</div>
+				</div>
+
+			{% endfor %}
+
+			</div>
+
+			<div class="row">
+
+			{% for advisor in site.data.advisors limit: 3 offset: 9 %}
+
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper rounded"><a href="{{ advisor.permalink }}"><img src="assets/img/advisors/{{ advisor.image }}" alt="{{ advisor.name }}" class="img-responsive"></a></div>
+						<h3 class="name">{{ advisor.name }}</h3>
+						<p class="text-alt"><small><strong>{{ advisor.jobTitle }}</strong><br/>{{ advisor.worksFor.name }}</small></p>
+						<p class="about">{{ advisor.description | truncate: 140 }} </p>
+						<ul class="speaker-socials">
+							<li><a href="mailto:{{ advisor.email }}"><span class="fa fa-envelope"></span></a></li>
+						</ul>
+					</div>
+				</div>
+
+			{% endfor %}
+
+			</div>
+
+		</div>
+	</section>
