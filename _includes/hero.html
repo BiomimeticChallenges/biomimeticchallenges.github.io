@@ -11,6 +11,19 @@
 					<a href="#register" class="btn btn-md">REGISTER</a>
 					<!--<a href="#" class="btn btn-outline btn-md" data-modal-link="0">VIDEO</a>-->
 				</div>
+				<hr/>
+				<h6>Promoter</h6>
+				<div class="sponsors">
+					{% for promoter in site.data.promoters %}
+					<div class="sponsor inline"><a href="{{promoter.permalink }}"><img src="assets/img/sponsors/{{ promoter.logo-home }}" alt=""></a></div>
+					{% endfor %}
+				</div>
+				<h6>Organizers</h6>
+				<div class="sponsors">
+					{% for organizer in site.data.organizers %}
+					<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo-home }}" alt=""></a></div>
+					{% endfor %}
+				</div>
 			</div>
 		</div>
 	</section>

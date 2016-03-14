@@ -21,14 +21,14 @@
 			<h3>Promoter</h3>
 			<div class="sponsors">
 				{% for promoter in site.data.promoters %}
-				<div class="sponsor big"><a href="{{promoter.permalink }}"><img src="assets/img/sponsors/{{ promoter.logo }}" alt=""></a></div>
+				<div class="sponsor inline"><a href="{{promoter.permalink }}"><img src="assets/img/sponsors/{{ promoter.logo }}" alt=""></a></div>
 				{% endfor %}
 			</div>
 			<hr/>
 			<h3>Organizers</h3>
 			<div class="sponsors">
 				{% for organizer in site.data.organizers %}
-				<div class="sponsor big"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo }}" alt=""></a></div>
+				<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo }}" alt=""></a></div>
 				{% endfor %}
 			</div>
 			<hr/>
