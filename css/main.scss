@@ -507,7 +507,7 @@ lesshat-selector {
   font-size: 2em;
 }
 .fa-inverse {
-  color: #ffffff;
+  color: #ffffff!important;
 }
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
@@ -5677,6 +5677,10 @@ button[type="submit"] .loading {
   padding-left: 0;
   margin-left: 0;
   list-style: none;
+}
+
+section ol, section ul {
+  list-style: inherit;
 }
 
 .inline-list li {

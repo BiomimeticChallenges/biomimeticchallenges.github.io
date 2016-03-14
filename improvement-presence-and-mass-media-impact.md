@@ -45,6 +45,8 @@ Presence
 
 The social media and the content and information online  related to the biomimetic are growing up. This reality is multiplying the number of people around the world that are taking part of the social media to  becoming this science into public  aim.
 
+![Presence: Wordliew diffusion'](/assets/img/presence-worldview-diffusion-wbcha.jpg.jpg)
+
 ### Quality Certification
 
 The emerging drive of biomimetic (biomimicry in USA) in a worldwide level has generated interest to Hanzel  Henderson, one of the most influential  evolutionary economists around the world and Janine Benyus, biologist  and who made  the biomimetic popular  during ‘90s, have created a methodology and license which identifies and recognizes the principles of biomimetic as a reversal model.  The Ethical Bio mimicry Finance™ is the brand registered that certifies an ethic positioning  towards the biomimetic future role  of progress in XXI century. [http://www.ethicalbiomimicryfinance.com/index.html](http://www.ethicalbiomimicryfinance.com/index.html)
