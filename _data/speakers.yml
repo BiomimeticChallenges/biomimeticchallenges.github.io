@@ -50,7 +50,7 @@
     name: "Triglav Circle"
     url: "http://www.triglavcircleonline.org/"
   email: "triglavcircle2001@gmail.com"
-  image: "barbara-baudot-wbcha.jpg"
+  image: "barbara-baudot-wbcha-grey.jpg"
   featured_src: bg-adv-spk-barbara-baudot-wbcha.jpg
   jobTitle: "Triglav Circle ‘s Founder and President"
   name: "Barbara Baudot"
@@ -64,9 +64,9 @@
     type: "Organization"
     name: "Tesla Motors"
     url: "https://www.teslamotors.com/"
-  image: "elon-musk-wbcha.jpg"
+  image: "elon-musk-wbcha-grey.jpg"
   featured_src: bg-adv-spk-elon-musk-wbcha.jpg
-  jobTitle: "Entrepreneur and Explorer"
+  jobTitle: "Entrepreneur and Co-founder"
   name: "Elon Musk"
   permalink: /speakers/2016/03/10/elon-musk/
   sameAs: "https://www.linkedin.com/in/emusk"
