@@ -1,0 +1,31 @@
+- context: "http://schema.org"
+  id: 00
+  type: "EducationEvent"
+  location: 
+    type: "EventVenue"
+    name: "Fira de Barcelona"
+    address: "Carrer del Comerç, 36, 08003 Barcelona"
+    googleMap: "https://www.google.cat/maps/dir//Carrer+del+Comerç,+36,+08003+Barcelona,+Espanya/"
+  name: "Data Bending: dissenyar a partir d'errades informàtiques"
+  offers: 
+    type: "Offer"
+    url: "https://inscripcions.conventagusti.com/ccivic/activitat.xml?action=obtenirActivitatIndividual&activitat=577"
+    price: "30"
+    priceCurrency: "Euro"
+    availability: "http://schema.org/InStock"
+  performer:
+    type: "Person"
+    worksFor:
+      type: "Organization"
+      name: "Global Education Magazine"
+      url: "http://worldbusiness.org/"
+    email: "info@worldbusiness.org"
+    image: "elisabeth-sahtouris-wbcha.jpg"
+    featured_src: bg-adv-spk-elisabeth-sahtouris-wbcha.jpg
+    jobTitle: "Holder of the Elisabet Sahtouris Chair in Living Economies"
+    name: "Elisabet Sahtouris"
+    sameAs: "https://www.linkedin.com/in/sahtouris"
+  startDate: "2016-06-22T17:15"
+  endDate: "2016-06-22T17:55"
+  description: 
+  featured_src: 
