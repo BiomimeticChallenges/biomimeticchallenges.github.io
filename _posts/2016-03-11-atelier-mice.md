@@ -1,6 +1,6 @@
 ---
 layout: person
-title:  "Fira de Barcelona"
+title:  "AtelierMICE"
 date:   2016-03-11 09:11:23 +0100
 category: organizers
 share: true
