@@ -15,9 +15,9 @@ og-type: article
 <div class="speaker">
 	<div class="photo-wrapper rounded"><img src="/assets/img/sponsors/{{ promoter.logo }}" alt="{{ promoter.name }}" class="img-responsive"></div>
 	<h3 class="name"><a href="{{ promoter.url }}">{{ promoter.name }}</a></h3>
-	<p class="text-alt"><small><strong>{{ promoter.jobTitle }}</strong><br/><a href="{{ promoter.worksFor.url }}" title="{{ promoter.worksFor.name }}">{{ promoter.worksFor.name }}</a></small></p>
+	<p class="text-alt"><small><strong>{{ promoter.member.member.name }}</strong><br/>{{ promoter.member.roleName }}<br/><a href="mailto:{{ promoter.member.member.email }}" title="Email to {{ promoter.member.member.name }}">{{ promoter.member.member.email }}</a></small></p>
 	<p class="about text-left">{{ promoter.description}} </p>
-	<ul class="promoter-socials">
+	<ul class="speaker-socials">
 		<li><a href="mailto:{{ promoter.email }}"><span class="fa fa-envelope"></span></a></li>
 	</ul>
 </div>

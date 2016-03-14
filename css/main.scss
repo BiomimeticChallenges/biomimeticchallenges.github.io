@@ -5682,7 +5682,9 @@ button[type="submit"] .loading {
 section ol, section ul {
   list-style: inherit;
 }
-
+.contacts-on-map ol, .contacts-on-map ul {
+  list-style-type: none;
+}
 .inline-list li {
   display: inline;
   list-style-type: none;

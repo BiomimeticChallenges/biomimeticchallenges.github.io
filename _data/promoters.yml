@@ -4,6 +4,14 @@
   url: http://www.worldbiomimetic.org/
   permalink: /promoters/2016/03/11/world-biomimetic-foundation/
   logo: logo-world-biomimetic-foundation-wbcha.jpg
+  featured_src: bg-adv-spk-world-biomimetic-foundation-wbcha.jpg
   name: "World Biomimetics Foundation"
   description: "At the World Biomimetics Foundation we have applied a distinctive twist in the processes of inspiration, creation and innovation by implementing a methodology called Biomimetics. Biomimetics frames the processes of creativity and innovation inspired by the observation of models, structures and forms of nature."
+  member:
+    type: "OrganizationRole"
+    member:
+      type: "Person"
+      name: "Daniel Fuentes"
+      email: dfuentes@worldbiomimetic.org
+    roleName: "Director WBF"
   id: 00

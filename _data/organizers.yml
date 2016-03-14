@@ -4,8 +4,16 @@
   url: http://www.firabarcelona.com/en/home
   permalink: /organizers/2016/03/11/fira-de-barcelona/
   logo: logo-fira-barcelona-wbcha.jpg
+  featured_src: bg-adv-spk-fira-barcelona-wbcha.jpg
   name: "Fira de Barcelona"
   description: "Fira de Barcelona's activity, venues, experience and leadership make it one of the most important trade fair institutions in Europe."
+  member:
+    type: "OrganizationRole"
+    member:
+      type: "Person"
+      name: "Albert Riera"
+      email: ariera@firabarcelona.com
+    roleName: "Commercial Director. Sponsorship"
   id: 00
 - context: "http://schema.org"
   type: "Organization"
@@ -13,6 +21,14 @@
   url: http://www.ateliermice.com/
   permalink: /organizers/2016/03/11/atelier-mice/
   logo: logo-atelier-mice-wbcha.jpg
+  featured_src: bg-adv-spk-atelier-mice-wbcha.jpg
   name: "AtelierMICE"
   description: "Atelier MICE is a young and dynamic company with a long track record in the industry and a great experience in organizing events, from a small meeting to large international congresses, down to the last detail for your event, have the success that He deserves."
+  member:
+    type: "OrganizationRole"
+    member:
+      type: "Person"
+      name: "Tommy Gil"
+      email: tommygil@ateliermice.com
+    roleName: "Organization of Awards and Inscriptions"
   id: 01

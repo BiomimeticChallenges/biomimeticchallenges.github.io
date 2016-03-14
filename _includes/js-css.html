@@ -14,15 +14,15 @@
     "@type": "{{ speaker.type }}",
     "worksFor": {
       "type": "{{ speaker.worksFor.type }}",
-      "name: "{{ speaker.worksFor.name }}",
-      "url: "{{ speaker.worksFor.url }}"
+      "name": "{{ speaker.worksFor.name }}",
+      "url": "{{ speaker.worksFor.url }}"
     }
     "email": "{{ speaker.email }}",
     "image": "{{ speaker.image }}",
-    "jobTitle: "{{ speaker.jobTitle }}",
-    "name: "{{ speaker.name }}",
-    "sameAs: "{{ speaker.sameAs }}",
-    "description: "{{ speaker.description }}"  
+    "jobTitle": "{{ speaker.jobTitle }}",
+    "name": "{{ speaker.name }}",
+    "sameAs": "{{ speaker.sameAs }}",
+    "description": "{{ speaker.description }}"  
   }
   </script>
 {% endif %}
@@ -36,18 +36,101 @@
     "@type": "{{ advisor.type }}",
     "worksFor": {
       "type": "{{ advisor.worksFor.type }}",
-      "name: "{{ advisor.worksFor.name }}",
-      "url: "{{ advisor.worksFor.url }}"
+      "name": "{{ advisor.worksFor.name }}",
+      "url": "{{ advisor.worksFor.url }}"
     }
     "email": "{{ advisor.email }}",
     "image": "{{ advisor.image }}",
-    "jobTitle: "{{ advisor.jobTitle }}",
-    "name: "{{ advisor.name }}",
-    "sameAs: "{{ advisor.sameAs }}",
-    "description: "{{ advisor.description }}"  
+    "jobTitle": "{{ advisor.jobTitle }}",
+    "name": "{{ advisor.name }}",
+    "sameAs": "{{ advisor.sameAs }}",
+    "description": "{{ advisor.description }}"  
   }
   </script>
 {% endif %}
+
+{% if page.class == 'promoters' %}
+  {% assign promoter_data = site.data.promoters | where:"id", page.promoter %}
+  {% assign promoter = promoter_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "{{ promoter.context }}",
+    "@type": "{{ promoter.type }}",
+    "email": "{{ promoter.email }}",
+    "url": "{{ promoter.url }}",
+    "logo": "{{ site.url }}/img/assets/sponsors/{{ promoter.logo }}",
+    "name": "{{ promoter.name }}",
+    "description": "{{ promoter.description }}",
+    "member": {
+      "@type": "{{ promoter.member.type }}",
+      "member": {
+        "@type": "{{ promoter.member.member.type }}",
+        "name": "{{ promoter.member.member.name }}",
+        "email": "{{ promoter.member.member.email }}"
+      },
+      "roleName": "{{ promoter.member.roleName }}"
+    }  
+  }
+  </script>
+{% endif %}
+
+{% if page.class == 'organizers' %}
+  {% assign organizer_data = site.data.organizers | where:"id", page.organizer %}
+  {% assign organizer = organizer_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "{{ organizer.context }}",
+    "@type": "{{ organizer.type }}",
+    "email": "{{ organizer.email }}",
+    "url": "{{ organizer.url }}",
+    "logo": "{{ site.url }}/img/assets/sponsors/{{ organizer.logo }}",
+    "name": "{{ organizer.name }}",
+    "description": "{{ organizer.description }}",
+    "member": {
+      "@type": "{{ organizer.member.type }}",
+      "member": {
+        "@type": "{{ organizer.member.member.type }}",
+        "name": "{{ organizer.member.member.name }}",
+        "email": "{{ organizer.member.member.email }}"
+      },
+      "roleName": "{{ organizer.member.roleName }}"
+    }  
+  }
+  </script>
+{% endif %}
+
+{% if page.class == 'collaborators' %}
+  {% assign collaborator_data = site.data.collaborators | where:"id", page.collaborator %}
+  {% assign collaborator = collaborator_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "{{ collaborator.context }}",
+    "@type": "{{ collaborator.type }}",
+    "email": "{{ collaborator.email }}",
+    "url": "{{ collaborator.url }}",
+    "logo": "{{ site.url }}/img/assets/sponsors/{{ collaborator.logo }}",
+    "name": "{{ collaborator.name }}",
+    "description": "{{ collaborator.description }}"
+  }
+  </script>
+{% endif %}
+
+{% if page.class == 'partners' %}
+  {% assign partner_data = site.data.partners | where:"id", page.partner %}
+  {% assign partner = partner_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "{{ partner.context }}",
+    "@type": "{{ partner.type }}",
+    "email": "{{ partner.email }}",
+    "url": "{{ partner.url }}",
+    "logo": "{{ site.url }}/img/assets/sponsors/{{ partner.logo }}",
+    "name": "{{ partner.name }}",
+    "description": "{{ partner.description }}"
+  }
+  </script>
+{% endif %}
+
 
 {% if page.class == 'videos' %}
   {% assign video_data = site.data.videos | where:"id", page.video %}

@@ -47,6 +47,58 @@
           <meta name="twitter:description" content="{{ advisor.description | strip_html | strip_newlines | truncate: 160 }}">
           <meta name="twitter:image:src" content="{{ site.url }}/assets/img/advisors/{{ speaker.featured_src }}">
       {% endif %}
+      {% if page.category == 'promoters' %}
+          {% assign promoter_data = site.data.promoters | where:"id", page.promoter %}
+          {% assign promoter = promoter_data | first %}
+          <meta property="og:image" content="{{ site.url }}/assets/img/sponsors/{{ promoter.featured_src }}" />
+          <meta property="og:description" content="{{ promoter.description | strip_html | strip_newlines | truncate: 160 }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:description" content="{{ promoter.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}/assets/img/sponsors/{{ speaker.featured_src }}">
+      {% endif %}
+      {% if page.category == 'organizers' %}
+          {% assign organizer_data = site.data.organizers | where:"id", page.organizer %}
+          {% assign organizer = organizer_data | first %}
+          <meta property="og:image" content="{{ site.url }}/assets/img/sponsors/{{ organizer.featured_src }}" />
+          <meta property="og:description" content="{{ organizer.description | strip_html | strip_newlines | truncate: 160 }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:description" content="{{ organizer.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}/assets/img/sponsors/{{ speaker.featured_src }}">
+      {% endif %}
+      {% if page.category == 'collaborators' %}
+          {% assign collaborator_data = site.data.collaborators | where:"id", page.collaborator %}
+          {% assign collaborator = collaborator_data | first %}
+          <meta property="og:image" content="{{ site.url }}/assets/img/sponsors/{{ collaborator.featured_src }}" />
+          <meta property="og:description" content="{{ collaborator.description | strip_html | strip_newlines | truncate: 160 }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:description" content="{{ collaborator.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}/assets/img/sponsors/{{ speaker.featured_src }}">
+      {% endif %}
+      {% if page.category == 'partners' %}
+          {% assign partner_data = site.data.partners | where:"id", page.partner %}
+          {% assign partner = partner_data | first %}
+          <meta property="og:image" content="{{ site.url }}/assets/img/sponsors/{{ partner.featured_src }}" />
+          <meta property="og:description" content="{{ partner.description | strip_html | strip_newlines | truncate: 160 }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:description" content="{{ partner.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}/assets/img/sponsors/{{ speaker.featured_src }}">
+      {% endif %}
       {% if page.category == 'place' %}
           {% assign place_data = site.data.places | where:"id", page.place %}
           {% assign place = place_data | first %}
