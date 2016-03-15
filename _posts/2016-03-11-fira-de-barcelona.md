@@ -13,7 +13,7 @@ og-type: article
 {% assign organizer_data = site.data.organizers | where:"id", page.organizer %}
 {% assign organizer = organizer_data | first %}
 <div class="speaker">
-	<div class="photo-wrapper rounded"><img src="/assets/img/sponsors/{{ organizer.logo }}" alt="{{ organizer.name }}" class="img-responsive"></div>
+	<div class="photo-wrapper"><img src="/assets/img/sponsors/{{ organizer.logo }}" alt="{{ organizer.name }}" class="img-responsive"></div>
 	<ul class="speaker-socials">
 		<li><a href="mailto:{{ organizer.email }}"><span class="fa fa-envelope"></span></a></li>
 	</ul>

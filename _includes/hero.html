@@ -7,11 +7,6 @@
 				<h5 class="heading-alt" style="margin-bottom: 8px;"><span class="fa fa-calendar-o base-clr-txt"></span>{{ site.date }}<span class="fa fa-map-marker base-clr-txt" style="margin-left: 14px;"></span>{{ site.location }}</h5>
 				<h1 class="extra-heading"><img src="assets/img/logo-wolrd-biomimetic-challenges-and-awards-home.png"></h1>
 				<h6 class="thin base-font"><strong>{{ site.subtitle }}</strong><br/>{{ site.tsgline }}</h6>
-				<div class="btns-container">
-					<a href="#register" class="btn btn-md">REGISTER</a>
-					<!--<a href="#" class="btn btn-outline btn-md" data-modal-link="0">VIDEO</a>-->
-				</div>
-				<hr/>
 				<h6>Promoter</h6>
 				<div class="sponsors">
 					{% for promoter in site.data.promoters %}
@@ -23,6 +18,11 @@
 					{% for organizer in site.data.organizers %}
 					<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo-home }}" alt=""></a></div>
 					{% endfor %}
+				</div>
+				<hr/>
+				<div class="btns-container">
+					<a href="#register" class="btn btn-md">REGISTER</a>
+					<!--<a href="#" class="btn btn-outline btn-md" data-modal-link="0">VIDEO</a>-->
 				</div>
 			</div>
 		</div>

@@ -7,13 +7,17 @@ og: true
 class: ""
 ---
 
+Piece of information from:“Bioinspiration: An Economic Progress Report”  created by Fermanian Business & Economic Institute. November.2013 http://www.pointloma.edu/sites/default/files/filemanager/Fermanian_Business__Economic_Institute/Economic_Reports/BioReport13.FINAL.sm.pdf
+
+
+
 Improvement
 -----
 
 ### World's Expansion
 
 After analyzing the published articles in magazines of investigation, it demonstrates a worldwide spreading of bio mimicry. In 2012, USA represented 25% from the articles published and in China was roughly 23%.
-Professors and Scientifics around the world are strongly involved in researches related to biomimetic. It is included: Europe ( Germany, UK, Italy, Spain and France), Japan, South Korea, India, among others. The international study related to biomimetic is at the present focused on areas related to science materials and  chemicals.  Currently, it is as well on nanotechnology, engineering, architecture, biotechnology and robotics.
+Professors and Scientifics around the world are strongly involved in researches related to biomimetic. It is included: Europe (Germany, UK, Italy, Spain and France), Japan, South Korea, India, among others. The international study related to biomimetic is at the present focused on areas related to science materials and  chemicals.  Currently, it is as well on nanotechnology, engineering, architecture, biotechnology and robotics.
 
 ### Other Expansion Dimensions
 
