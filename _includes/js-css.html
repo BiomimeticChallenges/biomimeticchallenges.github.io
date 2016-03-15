@@ -154,3 +154,36 @@
   }  
   </script>
 {% endif %}
+
+{% if page.class == 'conferences' %}
+  {% assign conference_data = site.data.conferences | where:"id", page.conference %}
+  {% assign conference = conference_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "{{ conference.context }}",
+    "@type": "{{ conference.type }}",
+    "location": {
+      "@type": "{{ conference.location.type }}",
+      "name": "{{ conference.location.name }}",
+      "address": "{{ conference.location.address }}"
+    },
+    "name": "{{ conference.name }}",
+    "offers": {
+      "@type": "{{ conference.offers.type }}",
+      "url": "{{ conference.offers.url }}",
+      "price": "{{ conference.offers.price }}",
+      "priceCurrency": "{{ conference.offers.priceCurrency }}",
+      "availability": "{{ conference.offers.availability }}"
+    },
+    "performer": {
+      "@type": "{{ conference.performer.type }}",
+      "jobTitle": "{{ conference.performer.jobTitle }}",
+      "name": "{{ conference.performer.name }}",
+      "sameAs": "{{ conference.performer.sameAs }}"
+     },
+    "startDate": "{{ conference.startDate }}",
+    "endDate": "{{ conference.endDate }}",
+    "description": "{{ conference.description }}"
+  }
+  </script>
+{% endif %}

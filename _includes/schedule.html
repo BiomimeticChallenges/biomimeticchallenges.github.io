@@ -65,7 +65,7 @@
 									<!-- Lecture start -->
 									<div class="panel schedule-item">
 										<div class="lecture-icon-wrapper">
-											<img src="assets/img/speakers/{{ conference.performer.image }}" alt="" class="img-responsive">
+											<a href="{{ conference.permalink }}"><img src="assets/img/speakers/{{ conference.performer.image }}" alt="" class="img-responsive"></a>
 										</div>
 										<a data-toggle="collapse" data-parent="#day1_auditorium1_timeline" href="#day1_auditorium1_{{ conference.id }}" class="schedule-item-toggle collapsed">
 											<strong class="time highlight"><span class="icon icon-office-24"></span>{{ conference.startDate | date: "%-H:%M"  }}</strong>
