@@ -2417,6 +2417,15 @@ article.small {
   line-height: 25px;
   color: #babfcc;
 }
+article.post h1, article.post h2 {
+  text-align: center;
+}
+article.post blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    border-left: 5px solid #eee;
+}
 strong {
   display: inline-block;
   font-weight: 700;
@@ -5679,8 +5688,11 @@ button[type="submit"] .loading {
   list-style: none;
 }
 
-section ol, section ul {
+section ol, section ul, article.post ul {
   list-style: inherit;
+}
+article.post ol{
+  list-style-type: decimal;
 }
 
 section#prices ol, section#prices ul {

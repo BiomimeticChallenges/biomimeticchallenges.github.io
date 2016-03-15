@@ -7,7 +7,10 @@ og: true
 class: ""
 ---
 
-Piece of information from:“Bioinspiration: An Economic Progress Report”  created by Fermanian Business & Economic Institute. November.2013 http://www.pointloma.edu/sites/default/files/filemanager/Fermanian_Business__Economic_Institute/Economic_Reports/BioReport13.FINAL.sm.pdf
+<blockquote>
+	<p>Piece of information from:'Bioinspiration: An Economic Progress Report'</p>
+	<footer><cite>created by <a href="http://www.pointloma.edu/sites/default/files/filemanager/Fermanian_Business__Economic_Institute/Economic_Reports/BioReport13.FINAL.sm.pdf" title="Bioinspiration: An Economic Progress Report">Fermanian Business & Economic Institute. November.2013</a></cite></footer>
+</blockquote>
 
 
 
