@@ -7368,18 +7368,27 @@ section#prices ol, section#prices ul {
 ---------------------------------------------------------------------------- */
 .bg1 {
   background-image: url("../assets/img/backgrounds/bg1.jpg");
+  background-size: cover;
 }
 .bg2 {
   background-image: url("../assets/img/backgrounds/bg2.jpg");
+  background-size: cover;
+}
 }
 .bg3 {
   background-image: url("../assets/img/backgrounds/bg3.jpg");
+  background-size: cover;
+}
 }
 .bg4 {
   background-image: url("../assets/img/backgrounds/bg4.jpg");
+  background-size: cover;
+}
 }
 .bg5 {
   background-image: url("../assets/img/backgrounds/bg5.jpg");
+  background-size: cover;
+}
 }
 .bg1.overlay:before {
   opacity: 0.9;
