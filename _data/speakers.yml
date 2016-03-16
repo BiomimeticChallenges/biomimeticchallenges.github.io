@@ -32,7 +32,7 @@
   type: "Person"
   worksFor:
     type: "Organization"
-    name: "Global Education Magazine"
+    name: "World Business Academy"
     url: "http://worldbusiness.org/"
   email: "info@worldbusiness.org"
   image: "elisabeth-sahtouris-wbcha.jpg"
