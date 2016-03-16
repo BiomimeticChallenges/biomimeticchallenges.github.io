@@ -4,6 +4,7 @@ title: "Selection and Presentation Criteria of Awards"
 permalink: /selection-criteria-and-presentation-criteria/
 share: true
 og: true
+og-type: article
 class: ""
 ---
 

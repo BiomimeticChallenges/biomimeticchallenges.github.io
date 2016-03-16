@@ -4,6 +4,7 @@ title: "Improvement, Presence and Impact Through the Media"
 permalink: /improvement-presence-and-mass-media-impact/
 share: true
 og: true
+og-type: article
 class: ""
 ---
 

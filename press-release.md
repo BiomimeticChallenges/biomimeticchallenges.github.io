@@ -4,6 +4,7 @@ title: "Press Release"
 permalink: /press-release/
 share: true
 og: true
+og-type: article
 class: ""
 ---
 
