@@ -1,0 +1,89 @@
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "Point Loma Nazarene University"
+    url: "http://www.pointloma.edu/"
+  email: "LynnReaser@pointloma.edu"
+  image: "lynn-reaser-wbcha.jpg"
+  featured_src: bg-adv-spk-lynn-reaser-wbcha.jpg
+  jobTitle: "Economist of Fermanian Business & Economic Institute"
+  name: "Lynn Reaser"
+  sameAs: "https://www.linkedin.com/in/lynn-reaser-b0534b13"
+  permalink: /advisors/2016/03/11/lynn-reaser/
+  description: "Professional economist with extensive experience in the financial services sector. Ability to translate complex economic issues into understandable language with relevant and actionable implications. Skilled at analyzing economic data, modeling, and forecasting. Superior writing and speaking talents. Strong interpersonal attributes with associates and clients."
+  id: 07
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "MedPAN"
+    url: "http://www.medpan.org/en/home"
+  email: "pcanals@tinet.org"
+  image: "puri-canals-wbcha.jpg"
+  featured_src: bg-adv-spk-puri-canals-wbcha.jpg
+  jobTitle: "President of MedPAN"
+  name: "Puri Canals"
+  sameAs: "https://www.linkedin.com/in/puri-canals-616a146a"
+  permalink: /advisors/2016/03/11/puri-canals/
+  description: "President of MEDPAN. Lecturer associated to Physiology, at Rovira i Virgili University. She was Vice-president of UICN (International Union for The nature conservation) between 2000-2008. Depana member. She was President of Iberic Committee for the Nature Defense and Vice-president of Environment Comittee for Barcelona Council. Advisory Committee member for the sustainable Development (CADS).  EUROSITE committee member, Netherlands"
+  id: 08
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "Autonomous University of Barcelona"
+    url: "http://www.uab.cat/"
+  email: "info@martiboada.cat"
+  image: "marti-boada-wbcha.jpg"
+  featured_src: bg-adv-spk-marti-boada-wbcha.jpg
+  jobTitle: "Professor"
+  name: "Martí Boada"
+  sameAs: "http://martiboada.cat/"
+  permalink: /advisors/2016/03/11/marti-boada/
+  description: "Doctor of environmental Sciences. Scientific geographer. Professor at Autonomous University  of Barcelona, where carries out investigation and teaching at Science and  Environmental Technology  Institute (ICTA)  and at the Geography  Department, in the same University. Spanish Committee Member of  PNUMA (Program from United Nations for the Environment).  Member at Global  Forum 500  of United Nations,  institution that gave him the Global 500  Award, delivered  by Nelson Mandela in 1995. Visitant  Professor at  University of  California (USA), Santa Barbara  Campus,  as well at University of Talca (Chile) and at  University of Missoula (Montana, USA)."
+  id: 09
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "International Vegetal Neurobiology Laboratory, University of Florence"
+    url: "http://www.linv.org/"
+  email: stefano.mancusochiocciolaunifi.it
+  image: "stefano-mancuso-wbcha.jpg"
+  featured_src: bg-adv-spk-stefano-mancuso-wbcha.jpg
+  jobTitle: "Professor and Director"
+  name: "Stefano Mancuso"
+  sameAs: "https://scholar.google.com/citations?user=l3wMLRoAAAAJ&hl=en"
+  permalink: /advisors/2016/03/11/stefano-mancuso/
+  description: "One of the maximum world authorities of the vegetal neurobiology. He brings to light that technology has a similar structure to the roots net of the plant, and it has to be studied the structure of this natural nets to inspire possible technologic developments. Author of more than 250 scientific articles in international magazines. He exposes that plants has an intelligence and that owns up to  15 different senses. Author of «Sensibility and intelligence in the vegetable world»."
+  id: 10
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "HS Rhein-Waal"
+    url: "http://www.hochschule-rhein-waal.de/en"
+  image: "julian-vincent-wbcha.jpg"
+  featured_src: bg-adv-spk-julian-vincent-wbcha.jpg
+  jobTitle: "Honorary Professor"
+  name: "Julian Vincent"
+  sameAs: "https://www.linkedin.com/in/julian-vincent-a44496"
+  permalink: /advisors/2016/03/11/julian-vincent/
+  description: "Julian Vincent took the newly-created Chair in Biomimetics in the Department of Mechanical Engineering at the University of Bath in October 2000. His MA (zoology) was from Cambridge; his PhD (insect hormones) and DSc (insect cuticle) were from Sheffield. He spent most of his research career in the Zoology Department at the University of Reading, studying the mechanical design of organisms and working out ways in which aspects of the design can be used in technology."
+  id: 11
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "University of the Arts London"
+    url: "http://www.arts.ac.uk/"
+  email: h.barnett@csm.arts.ac.uk
+  image: "heather-barnett-wbcha-grey.jpg"
+  featured_src: bg-adv-spk-heather-barnett-wbcha.jpg
+  jobTitle: "Artist and Researcher"
+  name: "Heather Barnett"
+  sameAs: "http://heatherbarnett.co.uk/"
+  permalink: /advisors/2016/03/11/heather-barnett/
+  description: "Founder of  The Slime Mould Collective.  She works in the art, science, technology intersections, and  usually in collaboration with Scientifics, artists and organizations. She uses image technologies and biologic systems to  make projects that include microbial images and cell screens.  Author of the experiment «Nodes Networks». A experimental project that explores the biologic systems as a social model and collective intelligence. A biomimetic project co-driven by the University of Columbia (New York) that includes writers, architects and Scientifics of the biophysics, neuroscience or ecology."
+  id: 12
