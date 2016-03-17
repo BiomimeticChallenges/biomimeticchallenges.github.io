@@ -2338,10 +2338,11 @@ h6 {
   letter-spacing: 0.02em;
 }
 .extra-heading {
-  margin: 0 0 8px;
+  margin: 0;
   font-size: 132px;
   text-transform: uppercase;
   letter-spacing: 0;
+  padding:0;
 }
 h1,
 h2,
@@ -2903,7 +2904,7 @@ li {
   min-height: 100%;
 }
 .heading-block {
-  padding: 100px 0;
+  padding: 90px 0;
 }
 .hero-heading-top,
 .hero-heading-bottom {
@@ -2972,7 +2973,7 @@ li {
     padding-bottom: 20px;
   }
   .heading-block {
-    padding: 54px 0;
+    padding: 49px 0;
   }
   .hero-heading-top {
     top: 30px;
@@ -7374,21 +7375,17 @@ section#prices ol, section#prices ul {
   background-image: url("../assets/img/backgrounds/bg2.jpg");
   background-size: cover;
 }
-}
 .bg3 {
   background-image: url("../assets/img/backgrounds/bg3.jpg");
   background-size: cover;
-}
 }
 .bg4 {
   background-image: url("../assets/img/backgrounds/bg4.jpg");
   background-size: cover;
 }
-}
 .bg5 {
   background-image: url("../assets/img/backgrounds/bg5.jpg");
   background-size: cover;
-}
 }
 .bg1.overlay:before {
   opacity: 0.9;

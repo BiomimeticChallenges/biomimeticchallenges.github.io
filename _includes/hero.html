@@ -8,17 +8,21 @@
 				<h1 class="extra-heading"><img src="assets/img/logo-wolrd-biomimetic-challenges-and-awards-home.png"></h1>
 				<h6 class="thin base-font"><strong>{{ site.subtitle }}</strong><br/>{{ site.tsgline }}</h6>
 				<hr/>
-				<h6>Promoter</h6>
 				<div class="sponsors">
-					{% for promoter in site.data.promoters %}
-					<div class="sponsor inline"><a href="{{promoter.permalink }}"><img src="assets/img/sponsors/{{ promoter.logo-home }}" alt=""></a></div>
-					{% endfor %}
-				</div>
-				<h6>Organizers</h6>
-				<div class="sponsors">
-					{% for organizer in site.data.organizers %}
-					<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo-home }}" alt=""></a></div>
-					{% endfor %}
+					<div class="row">
+						<div class="col-md-4">
+							<h6>Promoter</h6>
+							{% for promoter in site.data.promoters %}
+							<div class="sponsor inline"><a href="{{promoter.permalink }}"><img src="assets/img/sponsors/{{ promoter.logo-home }}" alt=""></a></div>
+							{% endfor %}
+						</div>
+						<div class="col-md-8">
+							<h6>Organizers</h6>
+							{% for organizer in site.data.organizers %}
+							<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo-home }}" alt=""></a></div>
+							{% endfor %}
+						</div>
+					</div>
 				</div>
 				<hr/>
 				<div class="btns-container">
