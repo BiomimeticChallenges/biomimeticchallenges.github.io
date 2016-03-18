@@ -3,7 +3,7 @@
 			<span class="icon section-icon icon-office-21"></span>
 			<h3>Programme</h3>
 			<h6>Conferences: 'Biomimetics, a new cosmovision'</h6>
-			<p class="text-alt">June, 22th 2016<br/> at <span class="highlight">Fira Barcelona Gran Via</span></p>
+			<p class="text-alt">June, 22th 2016<br/> at <span class="highlight">Fira Barcelona</span></p>
 			<br />
 			<br />
 
@@ -24,7 +24,7 @@
 
 						<!-- Navigation by auditorium start -->
 						<ul class="nav nav-schedule">
-							<li class="active"><a href="#day1_auditorium1" data-toggle="tab">Auditorium</a></li>
+							<li class="active"><a href="#day1_auditorium1" data-toggle="tab">Pavillion 8</a></li>
 						</ul>
 						<!-- Navigation by auditorium start -->
 
@@ -38,7 +38,7 @@
 								<div class="panel-group" id="day1_auditorium1_timeline">
 
 									<!-- Lecture start -->
-									<div class="panel schedule-item">
+									<!-- <div class="panel schedule-item">
 										<div class="lecture-icon-wrapper">
 											<span class="fa fa-calendar"></span>
 										</div>
@@ -46,11 +46,11 @@
 											<strong class="time highlight"><span class="icon icon-office-24"></span>16:30</strong>
 											<h6 class="title">Reception<i class="icon icon-arrows-06"></i></h6>
 										</a>
-									</div>
+									</div> -->
 									<!-- Lecture end -->
 
 									<!-- Lecture start -->
-									<div class="panel schedule-item">
+									<!-- <div class="panel schedule-item">
 										<div class="lecture-icon-wrapper">
 											<span class="fa fa-calendar"></span>
 										</div>
@@ -58,7 +58,7 @@
 											<strong class="time highlight"><span class="icon icon-office-24"></span>17:00</strong>
 											<h6 class="title">Welcome by Speech<i class="icon icon-arrows-06"></i></h6>
 										</a>
-									</div>
+									</div> -->
 									<!-- Lecture end -->
 
 									{% for conference in site.data.conferences %}
@@ -73,7 +73,7 @@
 										</a>
 										<div id="day1_auditorium1_{{ conference.id }}" class="panel-collapse collapse schedule-item-body">
 											<article>
-												<strong class="highlight speaker-name">{{ conference.performer.name }}</strong>
+												<a href="{{ conference.permalink }}"><strong class="highlight speaker-name">{{ conference.performer.name }}</strong></a>
 											</article>
 										</div>
 									</div>
@@ -81,7 +81,7 @@
 									{% endfor %}
 
 									<!-- Lecture start -->
-									<div class="panel schedule-item">
+									<!-- <div class="panel schedule-item">
 										<div class="lecture-icon-wrapper">
 											<span class="fa fa-calendar"></span>
 										</div>
@@ -89,11 +89,11 @@
 											<strong class="time highlight"><span class="icon icon-office-24"></span>19:15</strong>
 											<h6 class="title">Questions and answers<i class="icon icon-arrows-06"></i></h6>
 										</a>
-									</div>
+									</div> -->
 									<!-- Lecture end -->
 
 									<!-- Lecture start -->
-									<div class="panel schedule-item">
+									<!-- <div class="panel schedule-item">
 										<div class="lecture-icon-wrapper">
 											<span class="fa fa-calendar"></span>
 										</div>
@@ -101,11 +101,11 @@
 											<strong class="time highlight"><span class="icon icon-office-24"></span>19:30</strong>
 											<h6 class="title">Recognition anb voting the Final Projects<i class="icon icon-arrows-06"></i></h6>
 										</a>
-									</div>
+									</div> -->
 									<!-- Lecture end -->
 
 									<!-- Lecture start -->
-									<div class="panel schedule-item">
+									<!-- <div class="panel schedule-item">
 										<div class="lecture-icon-wrapper">
 											<span class="fa fa-calendar"></span>
 										</div>
@@ -113,7 +113,7 @@
 											<strong class="time highlight"><span class="icon icon-office-24"></span>20:00</strong>
 											<h6 class="title">Clousure<i class="icon icon-arrows-06"></i></h6>
 										</a>
-									</div>
+									</div> -->
 									<!-- Lecture end -->
 
 									<!-- Lecture start -->
