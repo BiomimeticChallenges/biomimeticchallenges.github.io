@@ -7387,6 +7387,10 @@ section#prices ol, section#prices ul {
   background-image: url("../assets/img/backgrounds/bg5.jpg");
   background-size: cover;
 }
+.bg11 {
+  background-image: url("../assets/img/backgrounds/bg11.jpg");
+  background-size: cover;
+}
 .bg1.overlay:before {
   opacity: 0.9;
 }
@@ -7394,7 +7398,7 @@ section#prices ol, section#prices ul {
   background-color: #282f43;
   opacity: 0.85;
 }
-.bg5.overlay:before {
+.bg5.overlay:before, .bg11.overlay:before {
   background-color: #003B4F;
   opacity: 0.7;
 }
