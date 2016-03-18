@@ -91,14 +91,14 @@
   type: "Person"
   worksFor:
     type: "Organization"
-    name: "Zoubeir Azouz Architecture"
+    name: "ZAA-architects office"
     url: "http://zaa.archi/"
   email: hello@zaa.archi
   image: "zoubeir-azouz-wbcha.jpg"
   featured_src: bg-adv-spk-zoubeir-azouz-wbcha.jpg
-  jobTitle: "Architect"
+  jobTitle: "Principal of ZAA-architects office"
   name: "Zoubeir Azouz"
   sameAs: "https://www.linkedin.com/in/zoubeir-azouz-2097a957"
   permalink: /advisors/2016/03/11/zoubeir-azouz/
-  description: "Architect. Among his completed projects we can find: Landmark Hotel (Amman), Ramezay (Westmount), Saint Maurice (Montréal), Parthenais (Montréal) and Quai des Célestins (Paris)."
+  description: "Architect and researcher based in Montreal (Canada) having developed large-scale international projects and knowledge in optimizing complex geometry shapes inspired by nature. Professional practice and research led him to explore the use of Biomimicry principles applied to the fields of Architecture."
   id: 06
