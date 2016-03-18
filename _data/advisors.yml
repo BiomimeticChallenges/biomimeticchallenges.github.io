@@ -46,16 +46,16 @@
   type: "Person"
   worksFor:
     type: "Organization"
-    name: "University of Canberra, Designers Institute of Australia"
+    name: "Faculty of Arts & Design, University of Canberra, Australia"
     url: "http://www.arts.ac.uk/"
   email: Carlos.Montana.Hoyos@canberra.edu.au
   image: "carlos-montana-wbcha-grey.jpg"
   featured_src: bg-adv-spk-carlos-montana-wbcha.jpg
-  jobTitle: "Associate Professor & Course Convenor"
+  jobTitle: "Associate Professor. Industrial Design"
   name: "Carlos Alberto Montana Hoyos"
   sameAs: "https://www.linkedin.com/in/carlos-alberto-montana-hoyos-359b6523"
   permalink: /advisors/2016/03/11/carlos-montana/
-  description: "Primary Areas: Design, Architecture & Planning, Environment. Expertise: Industrial Design; Product Design; Ecodesign; Design for Sustainability, Biomimetics; Bio-Inspired Design; Design Management; Branding; Innovation; Creativity; Strategic Design; Design Thinking; Cradle to Cradle; Industrial Ecology; Design for Environment; Life Cycle Assessment; Professional and academic experience in Colombia, Italy, Japan, Singapore and Australia. Keynote speaker, jury, external reviewer and consultant for design related academic & industrial projects. Researcher and graduate supervisor."
+  description: "Primary Areas: Design.  Expertise: Industrial Design; Product Design; Ecodesign; Design for Sustainability; Bio-Inspired Design; Design Management; Branding; Innovation; Creativity; Strategic Design; Design Thinking; Professional and academic experience in Colombia, Italy, Japan, Singapore and Australia. Keynote speaker, jury, external reviewer and consultant for design related academic & industrial projects. Researcher and graduate supervisor."
   id: 03
 - context: "http://schema.org"
   type: "Person"
