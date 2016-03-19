@@ -2,16 +2,16 @@
   type: "Person"
   worksFor:
     type: "Organization"
-    name: "Point Loma Nazarene University"
-    url: "http://www.pointloma.edu/"
-  email: "LynnReaser@pointloma.edu"
-  image: "lynn-reaser-wbcha.jpg"
-  featured_src: bg-adv-spk-lynn-reaser-wbcha.jpg
-  jobTitle: "Economist of Fermanian Business & Economic Institute"
-  name: "Lynn Reaser"
-  sameAs: "https://www.linkedin.com/in/lynn-reaser-b0534b13"
-  permalink: /speakers/2016/03/10/lynn-reaser/
-  description: "Professional economist with extensive experience in the financial services sector. Ability to translate complex economic issues into understandable language with relevant and actionable implications. Skilled at analyzing economic data, modeling, and forecasting. Superior writing and speaking talents. Strong interpersonal attributes with associates and clients."
+    name: "Erasmus University Rotterdam, Department of Business Economics"
+    url: "http://www.eur.nl/ese/english/departments/department_of_business_economics/"
+  email: "hofstra@ese.eur.nl"
+  image: "nel-hofstra-wbcha.jpg"
+  featured_src: bg-adv-spk-nel-hofstra-wbcha.jpg
+  jobTitle: "Professor of Business Marketing"
+  name: "Nel Hofstra"
+  sameAs: "http://www.eur.nl/ese/english/departments/department_of_business_economics/staff/faculty/profiel_mis/7761/"
+  permalink: /speakers/2016/03/10/nel-hofstra/
+  description: "Entrepreneurship and Trade & Sustainable Society. Member of the Ethic  Business Group  from CEMS Faculty. Global Alliance for Management Education.  Her Research includes  ecologic innovations with the business Spirit, focusing on the environment function Concept. Member of SPES Institute (Spiritually in economics and society)."
   id: 00
 - context: "http://schema.org"
   type: "Person"

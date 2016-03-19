@@ -1,6 +1,6 @@
 ---
 layout: person
-title:  "Conference WBChA: Lynn Reaser"
+title:  "Conference WBChA: Nel Hofstra"
 date:   2016-03-11 09:11:23 +0100
 category: conferences
 share: true

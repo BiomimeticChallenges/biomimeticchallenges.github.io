@@ -4,8 +4,8 @@
   location: 
     type: "EventVenue"
     name: "Fira de Barcelona"
-    address: "Carrer del Comerç, 36, 08003 Barcelona"
-    googleMap: "https://www.google.cat/maps/dir//Avinguda+Joan+Carles+I,+64,+08908+L'Hospitalet+de+Llobregat,+Barcelona/"
+    address: "Avinguda de la Reina Maria Cristina, s/n, 08004 Barcelona"
+    googleMap: "https://www.google.es/maps/dir//Fira+de+Barcelona,+Avinguda+de+la+Reina+Maria+Cristina,+s%2Fn,+08004+Barcelona,+Espanya/"
   name: "Biomimetic: A cosmovision Bioinspired (final title to be confirmed soon)"
   offers: 
     type: "Offer"
@@ -36,8 +36,8 @@
   location: 
     type: "EventVenue"
     name: "Fira de Barcelona"
-    address: "Carrer del Comerç, 36, 08003 Barcelona"
-    googleMap: "https://www.google.cat/maps/dir//Avinguda+Joan+Carles+I,+64,+08908+L'Hospitalet+de+Llobregat,+Barcelona/"
+    address: "Avinguda de la Reina Maria Cristina, s/n, 08004 Barcelona"
+    googleMap: "https://www.google.es/maps/dir//Fira+de+Barcelona,+Avinguda+de+la+Reina+Maria+Cristina,+s%2Fn,+08004+Barcelona,+Espanya/"
   name: "Biomimetic: A cosmovision Bioinspired (final title to be confirmed soon)"
   offers: 
     type: "Offer"
@@ -68,8 +68,8 @@
   location: 
     type: "EventVenue"
     name: "Fira de Barcelona"
-    address: "Carrer del Comerç, 36, 08003 Barcelona"
-    googleMap: "https://www.google.cat/maps/dir//Avinguda+Joan+Carles+I,+64,+08908+L'Hospitalet+de+Llobregat,+Barcelona/"
+    address: "Avinguda de la Reina Maria Cristina, s/n, 08004 Barcelona"
+    googleMap: "https://www.google.es/maps/dir//Fira+de+Barcelona,+Avinguda+de+la+Reina+Maria+Cristina,+s%2Fn,+08004+Barcelona,+Espanya/"
   name: "Biomimetic: A cosmovision Bioinspired (final title to be confirmed soon)"
   offers: 
     type: "Offer"
@@ -81,16 +81,16 @@
     type: "Person"
     worksFor:
       type: "Organization"
-      name: "Point Loma Nazarene University"
-      url: "http://www.pointloma.edu/"
-    email: "LynnReaser@pointloma.edu"
-    image: "lynn-reaser-wbcha.jpg"
-    featured_src: bg-adv-spk-lynn-reaser-wbcha.jpg
-    jobTitle: "Economist of Fermanian Business & Economic Institute"
-    name: "Lynn Reaser"
-    sameAs: "https://www.linkedin.com/in/lynn-reaser-b0534b13"
-  permalink: /conferences/2016/03/11/conference-wbcha-lynn-reaser/
+      name: "Erasmus University Rotterdam, Department of Business Economics"
+      url: "http://www.eur.nl/ese/english/departments/department_of_business_economics/"
+    email: "hofstra@ese.eur.nl"
+    image: "nel-hofstra-wbcha.jpg"
+    featured_src: bg-adv-spk-nel-hofstra-wbcha.jpg
+    jobTitle: "Professor of Business Marketing"
+    name: "Nel Hofstra"
+    sameAs: "http://www.eur.nl/ese/english/departments/department_of_business_economics/staff/faculty/profiel_mis/7761/"
+  permalink: /conferences/2016/03/11/conference-wbcha-nel-hofstra/
   startDate: "2016-06-22T18:35"
   endDate: "2016-06-22T19:15"
-  description: "Lynn Reaser will perform a conference about Biomimetics at the 1st World Biomimetic Challenges and Awards that will take place in Barcelona on 2016/06/22. The title of the conference will be revealed soon."
+  description: "Nel Hofstra will perform a conference about Biomimetics at the 1st World Biomimetic Challenges and Awards that will take place in Barcelona on 2016/06/22. The title of the conference will be revealed soon."
   featured_src: bg-adv-spk-lynn-reaser-wbcha.jpg
