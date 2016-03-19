@@ -1,7 +1,7 @@
 ---
 layout: person
-title:  "Lynn Reaser"
-date:   2016-03-10 12:44:23 +0100
+title:  "Nel Hofstra"
+date:   2016-03-19 10:44:23 +0100
 category: speakers
 share: true
 class: speakers
