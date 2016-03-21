@@ -1,4 +1,4 @@
-<head>
+<head {% if page.title =="Home" %}prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#"{% endif %}{% if page.og-type =="article" %} <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"{% endif %}>
     <meta charset="utf-8">
 
   <!-- Enable responsiveness on mobile devices-->
