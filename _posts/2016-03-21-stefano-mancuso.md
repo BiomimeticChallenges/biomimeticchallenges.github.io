@@ -1,12 +1,12 @@
 ---
 layout: person
-title:  "Javier Collado"
-date:   2016-03-11 09:11:23 +0100
+title:  "Stefano Mancuso"
+date:   2016-03-21 07:11:23 +0100
 category: advisors
 share: true
 class: advisors
 og: true
-advisor: 06
+advisor: 02
 og-type: article
 ---
 

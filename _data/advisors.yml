@@ -32,6 +32,36 @@
   type: "Person"
   worksFor:
     type: "Organization"
+    name: "International Vegetal Neurobiology Laboratory, University of Florence"
+    url: "http://www.linv.org/"
+  email: stefano.mancusochiocciolaunifi.it
+  image: "stefano-mancuso-wbcha.jpg"
+  featured_src: bg-adv-spk-stefano-mancuso-wbcha.jpg
+  jobTitle: "Professor and Director"
+  name: "Stefano Mancuso"
+  sameAs: "https://scholar.google.com/citations?user=l3wMLRoAAAAJ&hl=en"
+  permalink: /advisors/2016/03/21/stefano-mancuso/
+  description: "One of the maximum world authorities of the vegetal neurobiology. He brings to light that technology has a similar structure to the roots net of the plant, and it has to be studied the structure of this natural nets to inspire possible technologic developments. Author of more than 250 scientific articles in international magazines. He exposes that plants has an intelligence and that owns up to  15 different senses. Author of «Sensibility and intelligence in the vegetable world»."
+  id: 02
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "MedPAN"
+    url: "http://www.medpan.org/en/home"
+  email: "pcanals@tinet.org"
+  image: "puri-canals-wbcha.jpg"
+  featured_src: bg-adv-spk-puri-canals-wbcha.jpg
+  jobTitle: "President of MedPAN"
+  name: "Puri Canals"
+  sameAs: "https://www.linkedin.com/in/puri-canals-616a146a"
+  permalink: /advisors/2016/03/21/puri-canals/
+  description: "President of MEDPAN. Lecturer associated to Physiology, at Rovira i Virgili University. She was Vice-president of UICN (International Union for The nature conservation) between 2000-2008. Depana member. She was President of Iberic Committee for the Nature Defense and Vice-president of Environment Comittee for Barcelona Council. Advisory Committee member for the sustainable Development (CADS).  EUROSITE committee member, Netherlands"
+  id: 03
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
     name: "James Cook University"
     url: "https://www.jcu.edu.au/"
   image: "andrea-monge-wbcha.jpg"
@@ -41,7 +71,7 @@
   sameAs: "https://www.linkedin.com/in/andreamonger"
   permalink: /advisors/2016/03/11/andrea-monge/
   description: "Certified Biomimicry Specialist by Biomimicry 3.8. She currently works as Chief of Staff at ISP Holdings and CMO at ispDigital, focused on the marketing and adtech industry. In addition, she is a sustainability consultant for organizations such as the Advisory Council for Sustainable Development of Catalonia (CADS), the Environmental Defense Fund, the Institute for Integrated Transitions, and the Mare Nostrum Network. Andrea is a member of the IUCN Commission on Education and Communication. She holds a B.Sc. in Marine Biology from James Cook University and an M.A. in Environmental Conservation Education from New York University."
-  id: 02
+  id: 04
 - context: "http://schema.org"
   type: "Person"
   worksFor:
@@ -56,7 +86,7 @@
   sameAs: "https://www.linkedin.com/in/carlos-alberto-montana-hoyos-359b6523"
   permalink: /advisors/2016/03/11/carlos-montana/
   description: "Primary Areas: Design.  Expertise: Industrial Design; Product Design; Ecodesign; Design for Sustainability; Bio-Inspired Design; Design Management; Branding; Innovation; Creativity; Strategic Design; Design Thinking; Professional and academic experience in Colombia, Italy, Japan, Singapore and Australia. Keynote speaker, jury, external reviewer and consultant for design related academic & industrial projects. Researcher and graduate supervisor."
-  id: 03
+  id: 05
 - context: "http://schema.org"
   type: "Person"
   worksFor:
@@ -71,7 +101,7 @@
   sameAs: "http://www.javiercolladoruano.com/"
   permalink: /advisors/2016/03/11/javier-collado/
   description: "Javier Collado Ruano is Professor on Global Citizenship Education, Philosophy of Education, History, and International Relations. He is also PhD candidate in the Multi-disciplinary Program of Creation of Knowledge by the Federal University of Bahia (Brazil) and PhD Candidate in Philosophy by the University of Salamanca (Spain). Master´s Degree in Sociology of Education by the University of Seville (Spain) and Graduation in History by the University of Valencia (Spain) with specialization in International Relations and Archeology by the University of Palermo (Italy). He is founder and Director at Global Education Magazine (supported by UNESCO and UNHCR) and President at Education for Life NGO. He is also Academic Member of the Big History Institute (Australia), Academic Member at World Biomimetic Foundation (Spain), Member of the editorial board at the Journal of International Society of Philosophy and Cosmology (Ukraine), Chief Advisor and Conferment of Fellowship Awards at PAN African Institute for Entrepreneurship and Community Development (Nigeria), and Education Advisor at Human Dignity and Humiliation Studies (USA). His research interests are Transdisciplinary, Biomimicry, Sustainable Development, Global Citizenship, Culture of Peace, Democracy and Governability, Poverty Eradication, Human Rights, Philosophy, Epistemology, Arts, Globalization, Co-evolution, Big History, Complexity, and Life."
-  id: 04
+  id: 06
 - context: "http://schema.org"
   type: "Person"
   worksFor:
@@ -86,7 +116,7 @@
   sameAs: "https://www.linkedin.com/in/david-sanchez-12005321"
   permalink: /advisors/2016/03/11/david-sanchez/
   description: "Lecturer in the fields of biomimetic design, design ethics and ecological technologies.  At the present, he works in his PhD thesis at the Centre for the Study of Natural Design at DJCAD, University of Dundee. His research is focused on the development of new pedagogical methods using design and nature-based experiences  towards an ecological conscious civilization.  Nowadays, he is visitor lecturer in the MA Ecological Design Thinking at Schumacher College, UK. and organizes the development of new Ecodesign academy in Mexico."
-  id: 05
+  id: 07
 - context: "http://schema.org"
   type: "Person"
   worksFor:
@@ -101,4 +131,19 @@
   sameAs: "https://www.linkedin.com/in/zoubeir-azouz-2097a957"
   permalink: /advisors/2016/03/11/zoubeir-azouz/
   description: "Architect and researcher based in Montreal (Canada) having developed large-scale international projects and knowledge in optimizing complex geometry shapes inspired by nature. Professional practice and research led him to explore the use of Biomimicry principles applied to the fields of Architecture."
-  id: 06
+  id: 08
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "Yolanda Atienza Mindfulness"
+    url: "https://www.facebook.com/YolandaAtienzaMindfulness/"
+  email: "info@martiboada.cat"
+  image: "yolanda-atienza-wbcha.jpg"
+  featured_src: bg-adv-spk-yolanda-atienza-wbcha.jpg
+  jobTitle: "Instructor"
+  name: "Yolanda Atienza"
+  sameAs: "https://www.linkedin.com/in/yolanda-atienza-garcia-ab27a497"
+  permalink: /advisors/2016/03/21/yolanda-atienza/
+  description: "Yolanda Atienza. Holds a B.Sc. in Chemistry, specialization in Environmental Chemistry from Complutense University of Madrid. She has spent the last 10 years in the pharmacy industry and nanotechnology research in parallel with her passion for yoga, meditation and personal development retreats. Trained as a Mindfulness Instructor by esMindfulness Institute of Barcelona, she currently works  with corporations, teams and individuals to implement stress reduction, emotional intelligence and efficient comunication programs. Her work brings a unique blend of corporate, science, and mindfulness experience, focused on improving the way people connect with themselves and one another and to develop harmony, awareness and wellbeing on individuals and society inspired by the nature scenario."
+  id: 09

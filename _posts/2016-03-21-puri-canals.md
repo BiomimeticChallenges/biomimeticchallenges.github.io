@@ -1,12 +1,12 @@
 ---
 layout: person
 title:  "Puri Canals"
-date:   2016-03-11 09:11:23 +0100
+date:   2016-03-21 07:11:23 +0100
 category: advisors
 share: true
 class: advisors
 og: true
-advisor: 08
+advisor: 03
 og-type: article
 ---
 
