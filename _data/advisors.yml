@@ -147,3 +147,18 @@
   permalink: /advisors/2016/03/21/yolanda-atienza/
   description: "Yolanda Atienza. Holds a B.Sc. in Chemistry, specialization in Environmental Chemistry from Complutense University of Madrid. She has spent the last 10 years in the pharmacy industry and nanotechnology research in parallel with her passion for yoga, meditation and personal development retreats. Trained as a Mindfulness Instructor by esMindfulness Institute of Barcelona, she currently works  with corporations, teams and individuals to implement stress reduction, emotional intelligence and efficient comunication programs. Her work brings a unique blend of corporate, science, and mindfulness experience, focused on improving the way people connect with themselves and one another and to develop harmony, awareness and wellbeing on individuals and society inspired by the nature scenario."
   id: 09
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "ELISAVA"
+    url: "http://www.elisava.net/"
+  email: 
+  image: "francesc-collmalivern-wbcha.jpg"
+  featured_src: bg-adv-spk-francesc-collmalivern-wbcha.jpg
+  jobTitle: "Professor"
+  name: "Francesc Collmalivern i Reig"
+  sameAs: "https://www.linkedin.com/in/francesc-collmalivern-i-reig-49b0b028"
+  permalink: /advisors/2016/03/22/francesc-collmalivern/
+  description: "Master in Design of the Space at University Pompeu Fabra (UPF) and Escola Superior de Disseny i Enginyeria de Barcelona (ELISAVA). Specialized in design of sustainable habitat, related to home and as well as retail and contract. At the present, he is collaborator professor at the Degree of Design in ELISAVA, affiliated center to Univeritat Pompeu Fabra teaching Design of the future habitat. Moreover, he is the cofounder of the architecture studio Dezain Architects where he develops the responsibility as a sustainable designer. His works has been published in several magazines and blogs, national and international, specialized in Architecture and Design. He was finalist of the Design Awards in 2011 and speaker in the Congress of Architecture and sustainable hotelier rehabilitation in 2012."
+  id: 10
