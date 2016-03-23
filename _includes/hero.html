@@ -8,7 +8,7 @@
 				<h1 class="extra-heading"><img src="assets/img/logo-wolrd-biomimetic-challenges-and-awards-home.png"></h1>
 				<h6 class="thin base-font"><strong>{{ site.subtitle }}</strong><br/>{{ site.tsgline }}</h6>
 				<hr/>
-				<div class="sponsors">
+				<div class="sponsors visible-md visible-lg">
 					<div class="row">
 						<div class="col-md-2 col-md-offset-3">
 							<h6>Promoter</h6>
@@ -34,6 +34,16 @@
 						</div>
 						{% endfor %}
 					</div>
+				</div>
+				<div class="sponsors visible-xs visible-sm">
+					<h6>Promoter</h6>
+					{% for promoter in site.data.promoters %}
+					<div class="sponsor inline"><a href="{{promoter.permalink }}"><img src="assets/img/sponsors/{{ promoter.logo-home }}" alt=""></a></div>
+					{% endfor %}
+					<h6>Organizers</h6>
+					{% for organizer in site.data.organizers %}
+					<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo-home }}" alt=""></a></div>
+					{% endfor %}
 				</div>
 				<hr/>
 				<div class="btns-container">
