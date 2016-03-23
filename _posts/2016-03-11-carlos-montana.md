@@ -17,7 +17,4 @@ og-type: article
 	<h3 class="name">{{ advisor.name }}</h3>
 	<p class="text-alt"><small><strong>{{ advisor.jobTitle }}</strong><br/><a href="{{ advisor.worksFor.url }}" title="{{ advisor.worksFor.name }}">{{ advisor.worksFor.name }}</a></small></p>
 	<p class="about text-left">{{ advisor.description}} </p>
-	<ul class="advisor-socials">
-		<li><a href="mailto:{{ advisor.email }}"><span class="fa fa-envelope"></span></a></li>
-	</ul>
 </div>
