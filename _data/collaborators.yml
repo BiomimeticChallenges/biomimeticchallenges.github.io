@@ -8,16 +8,16 @@
   name: "Universitat de Barcelona"
   description: "The University of Barcelona is the most formidable public institution of higher education in Catalonia, catering to the needs of the greatest number of students and delivering the broadest and most comprehensive offering in higher educational courses. The UB is also the principal centre of university research in Spain and has become a European benchmark for research activity, both in terms of the number of research programmes it conducts and the excellence these have achieved."
   id: 00
-- context: "http://schema.org"
-  type: "Organization"
-  email: "info@butterflypark.es"
-  url: http://www.butterflypark.es/en/
-  permalink: /collaborators/2016/03/11/butterfly-park/
-  logo: logo-butterfly-park-wbcha.jpg
-  featured_src: bg-adv-sp-butterfly-park-wbcha.jpg
-  name: "Butterfly Park"
-  description: "We offer our visitors, young and old, the possibility to stroll amongst the tropical gardens and discover the captivating world of butterflies, parrots and other exotic animals. You will be amazed by our animals that roam freely within their natural habitats. Some of the world's most colorful species of butterflies will be fluttering freely around you and you may learn about their life cycle and the remarkable variety of existing species. This is a different kind of wildlife park, unique in Catalonia, with more than 15 years of dedication."
-  id: 01
+# - context: "http://schema.org"
+#   type: "Organization"
+#   email: "info@butterflypark.es"
+#   url: http://www.butterflypark.es/en/
+#   permalink: /collaborators/2016/03/11/butterfly-park/
+#   logo: logo-butterfly-park-wbcha.jpg
+#   featured_src: bg-adv-sp-butterfly-park-wbcha.jpg
+#   name: "Butterfly Park"
+#   description: "We offer our visitors, young and old, the possibility to stroll amongst the tropical gardens and discover the captivating world of butterflies, parrots and other exotic animals. You will be amazed by our animals that roam freely within their natural habitats. Some of the world's most colorful species of butterflies will be fluttering freely around you and you may learn about their life cycle and the remarkable variety of existing species. This is a different kind of wildlife park, unique in Catalonia, with more than 15 years of dedication."
+#   id: 01
 - context: "http://schema.org"
   type: "Organization"
   email: "reservations@almabarcelona.com"
