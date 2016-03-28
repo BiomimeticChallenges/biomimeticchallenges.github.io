@@ -62,15 +62,16 @@
   type: "Person"
   worksFor:
     type: "Organization"
-    name: "James Cook University"
-    url: "https://www.jcu.edu.au/"
-  image: "andrea-monge-wbcha.jpg"
-  featured_src: bg-adv-spk-andrea-monge-wbcha.jpg
-  jobTitle: "Marine Biologist"
-  name: "Andrea Monge"
-  sameAs: "https://www.linkedin.com/in/andreamonger"
-  permalink: /advisors/2016/03/11/andrea-monge/
-  description: "Certified Biomimicry Specialist by Biomimicry 3.8. She currently works as Chief of Staff at ISP Holdings and CMO at ispDigital, focused on the marketing and adtech industry. In addition, she is a sustainability consultant for organizations such as the Advisory Council for Sustainable Development of Catalonia (CADS), the Environmental Defense Fund, the Institute for Integrated Transitions, and the Mare Nostrum Network. Andrea is a member of the IUCN Commission on Education and Communication. She holds a B.Sc. in Marine Biology from James Cook University and an M.A. in Environmental Conservation Education from New York University."
+    name: "World Business Academy"
+    url: "http://worldbusiness.org/"
+  email: "info@worldbusiness.org"
+  image: "elisabeth-sahtouris-wbcha.jpg"
+  featured_src: bg-adv-spk-elisabeth-sahtouris-wbcha.jpg
+  jobTitle: "Holder of the Elisabet Sahtouris Chair in Living Economies"
+  name: "Elisabet Sahtouris"
+  permalink: /advisors/2016/03/28/elisabeth-sahtouris/
+  sameAs: "https://www.linkedin.com/in/sahtouris"
+  description: "Elisabet Sahtouris, Ph.D. is an internationally recognized evolution biologist and futurist, consultant and author/lecturer who has lived in the USA, Canada, Greece, Peru and Spain. She taught at MIT and the University of Massachusetts, contributed to the popular science NOVA/HORIZON TV series and has been a UN consultant on indigenous peoples. Her work focuses on bringing principles of living systems into the corporate world, governments and other organizations. She is a fellow of the World Business Academy, a member if the Evolutionary Leaders, an advisor to Ethical Markets and convened two international symposia on the foundations of science.  Her books includeBiology Revisioned, a dialog with Willis Harman, A Walk Through Time: From Stardust to Us,EarthDance: Living Systems in Evolutionand a new e-book,Gaia's Dance: The Story of Earth & Us."
   id: 04
 - context: "http://schema.org"
   type: "Person"
@@ -156,9 +157,23 @@
   email: 
   image: "francesc-collmalivern-wbcha.jpg"
   featured_src: bg-adv-spk-francesc-collmalivern-wbcha.jpg
-  jobTitle: "Professor"
+  jobTitle: "Designer sustainable habitat"
   name: "Francesc Collmalivern i Reig"
   sameAs: "https://www.linkedin.com/in/francesc-collmalivern-i-reig-49b0b028"
   permalink: /advisors/2016/03/22/francesc-collmalivern/
   description: "Master in Design of the Space at University Pompeu Fabra (UPF) and Escola Superior de Disseny i Enginyeria de Barcelona (ELISAVA). Specialized in design of sustainable habitat, related to home and as well as retail and contract. At the present, he is collaborator professor at the Degree of Design in ELISAVA, affiliated center to Univeritat Pompeu Fabra teaching Design of the future habitat. Moreover, he is the cofounder of the architecture studio Dezain Architects where he develops the responsibility as a sustainable designer. His works has been published in several magazines and blogs, national and international, specialized in Architecture and Design. He was finalist of the Design Awards in 2011 and speaker in the Congress of Architecture and sustainable hotelier rehabilitation in 2012."
   id: 10
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "James Cook University"
+    url: "https://www.jcu.edu.au/"
+  image: "andrea-monge-wbcha.jpg"
+  featured_src: bg-adv-spk-andrea-monge-wbcha.jpg
+  jobTitle: "Marine Biologist"
+  name: "Andrea Monge"
+  sameAs: "https://www.linkedin.com/in/andreamonger"
+  permalink: /advisors/2016/03/28/andrea-monge/
+  description: "Certified Biomimicry Specialist by Biomimicry 3.8. She currently works as Chief of Staff at ISP Holdings and CMO at ispDigital, focused on the marketing and adtech industry. In addition, she is a sustainability consultant for organizations such as the Advisory Council for Sustainable Development of Catalonia (CADS), the Environmental Defense Fund, the Institute for Integrated Transitions, and the Mare Nostrum Network. Andrea is a member of the IUCN Commission on Education and Communication. She holds a B.Sc. in Marine Biology from James Cook University and an M.A. in Environmental Conservation Education from New York University."
+  id: 11
