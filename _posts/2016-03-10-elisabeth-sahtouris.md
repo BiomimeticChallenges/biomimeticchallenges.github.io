@@ -8,6 +8,7 @@ class: speakers
 og: true
 speaker: 02
 og-type: article
+twitter: "@sahtouris"
 ---
 
 {% assign speaker_data = site.data.speakers | where:"id", page.speaker %}
