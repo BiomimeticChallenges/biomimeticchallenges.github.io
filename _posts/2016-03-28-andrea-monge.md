@@ -9,6 +9,7 @@ og: true
 advisor: 11
 og-type: article
 redirect_from: "/advisors/2016/03/11/andrea-monge/"
+twitter: "@andrea_monge"
 ---
 
 {% assign advisor_data = site.data.advisors | where:"id", page.advisor %}

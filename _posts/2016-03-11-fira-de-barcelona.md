@@ -8,6 +8,7 @@ class: organizers
 og: true
 organizer: 00
 og-type: article
+twitter: "@fira_barcelona"
 ---
 
 {% assign organizer_data = site.data.organizers | where:"id", page.organizer %}
