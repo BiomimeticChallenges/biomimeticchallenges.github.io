@@ -29,6 +29,16 @@
   id: 02
 - context: "http://schema.org"
   type: "Organization"
+  email: "info@canjubany.com"
+  url: http://www.canjubany.com/en
+  permalink: /collaborators/2016/03/29/jubany-events/
+  logo: logo-jubany-events-wbcha.jpg
+  featured_src: bg-adv-sp-jubany-events-wbcha.jpg
+  name: "Jubany Events"
+  description: "Walking from one side to another in the kitchen, stirring a pan, filling the boiling pot with the ingredients needed, touching the meat to verify if it is ready to be eaten, or it just needs two more minutes to plate, stirring one more time the sauté in the paella, revising the stew in the oven... Service after service, with an open mind, the feet firmly steady on the ground, the heart pounding with emotions, a clear and always active mind..."
+  id: 03
+- context: "http://schema.org"
+  type: "Organization"
   email: "info@webdelou.com"
   url: http://www.webdelou.com/
   permalink: /collaborators/2016/03/11/lou-comunicacio/
@@ -36,7 +46,7 @@
   featured_src: bg-adv-sp-lou-comunicacio-wbcha.jpg
   name: "LOU Comunicació"
   description: "LOU is a communications agency specializing in new media. Creativity and innovation are constants that we use to develop our projects. We are dedicated to find what is the best message and the best way for those who have something to communicate."
-  id: 03
+  id: 04
 - context: "http://schema.org"
   type: "Organization"
   email: "info@globaleducationmagazine.com"
@@ -46,7 +56,7 @@
   featured_src: bg-adv-sp-global-education-magazine-wbcha.jpg
   name: "Global Education Magazine"
   description: "Global Education Magazine is inspired by universal values of the Declaration of Emerging Human Rights that aims to contribute to achieve the Millennium Development Goals by United Nations (MDGs) which is supported by the Regional Offices of Latin America and the Caribbean of UNESCO and UNHCR. An initiative launched by the teaching team that formulated the proposal most voted in the group “Sustainable Development for the Eradication of Poverty in Rio+20”. Global Education Magazine is an educational e-journal with international character that seeks to promote ideas and experiences from the work of educational professionals, as well as NGOs, Voluntary Associations, Supranational, National, Regional and Local Institutions and Organizations, that struggle every day to achieve the MDGs"
-  id: 04
+  id: 05
 - context: "http://schema.org"
   type: "Organization"
   email: "info@oxygen.cat"
@@ -56,4 +66,4 @@
   featured_src: bg-adv-sp-oxygen-comunicacio-wbcha.jpg
   name: "Oxygen Comunicació"
   description: "Oxygen is a creative technology company based in Barcelona. We have a valuable team of professionals with 18 years of experience, experts in corporate communication, web design, programming and computer systems for the realization of ambitious projects online."
-  id: 05
+  id: 06

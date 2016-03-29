@@ -1,13 +1,14 @@
 ---
 layout: person
-title:  "Global Education Magazine"
-date:   2016-03-11 09:11:23 +0100
+title:  "Jubany Events"
+date:   2016-03-29 09:11:23 +0100
 category: collaborators
 share: true
 class: collaborators
 og: true
-collaborator: 05
+collaborator: 03
 og-type: article
+twitter: "@nandujubany"
 ---
 
 {% assign collaborator_data = site.data.collaborators | where:"id", page.collaborator %}
