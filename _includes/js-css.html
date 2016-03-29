@@ -34,7 +34,16 @@
     "image": "{{ speaker.image }}",
     "jobTitle": "{{ speaker.jobTitle }}",
     "name": "{{ speaker.name }}",
-    "sameAs": "{{ speaker.sameAs }}",
+    "sameAs": [
+    {% for sameAs in speaker.sameAs %}
+    {% if forloop.last != true %}
+    "{{ speaker.sameAs[forloop.index0] }}",
+    {% endif %}
+    {% if forloop.last == true %}
+    "{{ speaker.sameAs[forloop.index0] }}"
+    {% endif %}
+    {% endfor %}
+    ],
     "description": "{{ speaker.description }}"  
   }
   </script>
@@ -56,7 +65,17 @@
     "image": "{{ advisor.image }}",
     "jobTitle": "{{ advisor.jobTitle }}",
     "name": "{{ advisor.name }}",
-    "sameAs": "{{ advisor.sameAs }}",
+    
+    "sameAs": [
+    {% for sameAs in advisor.sameAs %}
+    {% if forloop.last != true %}
+    "{{ advisor.sameAs[forloop.index0] }}",
+    {% endif %}
+    {% if forloop.last == true %}
+    "{{ advisor.sameAs.[forloop.index0] }}"
+    {% endif %}
+    {% endfor %}
+    ],
     "description": "{{ advisor.description }}"  
   }
   </script>

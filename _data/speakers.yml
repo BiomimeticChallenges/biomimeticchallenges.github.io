@@ -9,7 +9,8 @@
   featured_src: bg-adv-spk-nel-hofstra-wbcha.jpg
   jobTitle: "Professor of Business Marketing"
   name: "Nel Hofstra"
-  sameAs: "http://www.eur.nl/ese/english/departments/department_of_business_economics/staff/faculty/profiel_mis/7761/"
+  sameAs: 
+    - "http://www.eur.nl/ese/english/departments/department_of_business_economics/staff/faculty/profiel_mis/7761/"
   permalink: /speakers/2016/03/19/nel-hofstra/
   description: "Entrepreneurship and Trade & Sustainable Society. Member of the Ethic  Business Group  from CEMS Faculty. Global Alliance for Management Education.  Her Research includes  ecologic innovations with the business Spirit, focusing on the environment function Concept. Member of SPES Institute (Spiritually in economics and society)."
   id: 00
@@ -24,7 +25,8 @@
   featured_src: bg-adv-spk-javier-collado-wbcha.jpg
   jobTitle: "Founder and Director"
   name: "Javier Collado Ruano"
-  sameAs: "http://www.javiercolladoruano.com/"
+  sameAs: 
+    - "http://www.javiercolladoruano.com/"
   permalink: /speakers/2016/03/10/javier-collado-ruano/
   description: "Javier Collado Ruano is Professor on Global Citizenship Education, Philosophy of Education, History, and International Relations. He is also PhD candidate in the Multi-disciplinary Program of Creation of Knowledge by the Federal University of Bahia (Brazil) and PhD Candidate in Philosophy by the University of Salamanca (Spain). Master´s Degree in Sociology of Education by the University of Seville (Spain) and Graduation in History by the University of Valencia (Spain) with specialization in International Relations and Archeology by the University of Palermo (Italy). He is founder and Director at Global Education Magazine (supported by UNESCO and UNHCR) and President at Education for Life NGO. He is also Academic Member of the Big History Institute (Australia), Academic Member at World Biomimetic Foundation (Spain), Member of the editorial board at the Journal of International Society of Philosophy and Cosmology (Ukraine), Chief Advisor and Conferment of Fellowship Awards at PAN African Institute for Entrepreneurship and Community Development (Nigeria), and Education Advisor at Human Dignity and Humiliation Studies (USA). His research interests are Transdisciplinary, Biomimicry, Sustainable Development, Global Citizenship, Culture of Peace, Democracy and Governability, Poverty Eradication, Human Rights, Philosophy, Epistemology, Arts, Globalization, Co-evolution, Big History, Complexity, and Life."
   id: 01
@@ -40,7 +42,8 @@
   jobTitle: "Holder of the Elisabet Sahtouris Chair in Living Economies"
   name: "Elisabet Sahtouris"
   permalink: /speakers/2016/03/10/elisabeth-sahtouris/
-  sameAs: "https://www.linkedin.com/in/sahtouris"
+  sameAs: 
+    - "https://www.linkedin.com/in/sahtouris"
   description: "Elisabet Sahtouris, Ph.D. is an internationally recognized evolution biologist and futurist, consultant and author/lecturer who has lived in the USA, Canada, Greece, Peru and Spain. She taught at MIT and the University of Massachusetts, contributed to the popular science NOVA/HORIZON TV series and has been a UN consultant on indigenous peoples. Her work focuses on bringing principles of living systems into the corporate world, governments and other organizations. She is a fellow of the World Business Academy, a member if the Evolutionary Leaders, an advisor to Ethical Markets and convened two international symposia on the foundations of science.  Her books includeBiology Revisioned, a dialog with Willis Harman, A Walk Through Time: From Stardust to Us,EarthDance: Living Systems in Evolutionand a new e-book,Gaia's Dance: The Story of Earth & Us."
   id: 02
 - context: "http://schema.org"
@@ -55,7 +58,8 @@
   jobTitle: "Triglav Circle ‘s Founder and President"
   name: "Barbara Baudot"
   permalink: /speakers/2016/03/10/barbara-baudot/
-  sameAs: "https://www.linkedin.com/in/barbarasundbergbaudot"
+  sameAs: 
+    - "https://www.linkedin.com/in/barbarasundbergbaudot"
   description: "Presently engaged in projects connected with the World Social Summit, specifically on the ethical and spiritual dimensions of social development. She serves as coordinator of the Triglav Circle, a group of scholars, professionals, and public servants that meet regularly in Cambridge, Mass. to explore these issues."
   id: 03
 - context: "http://schema.org"
@@ -69,6 +73,7 @@
   jobTitle: "Entrepreneur and Co-founder"
   name: "Elon Musk"
   permalink: /speakers/2016/03/10/elon-musk/
-  sameAs: "https://www.linkedin.com/in/emusk"
+  sameAs: 
+    - "https://www.linkedin.com/in/emusk"
   description: "Elon Reeve Musk is a South African-born Canadian-American business magnate,engineer, inventor and investor. He is the founder, CEO and CTO of SpaceX, co-founder, CEO and product architect of Tesla Motors, chairman of SolarCity, co-chairman of OpenAI, co-founder of Zip2, and co-founder of PayPal. As of January 2016, he has an estimated net worth of US$12.4 billion, making him the 39th wealthiest person in the US."
   id: 04

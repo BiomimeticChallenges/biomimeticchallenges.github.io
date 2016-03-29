@@ -9,7 +9,9 @@
   featured_src: bg-adv-spk-nel-hofstra-wbcha.jpg
   jobTitle: "Professor of Business Marketing"
   name: "Nel Hofstra"
-  sameAs: "http://www.eur.nl/ese/english/departments/department_of_business_economics/staff/faculty/profiel_mis/7761/"
+  sameAs: 
+    - "http://www.eur.nl/ese/english/departments/department_of_business_economics/staff/faculty/profiel_mis/7761/"
+    - "https://twitter.com/nelhofstra"
   permalink: /advisors/2016/03/11/nel-hofstra/
   description: "Entrepreneurship and Trade & Sustainable Society. Member of the Ethic  Business Group  from CEMS Faculty. Global Alliance for Management Education.  Her Research includes  ecologic innovations with the business Spirit, focusing on the environment function Concept. Member of SPES Institute (Spiritually in economics and society)."
   id: 00
@@ -24,7 +26,8 @@
   featured_src: bg-adv-spk-jordi-pigem-wbcha.jpg
   jobTitle: "Doctor  in Philosophy"
   name: "Jordi Pigem"
-  sameAs: "http://www.ub.edu/masterae/staff-item/jordi-pigem/"
+  sameAs: 
+    - "http://www.ub.edu/masterae/staff-item/jordi-pigem/"
   permalink: /advisors/2016/03/11/jordi-pigem/
   description: "Doctor of Philosophy from the University of Barcelona with the thesis: The thinking of Raimon Panikkar: A philosophy of the Independence. From 1998 to  2003 he was professor and coordinator of the Philosophy Area in the Master of Holistic Science at Schumacher College (University of Plymouth) in Dartington (England). He won the Award of Philosophy of Institut d'Estudis Catalans and the Resurgence and Scientific and Medical Network Essay Award. He is the author of eight books, the most recent one being Inteligencia vital: Una visión postmaterialista de la vida y la conciencia. He writes on the philosophy of science, ecological awareness and the need for a new understanding of Being."
   id: 01
@@ -39,7 +42,9 @@
   featured_src: bg-adv-spk-stefano-mancuso-wbcha.jpg
   jobTitle: "Professor and Director"
   name: "Stefano Mancuso"
-  sameAs: "https://scholar.google.com/citations?user=l3wMLRoAAAAJ&hl=en"
+  sameAs: 
+    - "https://scholar.google.com/citations?user=l3wMLRoAAAAJ&hl=en"
+    - "https://twitter.com/linvflorence"
   permalink: /advisors/2016/03/21/stefano-mancuso/
   description: "One of the maximum world authorities of the vegetal neurobiology. He brings to light that technology has a similar structure to the roots net of the plant, and it has to be studied the structure of this natural nets to inspire possible technologic developments. Author of more than 250 scientific articles in international magazines. He exposes that plants has an intelligence and that owns up to  15 different senses. Author of the bestseller 'Brilliant Green: The Surprising History and Science of Plant Intelligence', translated in 12 languages."
   id: 02
@@ -54,7 +59,8 @@
   featured_src: bg-adv-spk-puri-canals-wbcha.jpg
   jobTitle: "President of MedPAN"
   name: "Puri Canals"
-  sameAs: "https://www.linkedin.com/in/puri-canals-616a146a"
+  sameAs: 
+    - "https://www.linkedin.com/in/puri-canals-616a146a"
   permalink: /advisors/2016/03/21/puri-canals/
   description: "President of MEDPAN. Lecturer associated to Physiology, at Rovira i Virgili University. She was Vice-president of UICN (International Union for The nature conservation) between 2000-2008. Depana member. She was President of Iberic Committee for the Nature Defense and Vice-president of Environment Comittee for Barcelona Council. Advisory Committee member for the sustainable Development (CADS).  EUROSITE committee member, Netherlands"
   id: 03
@@ -70,7 +76,9 @@
   jobTitle: "Holder of the Elisabet Sahtouris Chair in Living Economies"
   name: "Elisabet Sahtouris"
   permalink: /advisors/2016/03/28/elisabeth-sahtouris/
-  sameAs: "https://www.linkedin.com/in/sahtouris"
+  sameAs: 
+    - "https://www.linkedin.com/in/sahtouris"
+    - "https://twitter.com/sahtouris"
   description: "Elisabet Sahtouris, Ph.D. is an internationally recognized evolution biologist and futurist, consultant and author/lecturer who has lived in the USA, Canada, Greece, Peru and Spain. She taught at MIT and the University of Massachusetts, contributed to the popular science NOVA/HORIZON TV series and has been a UN consultant on indigenous peoples. Her work focuses on bringing principles of living systems into the corporate world, governments and other organizations. She is a fellow of the World Business Academy, a member if the Evolutionary Leaders, an advisor to Ethical Markets and convened two international symposia on the foundations of science.  Her books includeBiology Revisioned, a dialog with Willis Harman, A Walk Through Time: From Stardust to Us,EarthDance: Living Systems in Evolutionand a new e-book,Gaia's Dance: The Story of Earth & Us."
   id: 04
 - context: "http://schema.org"
@@ -84,7 +92,8 @@
   featured_src: bg-adv-spk-carlos-montana-wbcha.jpg
   jobTitle: "Associate Professor. Industrial Design"
   name: "Carlos Alberto Montana Hoyos"
-  sameAs: "https://www.linkedin.com/in/carlos-alberto-montana-hoyos-359b6523"
+  sameAs: 
+    - "https://www.linkedin.com/in/carlos-alberto-montana-hoyos-359b6523"
   permalink: /advisors/2016/03/11/carlos-montana/
   description: "Primary Areas: Design.  Expertise: Industrial Design; Product Design; Ecodesign; Design for Sustainability; Bio-Inspired Design; Design Management; Branding; Innovation; Creativity; Strategic Design; Design Thinking; Professional and academic experience in Colombia, Italy, Japan, Singapore and Australia. Keynote speaker, jury, external reviewer and consultant for design related academic & industrial projects. Researcher and graduate supervisor."
   id: 05
@@ -99,7 +108,10 @@
   featured_src: bg-adv-spk-javier-collado-wbcha.jpg
   jobTitle: "Founder and Director"
   name: "Javier Collado Ruano"
-  sameAs: "http://www.javiercolladoruano.com/"
+  sameAs: 
+    - "http://www.javiercolladoruano.com/"
+    - "https://twitter.com/Javier_Collado1"
+
   permalink: /advisors/2016/03/11/javier-collado/
   description: "Javier Collado Ruano is Professor on Global Citizenship Education, Philosophy of Education, History, and International Relations. He is also PhD candidate in the Multi-disciplinary Program of Creation of Knowledge by the Federal University of Bahia (Brazil) and PhD Candidate in Philosophy by the University of Salamanca (Spain). Master´s Degree in Sociology of Education by the University of Seville (Spain) and Graduation in History by the University of Valencia (Spain) with specialization in International Relations and Archeology by the University of Palermo (Italy). He is founder and Director at Global Education Magazine (supported by UNESCO and UNHCR) and President at Education for Life NGO. He is also Academic Member of the Big History Institute (Australia), Academic Member at World Biomimetic Foundation (Spain), Member of the editorial board at the Journal of International Society of Philosophy and Cosmology (Ukraine), Chief Advisor and Conferment of Fellowship Awards at PAN African Institute for Entrepreneurship and Community Development (Nigeria), and Education Advisor at Human Dignity and Humiliation Studies (USA). His research interests are Transdisciplinary, Biomimicry, Sustainable Development, Global Citizenship, Culture of Peace, Democracy and Governability, Poverty Eradication, Human Rights, Philosophy, Epistemology, Arts, Globalization, Co-evolution, Big History, Complexity, and Life."
   id: 06
@@ -131,7 +143,9 @@
   featured_src: bg-adv-spk-zoubeir-azouz-wbcha.jpg
   jobTitle: "Principal of ZAA-architects office"
   name: "Zoubeir Azouz"
-  sameAs: "https://www.linkedin.com/in/zoubeir-azouz-2097a957"
+  sameAs: 
+    - "https://www.linkedin.com/in/zoubeir-azouz-2097a957"
+    - "https://twitter.com/zoubeirazouz"
   permalink: /advisors/2016/03/11/zoubeir-azouz/
   description: "Architect and researcher based in Montreal (Canada) having developed large-scale international projects and knowledge in optimizing complex geometry shapes inspired by nature. Professional practice and research led him to explore the use of Biomimicry principles applied to the fields of Architecture."
   id: 08
@@ -146,7 +160,8 @@
   featured_src: bg-adv-spk-yolanda-atienza-wbcha.jpg
   jobTitle: "Instructor"
   name: "Yolanda Atienza"
-  sameAs: "https://www.linkedin.com/in/yolanda-atienza-garcia-ab27a497"
+  sameAs: 
+    - "https://www.linkedin.com/in/yolanda-atienza-garcia-ab27a497"
   permalink: /advisors/2016/03/21/yolanda-atienza/
   description: "Yolanda Atienza. Holds a B.Sc. in Chemistry, specialization in Environmental Chemistry from Complutense University of Madrid. She has spent the last 10 years in the pharmacy industry and nanotechnology research in parallel with her passion for yoga, meditation and personal development retreats. Trained as a Mindfulness Instructor by esMindfulness Institute of Barcelona, she currently works  with corporations, teams and individuals to implement stress reduction, emotional intelligence and efficient comunication programs. Her work brings a unique blend of corporate, science, and mindfulness experience, focused on improving the way people connect with themselves and one another and to develop harmony, awareness and wellbeing on individuals and society inspired by the nature scenario."
   id: 09
@@ -161,7 +176,8 @@
   featured_src: bg-adv-spk-francesc-collmalivern-wbcha.jpg
   jobTitle: "Designer sustainable habitat"
   name: "Francesc Collmalivern i Reig"
-  sameAs: "https://www.linkedin.com/in/francesc-collmalivern-i-reig-49b0b028"
+  sameAs: 
+    - "https://www.linkedin.com/in/francesc-collmalivern-i-reig-49b0b028"
   permalink: /advisors/2016/03/22/francesc-collmalivern/
   description: "Master in Design of the Space at University Pompeu Fabra (UPF) and Escola Superior de Disseny i Enginyeria de Barcelona (ELISAVA). Specialized in design of sustainable habitat, related to home and as well as retail and contract. At the present, he is collaborator professor at the Degree of Design in ELISAVA, affiliated center to Univeritat Pompeu Fabra teaching Design of the future habitat. Moreover, he is the cofounder of the architecture studio Dezain Architects where he develops the responsibility as a sustainable designer. His works has been published in several magazines and blogs, national and international, specialized in Architecture and Design. He was finalist of the Design Awards in 2011 and speaker in the Congress of Architecture and sustainable hotelier rehabilitation in 2012."
   id: 10
@@ -175,7 +191,9 @@
   featured_src: bg-adv-spk-andrea-monge-wbcha.jpg
   jobTitle: "Marine Biologist"
   name: "Andrea Monge"
-  sameAs: "https://www.linkedin.com/in/andreamonger"
+  sameAs: 
+    - "https://www.linkedin.com/in/andreamonger"
+    - "https://twitter.com/andrea_monge"
   permalink: /advisors/2016/03/28/andrea-monge/
   description: "Certified Biomimicry Specialist by Biomimicry 3.8. She currently works as Chief of Staff at ISP Holdings and CMO at ispDigital, focused on the marketing and adtech industry. In addition, she is a sustainability consultant for organizations such as the Advisory Council for Sustainable Development of Catalonia (CADS), the Environmental Defense Fund, the Institute for Integrated Transitions, and the Mare Nostrum Network. Andrea is a member of the IUCN Commission on Education and Communication. She holds a B.Sc. in Marine Biology from James Cook University and an M.A. in Environmental Conservation Education from New York University."
   id: 11
