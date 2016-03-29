@@ -29,4 +29,7 @@ author:
   name:           'Ramon Gil'
   url:            https://twitter.com/freecates
 
+gems:
+  - jekyll-redirect-from
+
 # Build settings

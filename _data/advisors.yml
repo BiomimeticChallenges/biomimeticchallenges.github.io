@@ -114,7 +114,9 @@
   featured_src: bg-adv-spk-david-sanchez-wbcha.jpg
   jobTitle: "Industrial designer"
   name: "David Sanchez"
-  sameAs: "https://www.linkedin.com/in/david-sanchez-12005321"
+  sameAs: 
+    - "https://www.linkedin.com/in/david-sanchez-12005321"
+    - "https://twitter.com/SymbioDave"
   permalink: /advisors/2016/03/11/david-sanchez/
   description: "Lecturer in the fields of biomimetic design, design ethics and ecological technologies.  At the present, he works in his PhD thesis at the Centre for the Study of Natural Design at DJCAD, University of Dundee. His research is focused on the development of new pedagogical methods using design and nature-based experiences  towards an ecological conscious civilization.  Nowadays, he is visitor lecturer in the MA Ecological Design Thinking at Schumacher College, UK. and organizes the development of new Ecodesign academy in Mexico."
   id: 07
