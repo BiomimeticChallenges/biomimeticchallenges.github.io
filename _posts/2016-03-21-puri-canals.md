@@ -8,6 +8,7 @@ class: advisors
 og: true
 advisor: 03
 og-type: article
+twitter: "@MedPAN"
 ---
 
 {% assign advisor_data = site.data.advisors | where:"id", page.advisor %}

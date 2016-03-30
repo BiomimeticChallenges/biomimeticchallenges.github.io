@@ -8,6 +8,7 @@ class: advisors
 og: true
 advisor: 10
 og-type: article
+twitter: "@fcollmalivern"
 ---
 
 {% assign advisor_data = site.data.advisors | where:"id", page.advisor %}
