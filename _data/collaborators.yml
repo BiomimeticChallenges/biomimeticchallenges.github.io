@@ -2,6 +2,9 @@
   type: "Organization"
   email: "marqueting@ub.edu"
   url: http://www.ub.edu/web/ub/en/index.html
+  sameAs:
+    - "https://twitter.com/unibarcelona"
+    - "https://www.facebook.com/UniversitatdeBarcelona"
   permalink: /collaborators/2016/03/11/universitat-de-barcelona/
   logo: logo-universitat-de-barcelona-wbcha.jpg
   featured_src: bg-adv-sp-universiat-de-barcelona-wbcha.jpg
@@ -22,6 +25,9 @@
   type: "Organization"
   email: "reservations@almabarcelona.com"
   url: http://www.almabarcelona.com/index.php?idioma=eng
+  sameAs:
+    - "https://twitter.com/almahotels"
+    - "https://www.facebook.com/HotelAlmaBarcelona"
   permalink: /collaborators/2016/03/11/alma-barcelona/
   logo: logo-alma-hotels-wbcha.jpg
   featured_src: bg-adv-sp-alma-hotels-wbcha.jpg
@@ -31,6 +37,9 @@
   type: "Organization"
   email: "info@canjubany.com"
   url: http://www.canjubany.com/en
+  sameAs:
+    - "https://twitter.com/nandujubany"
+    - "https://www.facebook.com/NanduJubany"
   permalink: /collaborators/2016/03/29/jubany-events/
   logo: logo-jubany-events-wbcha.jpg
   featured_src: bg-adv-sp-jubany-events-wbcha.jpg
@@ -41,6 +50,9 @@
   type: "Organization"
   email: "info@webdelou.com"
   url: http://www.webdelou.com/
+  sameAs:
+    - "https://twitter.com/loucomunicacio"
+    - "https://www.facebook.com/loucomunicacio"
   permalink: /collaborators/2016/03/11/lou-comunicacio/
   logo: logo-lou-comunicacio-wbcha.jpg
   featured_src: bg-adv-sp-lou-comunicacio-wbcha.jpg
@@ -51,6 +63,9 @@
   type: "Organization"
   email: "info@globaleducationmagazine.com"
   url: http://www.globaleducationmagazine.com/
+  sameAs:
+    - "https://twitter.com/GloEducaMagazin"
+    - "https://www.facebook.com/GlobalEducationMagazine"
   permalink: /collaborators/2016/03/11/global-education-magazine/
   logo: logo-global-education-magazine-wbcha.jpg
   featured_src: bg-adv-sp-global-education-magazine-wbcha.jpg
@@ -61,6 +76,9 @@
   type: "Organization"
   email: "info@oxygen.cat"
   url: http://www.oxygen.cat/
+  sameAs:
+    - "https://twitter.com/freecates"
+    - "https://www.facebook.com/ramonet"
   permalink: /collaborators/2016/03/11/oxygen-comunicacio/
   logo: logo-oxygen-comunicacio-wbcha.jpg
   featured_src: bg-adv-sp-oxygen-comunicacio-wbcha.jpg

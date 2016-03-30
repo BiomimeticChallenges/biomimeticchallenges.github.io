@@ -8,6 +8,7 @@ class: collaborators
 og: true
 collaborator: 05
 og-type: article
+twitter: "@GloEducaMagazin"
 ---
 
 {% assign collaborator_data = site.data.collaborators | where:"id", page.collaborator %}

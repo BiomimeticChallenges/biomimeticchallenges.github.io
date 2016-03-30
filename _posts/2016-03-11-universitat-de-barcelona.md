@@ -8,6 +8,7 @@ class: collaborators
 og: true
 collaborator: 00
 og-type: article
+twitter: "@unibarcelona"
 ---
 
 {% assign collaborator_data = site.data.collaborators | where:"id", page.collaborator %}

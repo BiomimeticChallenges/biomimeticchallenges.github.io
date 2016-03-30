@@ -8,6 +8,7 @@ class: collaborators
 og: true
 collaborator: 02
 og-type: article
+twitter: "@almahotels"
 ---
 
 {% assign collaborator_data = site.data.collaborators | where:"id", page.collaborator %}
