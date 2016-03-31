@@ -86,17 +86,18 @@
   type: "Person"
   worksFor:
     type: "Organization"
-    name: "Faculty of Arts & Design, University of Canberra, Australia"
-    url: "http://www.arts.ac.uk/"
-  email: Carlos.Montana.Hoyos@canberra.edu.au
-  image: "carlos-montana-wbcha-grey.jpg"
-  featured_src: bg-adv-spk-carlos-montana-wbcha.jpg
-  jobTitle: "Associate Professor. Industrial Design"
-  name: "Carlos Alberto Montana Hoyos"
+    name: "Bionic City, University of Greenwich"
+    url: "http://www2.gre.ac.uk/"
+  email: melissa.sterry@outlook.com
+  image: "melissa-sterry-wbcha.jpg"
+  featured_src: bg-adv-spk-melissa-sterry-wbcha.jpg
+  jobTitle: "Design Scientist"
+  name: "Melissa Sterry"
   sameAs: 
-    - "https://www.linkedin.com/in/carlos-alberto-montana-hoyos-359b6523"
-  permalink: /advisors/2016/03/11/carlos-montana/
-  description: "Primary Areas: Design.  Expertise: Industrial Design; Product Design; Ecodesign; Design for Sustainability; Bio-Inspired Design; Design Management; Branding; Innovation; Creativity; Strategic Design; Design Thinking; Professional and academic experience in Colombia, Italy, Japan, Singapore and Australia. Keynote speaker, jury, external reviewer and consultant for design related academic & industrial projects. Researcher and graduate supervisor."
+    - "https://www.linkedin.com/in/melissasterry"
+    - "https://twitter.com/melissasterry"
+  permalink: /advisors/2016/03/31/melissa-sterry/
+  description: "Design scientist, systems theorist and futurist Melissa Sterry is recognised as a world leading authority on the science, technology and thinking that could help build a better world. A recipient of several national and international innovation, creativity and enterprise awards, she is a visiting fellow/lecturer and guest critic at several leading architecture and design research institutes, and has been published in over 60 titles worldwide. A PhD researcher at the Advanced Virtual and Technological Architecture Research (AVATAR) group at University of Greenwich, her research interests converge in Bionic City, which posits the potential of the city as a complex regenerative and adaptive system that mimics ecological resilience strategies."
   id: 05
 - context: "http://schema.org"
   type: "Person"
@@ -199,3 +200,19 @@
   permalink: /advisors/2016/03/28/andrea-monge/
   description: "Certified Biomimicry Specialist by Biomimicry 3.8. She currently works as Chief of Staff at ISP Holdings and CMO at ispDigital, focused on the marketing and adtech industry. In addition, she is a sustainability consultant for organizations such as the Advisory Council for Sustainable Development of Catalonia (CADS), the Environmental Defense Fund, the Institute for Integrated Transitions, and the Mare Nostrum Network. Andrea is a member of the IUCN Commission on Education and Communication. She holds a B.Sc. in Marine Biology from James Cook University and an M.A. in Environmental Conservation Education from New York University."
   id: 11
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "Faculty of Arts & Design, University of Canberra, Australia"
+    url: "http://www.arts.ac.uk/"
+  email: Carlos.Montana.Hoyos@canberra.edu.au
+  image: "carlos-montana-wbcha-grey.jpg"
+  featured_src: bg-adv-spk-carlos-montana-wbcha.jpg
+  jobTitle: "Associate Professor. Industrial Design"
+  name: "Carlos Alberto Montana Hoyos"
+  sameAs: 
+    - "https://www.linkedin.com/in/carlos-alberto-montana-hoyos-359b6523"
+  permalink: /advisors/2016/03/11/carlos-montana/
+  description: "Primary Areas: Design.  Expertise: Industrial Design; Product Design; Ecodesign; Design for Sustainability; Bio-Inspired Design; Design Management; Branding; Innovation; Creativity; Strategic Design; Design Thinking; Professional and academic experience in Colombia, Italy, Japan, Singapore and Australia. Keynote speaker, jury, external reviewer and consultant for design related academic & industrial projects. Researcher and graduate supervisor."
+  id: 12
