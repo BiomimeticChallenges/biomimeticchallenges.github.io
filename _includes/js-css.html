@@ -175,6 +175,16 @@
     "@type": "{{ partner.type }}",
     "email": "{{ partner.email }}",
     "url": "{{ partner.url }}",
+    "sameAs": [
+    {% for sameAs in partner.sameAs %}
+    {% if forloop.last != true %}
+    "{{ partner.sameAs[forloop.index0] }}",
+    {% endif %}
+    {% if forloop.last == true %}
+    "{{ partner.sameAs[forloop.index0] }}"
+    {% endif %}
+    {% endfor %}
+    ],
     "logo": "{{ site.url }}/img/assets/sponsors/{{ partner.logo }}",
     "name": "{{ partner.name }}",
     "description": "{{ partner.description }}"

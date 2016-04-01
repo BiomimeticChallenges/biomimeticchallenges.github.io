@@ -1,6 +1,9 @@
 - context: "http://schema.org"
   type: "Organization"
   url: http://www.in3dustry.com/en/home
+  sameAs:
+    - "https://twitter.com/in3dustry"
+    - "https://www.facebook.com/in3dustry"
   logo: logo-in-3d-ustry-wbcha.jpg
   featured_src: bg-adv-sp-in-3d-ustry-wbcha.jpg
   permalink: /partners/2016/03/11/in-3d-ustry/
