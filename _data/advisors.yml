@@ -216,3 +216,19 @@
   permalink: /advisors/2016/03/11/carlos-montana/
   description: "Primary Areas: Design.  Expertise: Industrial Design; Product Design; Ecodesign; Design for Sustainability; Bio-Inspired Design; Design Management; Branding; Innovation; Creativity; Strategic Design; Design Thinking; Professional and academic experience in Colombia, Italy, Japan, Singapore and Australia. Keynote speaker, jury, external reviewer and consultant for design related academic & industrial projects. Researcher and graduate supervisor."
   id: 12
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
+    name: "Gaia Education"
+    url: "http://www.gaiaeducation.org/index.php/en/"
+  image: "daniel-wahl-wbcha.jpg"
+  featured_src: bg-adv-spk-daniel-wahl-wbcha.jpg
+  jobTitle: "Consultant"
+  name: "Daniel Christian Wahl"
+  sameAs: 
+    - "http://danielchristianwahl.com/"
+    - "https://www.linkedin.com/in/daniel-christian-wahl-phd-frsa-51a54616"
+  permalink: /advisors/2016/04/04/daniel-wahl/
+  description: "Is an international consultant and educator specialized in biologically inspired whole systems design and transformative innovation. He is a biologist (University of Edinburgh & University of California), holds an MSc in Holistic Science (Schumacher College) and a PhD in Design (CSND, University of Dundee, 2006). Daniel has worked with local and national governments on foresight and futures, facilitated seminars on sustainable development for UNITAR, consulted companies like Camper, Ecover and Lush on sustainable innovation, and has co-authored and taught sustainability training courses for Gaia Education, LEAD International, and various universities and design schools. He is a member of the International Futures Forum, a fellow of the Royal Society of the Arts (FRSA), co-founder of Biomimicry Iberia, and brought Bioneers to Europe in 2010. Daniel currently works for Gaia Education and the SMART UIB project of the Universidad de las Islas Balears. After writing articles on biomimicry and ecological design since 2005, he published his first book on Designing Regenerative Cultures in 2016."
+  id: 13
