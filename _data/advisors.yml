@@ -4,7 +4,7 @@
     type: "Organization"
     name: "Erasmus University Rotterdam, Department of Business Economics"
     url: "http://www.eur.nl/ese/english/departments/department_of_business_economics/"
-  email: "hofstra@ese.eur.nl"
+  email: "nelhofstra@gmail.com"
   image: "nel-hofstra-wbcha.jpg"
   featured_src: bg-adv-spk-nel-hofstra-wbcha.jpg
   jobTitle: "Professor of Business Marketing"
@@ -37,7 +37,7 @@
     type: "Organization"
     name: "International Vegetal Neurobiology Laboratory, University of Florence"
     url: "http://www.linv.org/"
-  email: stefano.mancusochiocciolaunifi.it
+  email: stefano.mancuso@unifi.it
   image: "stefano-mancuso-wbcha.jpg"
   featured_src: bg-adv-spk-stefano-mancuso-wbcha.jpg
   jobTitle: "Professor and Director"
@@ -54,7 +54,7 @@
     type: "Organization"
     name: "MedPAN"
     url: "http://www.medpan.org/en/home"
-  email: "pcanals@tinet.org"
+  email: "pcanals@depana.org"
   image: "puri-canals-wbcha.jpg"
   featured_src: bg-adv-spk-puri-canals-wbcha.jpg
   jobTitle: "President of MedPAN"
@@ -71,7 +71,7 @@
     type: "Organization"
     name: "World Business Academy"
     url: "http://worldbusiness.org/"
-  email: "info@worldbusiness.org"
+  email: "elisabet@sahtouris.com"
   image: "elisabeth-sahtouris-wbcha.jpg"
   featured_src: bg-adv-spk-elisabeth-sahtouris-wbcha.jpg
   jobTitle: "Holder of the Elisabet Sahtouris Chair in Living Economies"
@@ -123,7 +123,7 @@
     type: "Organization"
     name: "Centre for the Study of Natural Design at DJCAD, University of Dundee"
     url: "http://www.dundee.ac.uk/"
-  email: david@biomimicry-uk.org
+  email: "D.SanchezRuano@dundee.ac.uk"
   image: "david-sanchez-wbcha.jpg"
   featured_src: bg-adv-spk-david-sanchez-wbcha.jpg
   jobTitle: "Industrial designer"
@@ -157,7 +157,7 @@
     type: "Organization"
     name: "Yolanda Atienza Mindfulness"
     url: "https://www.facebook.com/YolandaAtienzaMindfulness/"
-  email: 
+  email: "hola@yolandaatienza.com"
   image: "yolanda-atienza-wbcha.jpg"
   featured_src: bg-adv-spk-yolanda-atienza-wbcha.jpg
   jobTitle: "Instructor"
@@ -173,7 +173,7 @@
     type: "Organization"
     name: "ELISAVA"
     url: "http://www.elisava.net/"
-  email: 
+  email: "francesc.studio.design@gmail.com"
   image: "francesc-collmalivern-wbcha.jpg"
   featured_src: bg-adv-spk-francesc-collmalivern-wbcha.jpg
   jobTitle: "Designer sustainable habitat"
@@ -190,6 +190,7 @@
     type: "Organization"
     name: "James Cook University"
     url: "https://www.jcu.edu.au/"
+  email: "andrea.monge@ispholdings.com"
   image: "andrea-monge-wbcha.jpg"
   featured_src: bg-adv-spk-andrea-monge-wbcha.jpg
   jobTitle: "Marine Biologist"
@@ -222,6 +223,7 @@
     type: "Organization"
     name: "Gaia Education"
     url: "http://www.gaiaeducation.org/index.php/en/"
+  email: "designforsustainability@gmail.com"
   image: "daniel-wahl-wbcha.jpg"
   featured_src: bg-adv-spk-daniel-wahl-wbcha.jpg
   jobTitle: "Consultant"
