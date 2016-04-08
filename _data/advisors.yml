@@ -221,12 +221,12 @@
   type: "Person"
   worksFor:
     type: "Organization"
-    name: "Gaia Education"
+    name: "International Futures Forum; Gaia Education; S.M.A.R.T UIB"
     url: "http://www.gaiaeducation.org/index.php/en/"
   email: "designforsustainability@gmail.com"
   image: "daniel-wahl-wbcha.jpg"
   featured_src: bg-adv-spk-daniel-wahl-wbcha.jpg
-  jobTitle: "Consultant"
+  jobTitle: "Doctor in Natural Design & Consultant"
   name: "Daniel Christian Wahl"
   sameAs: 
     - "http://danielchristianwahl.com/"
