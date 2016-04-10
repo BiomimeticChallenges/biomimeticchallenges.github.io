@@ -84,7 +84,7 @@ class: ""
 						<div class="photo-wrapper rounded"><a href="{{ speaker.permalink }}"><img src="assets/img/speakers/{{ speaker.image }}" alt="{{ speaker.name }}" class="img-responsive"></a></div>
 						<h3 class="name">{{ speaker.name }}</h3>
 						<p class="text-alt"><small><strong>{{ speaker.jobTitle }}</strong><br/>{{ speaker.worksFor.name }}</small></p>
-						<p class="about">{{ speaker.description | truncate: 160 }} </p>
+						<p class="about">{{ speaker.description | truncate: 160 }} <br/><a href="{{ speaker.permalink }}">[+]</a></p>
 					</div>
 				</div>
 

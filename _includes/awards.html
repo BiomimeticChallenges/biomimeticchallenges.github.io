@@ -67,7 +67,7 @@
 						<div class="photo-wrapper rounded"><a href="{{ advisor.permalink }}"><img src="assets/img/advisors/{{ advisor.image }}" alt="{{ advisor.name }}" class="img-responsive"></a></div>
 						<h3 class="name">{{ advisor.name }}</h3>
 						<p class="text-alt"><small><strong>{{ advisor.jobTitle }}</strong><br/>{{ advisor.worksFor.name }}</small></p>
-						<p class="about">{{ advisor.description | truncate: 140 }} </p>
+						<p class="about">{{ advisor.description | truncate: 140 }} <br/><a href="{{ advisor.permalink }}">[+]</a></p>
 					</div>
 				</div>
 
