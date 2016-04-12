@@ -248,3 +248,41 @@
   }
   </script>
 {% endif %}
+
+{% if page.class == 'newsarticle' %}
+  {% assign newsarticle_data = site.data.newsarticles | where:"id", page.newsarticle %}
+  {% assign newsarticle = newsarticle_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "{{ newsarticle.type }}",
+    "mainEntityOfPage":{
+      "@type":"{{ newsarticle.mainEntityOfPage.type }}",
+      "@id":"{{ newsarticle.mainEntityOfPage.id }}"
+    },
+    "headline": "{{ newsarticle.headline }}",
+    "image": {
+      "@type": "{{ newsarticle.image.type }}",
+      "url": "{{ newsarticle.image.url }}",
+      "height": {{ newsarticle.image.height }},
+      "width": {{ newsarticle.image.width }}
+    },
+    "datePublished": "{{ newsarticle.datePublished }}"
+    "author": {
+      "@type": "{{ newsarticle.author.type }}",
+      "name": "{{ newsarticle.author.name }}"
+    },
+     "publisher": {
+      "@type": "{{ newsarticle.publisher.type }}",
+      "name": "{{ newsarticle.publisher.name }}",
+      "logo": {
+        "@type": "{{ newsarticle.publisher.logo.type }}",
+        "url": "{{ newsarticle.publisher.logo.url }}",
+        "width": {{ newsarticle.publisher.logo.width }},
+        "height": {{ newsarticle.publisher.logo.width }}
+      }
+    },
+    "description": "{{ newsarticle.description }}"
+  }
+  </script>
+{% endif %}
