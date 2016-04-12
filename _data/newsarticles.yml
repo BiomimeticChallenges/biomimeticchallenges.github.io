@@ -1,0 +1,25 @@
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://www.lavanguardia.com/vida/20160411/401030673579/barcelona-acogera-una-jornada-mundial-sobre-biomimetica-a-mediados-de-junio.html"
+  headline: "Barcelona acogerá una jornada mundial sobre biomimética a mediados de junio"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/lavanguardia-wbcha-20160411.png"
+    height: 800
+    width: 800
+  datePublished: "2016-04-11T11:37:00+02:00"
+  author: 
+    type: "Organization"
+    name: "La Vanguardia"
+  publisher: 
+    type: "Organization"
+    name: "La Vanguardia"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-lavanguardia-wbcha.jpg"
+      width: 200
+      height: 200
+  description: "Barcelona, 11 abr (EFE).- Barcelona acogerá a mediados de junio una jornada mundial sobre biomimética, una metodología que observa la naturaleza como fuente de inspiración para la obtención de soluciones a los problemas humanos."
+  id: 00

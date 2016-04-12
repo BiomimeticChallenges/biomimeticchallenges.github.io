@@ -263,7 +263,7 @@
     "headline": "{{ newsarticle.headline }}",
     "image": {
       "@type": "{{ newsarticle.image.type }}",
-      "url": "{{ newsarticle.image.url }}",
+      "url": "{{ site.url }}{{ newsarticle.image.url }}",
       "height": {{ newsarticle.image.height }},
       "width": {{ newsarticle.image.width }}
     },
@@ -277,7 +277,7 @@
       "name": "{{ newsarticle.publisher.name }}",
       "logo": {
         "@type": "{{ newsarticle.publisher.logo.type }}",
-        "url": "{{ newsarticle.publisher.logo.url }}",
+        "url": "{{ site.url }}{{ newsarticle.publisher.logo.url }}",
         "width": {{ newsarticle.publisher.logo.width }},
         "height": {{ newsarticle.publisher.logo.width }}
       }
