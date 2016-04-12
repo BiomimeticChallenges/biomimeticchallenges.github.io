@@ -7,8 +7,8 @@
   image: 
     type: "ImageObject"
     url: "/assets/img/newsarticles/lavanguardia-wbcha-20160411.png"
-    height: 800
-    width: 800
+    height: 320
+    width: 320
   datePublished: "2016-04-11T11:37:00+02:00"
   author: 
     type: "Organization"

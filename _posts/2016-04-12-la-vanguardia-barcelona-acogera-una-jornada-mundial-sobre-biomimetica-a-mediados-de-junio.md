@@ -1,10 +1,10 @@
 ---
 layout: person
 title:  "Barcelona acogerá una jornada mundial sobre biomimética a mediados de junio"
-date:   2016-04-04 09:11:23 +0100
-category: newsartiles
+date:   2016-04-12 09:11:23 +0100
+category: newsarticles
 share: true
-class: newsarticles
+class: newsarticle
 og: true
 newsarticle: 00
 og-type: article
@@ -14,7 +14,8 @@ og-type: article
 {% assign newsarticle = newsarticle_data | first %}
 <div class="speaker">
 	<div class="photo-wrapper rounded"><img src="{{ newsarticle.publisher.logo.url }}" alt="{{ newsarticle.publisher.name }}" class="img-responsive" /></div><br/>
-	<div class="photo-wrapper rounded"><img src="{{ newsarticle.image.url }}" alt="{{ newsarticle.headline }}" class="img-responsive" /></div>
+	<div class="photo-wrapper rounded"><a href="{{ newsarticle.mainEntityOfPage.id }}"><img src="{{ newsarticle.image.url }}" alt="{{ newsarticle.headline }}" class="img-responsive" /></a></div>
 	<h3 class="name">{{ newsarticle.publisher.name }}</h3>
+	<p class="text-alt"><small><a href="{{ newsarticle.mainEntityOfPage.id }}"><strong>"{{ newsarticle.headline }}"</strong></a></small></p>
 	<p class="about text-left">{{ newsarticle.description}} </p>
 </div>
