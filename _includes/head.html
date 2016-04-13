@@ -128,6 +128,19 @@
           <meta name="twitter:description" content="{{ conference.description | strip_html | strip_newlines | truncate: 160 }}">
           <meta name="twitter:image:src" content="{{ site.url }}/assets/img/speakers/{{ conference.featured_src }}">
       {% endif %}
+      {% if page.category == 'newsarticles' %}
+          {% assign newsarticle_data = site.data.newsarticles | where:"id", page.newsarticle %}
+          {% assign newsarticle = newsarticle_data | first %}
+          <meta property="og:image" content="{{ site.url }}{{ newsarticle.image.url }}" />
+          <meta property="og:description" content="{{ newsarticle.description | strip_html | strip_newlines | truncate: 160 }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }} &ndash; {% if page.category != '' %}{{ page.category }}{% endif %} &middot; {{ site.title }}">
+          <meta name="twitter:description" content="{{ newsarticle.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}{{ newsarticle.image.url }}">
+      {% endif %}
       {% if page.category == 'videos' %}
           {% assign video_data = site.data.videos | where:"id", page.video %}
           {% assign video = video_data | first %}
