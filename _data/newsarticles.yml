@@ -31,27 +31,57 @@
   type: "NewsArticle"
   mainEntityOfPage: 
     type: "WebPage"
-    id: "http://www.lavanguardia.com/vida/20160411/401030673579/barcelona-acogera-una-jornada-mundial-sobre-biomimetica-a-mediados-de-junio.html"
-  headline: "Barcelona acogerá una jornada mundial sobre biomimética a mediados de junio"
+    id: "http://eleconomista.es/espana/noticias/7482412/04/16/Barcelona-acogera-en-junio-un-evento-internacional-sobre-biomimetica.html#"
+  headline: "Barcelona acogerá en junio un evento internacional sobre biomimética"
   image: 
     type: "ImageObject"
-    url: "/assets/img/newsarticles/lavanguardia-wbcha-20160411.png"
+    url: "/assets/img/newsarticles/eleconomista-wbcha-20160411.png"
     height: 696
     width: 696
-  datePublished: "2016-04-11T11:37:00+02:00"
-  dateModified: "2016-04-11T11:37:00+02:00"
+  datePublished: "2016-04-11T12:13:00+02:00"
+  dateModified: "2016-04-11T12:13:00+02:00"
   author: 
     type: "Organization"
-    name: "La Vanguardia"
+    name: "El Economista"
   publisher: 
     type: "Organization"
-    name: "La Vanguardia"
+    name: "El Economista"
     logo: 
       type: "ImageObject"
       url: "/assets/img/newsarticles/logo-lavanguardia-amp-wbcha.png"
       width: 600
       height: 60
-  description: "Barcelona, 11 abr (EFE).- Barcelona acogerá a mediados de junio una jornada mundial sobre biomimética, una metodología que observa la naturaleza como fuente de inspiración para la obtención de soluciones a los problemas humanos."
-  image-no-amp: "/assets/img/newsarticles/lavanguardia-no-amp-wbcha-20160411.png"
-  logo-no-amp: "/assets/img/newsarticles/logo-no-amp-lavanguardia-wbcha.jpg"
+  description: "El recinto de Montjüic de Fira de Barcelona acogerá el 22 de junio la primera edición de los 1st World Biomimetic Challenges & Awards, un evento anticipatorio del World Biomimetic Experience Summit 2017, donde se dará a conocer la realidad internacional de la biomimética como modelo emergente para abordar el progreso humano en equilibrio con el planeta y con la inspiración de la naturaleza."
+  image-no-amp: "/assets/img/newsarticles/eleconomista-no-amp-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-no-amp-eleconomista-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/12/el-economista-barcelona-acogera-en-junio-un-evento-internacional-sobre-biomimetica/"
   id: 01
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://noticias.lainformacion.com/economia-negocios-y-finanzas/construccion-e-inmobiliaria/diseno-e-ingenieria/Barcelona-acogera-evento-internacional-biomimetica_0_906809787.html"
+  headline: "Barcelona acogerá en junio un evento internacional sobre biomimética"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/la-informacion-wbcha-20160411.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-11T12:14:00+02:00"
+  dateModified: "2016-04-11T12:14:00+02:00"
+  author: 
+    type: "Organization"
+    name: "La información.com"
+  publisher: 
+    type: "Organization"
+    name: "La información.com"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-lainformacion-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "El recinto de Montjüic de Fira de Barcelona acogerá el 22 de junio la primera edición de los 1st World Biomimetic Challenges & Awards, un evento anticipatorio del World Biomimetic Experience Summit 2017, donde se dará a conocer la realidad internacional de la biomimética como modelo emergente para abordar el progreso humano en equilibrio con el planeta y con la inspiración de la naturaleza."
+  image-no-amp: "/assets/img/newsarticles/la-informacion-no-amp-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-la-informacion-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/12/la-informacion-barcelona-acogera-en-junio-un-evento-internacional-sobre-biomimetica/"
+  id: 02
