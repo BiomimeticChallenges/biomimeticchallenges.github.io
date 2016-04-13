@@ -85,3 +85,90 @@
   logo-no-amp: "/assets/img/newsarticles/logo-la-informacion-no-amp-wbcha.jpg"
   permalink: "/newsarticles/2016/04/12/la-informacion-barcelona-acogera-en-junio-un-evento-internacional-sobre-biomimetica/"
   id: 02
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://www.europapress.es/catalunya/barcelona-empresa-00982/noticia-barcelona-acogera-junio-evento-mundial-biomimetica-20160411121328.html"
+  headline: "Barcelona acogerá en junio un evento mundial sobre biomimética"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/europapress-wbcha-20160411.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-11T12:13:28+02:00"
+  dateModified: "2016-04-11T12:13:28+02:00"
+  author: 
+    type: "Organization"
+    name: "Europa Press"
+  publisher: 
+    type: "Organization"
+    name: "Europa Press"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-europapress-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "El recinto de Montjüic de Fira de Barcelona acogerá el 22 de junio la primera edición de los 1st World Biomimetic Challenges & Awards, un evento anticipatorio del World Biomimetic Experience Summit 2017, donde se dará a conocer la realidad internacional de la biomimética como modelo emergente para abordar el progreso humano en equilibrio con el planeta y con la inspiración de la naturaleza."
+  image-no-amp: "/assets/img/newsarticles/europapress-no-amp-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-europapress-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/12/europapress-barcelona-acogera-en-junio-un-evento-mundial-sobre-biomimetica/"
+  id: 03
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://agencias.abc.es/agencias/noticia.asp?noticia=2170562"
+  headline: "Barcelona acogerá una jornada mundial sobre biomimética a mediados de junio"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/abc-wbcha-20160411.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-11T11:39:00+02:00"
+  dateModified: "2016-04-11T11:39:00+02:00"
+  author: 
+    type: "Organization"
+    name: "ABC"
+  publisher: 
+    type: "Organization"
+    name: "ABC"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-abc-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "Barcelona acogerá a mediados de junio una jornada mundial sobre biomimética, una metodología que observa la naturaleza como fuente de inspiración para la obtención de soluciones a los problemas humanos."
+  image-no-amp: "/assets/img/newsarticles/abc-no-amp-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-abc-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/12/abc-barcelona-acogera-una-jornada-mundial-sobre-biomimetica-a-mediados-de-junio/"
+  id: 04
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://tectonicablog.com/?p=98364"
+  headline: "Jornada de biomimética en la In(3D)dustry"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/tectonicablog-wbcha-20160411.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-11T11:39:00+02:00"
+  dateModified: "2016-04-11T11:39:00+02:00"
+  author: 
+    type: "Organization"
+    name: "Tectónica Blog"
+  publisher: 
+    type: "Organization"
+    name: "Tectónica Blog"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-tectonicablog-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "La biomimética es la metodología que estudia la naturaleza como fuente de inspiración y dentro del marco de la primera edición de In(3D)ustry From Needs to Solutions, evento que recoge las aportaciones del desarrollo de la fabricación aditiva 3D en 4 bloques de industrias (health care, transporte -automóvil y aeronáutica-, retail & consumer y arquitectura y hábitat) tendrá lugar el primer World Biomimetics Challenges & Awards."
+  image-no-amp: "/assets/img/newsarticles/tectonicablog-no-amp-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-tectonicablog-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/12/tectonicablog-jornada-de-biomimetica-en-la-in-3d-dustry/"
+  id: 05

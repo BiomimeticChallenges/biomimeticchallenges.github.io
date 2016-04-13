@@ -1,14 +1,14 @@
 ---
 layout: person
-title:  "Barcelona acogerá en junio un evento internacional sobre biomimética"
+title:  "Jornada de biomimética en la In(3D)dustry"
 date:   2016-04-12 09:11:23 +0100
 category: newsarticles
 share: true
 class: newsarticle
 og: true
-newsarticle: 01
+newsarticle: 05
 og-type: article
-twitter: "@eleconomistaes"
+twitter: "@TectonicaBlog"
 ---
 
 {% assign newsarticle_data = site.data.newsarticles | where:"id", page.newsarticle %}

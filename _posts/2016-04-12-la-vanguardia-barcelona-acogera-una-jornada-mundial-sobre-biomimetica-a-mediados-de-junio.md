@@ -8,6 +8,7 @@ class: newsarticle
 og: true
 newsarticle: 00
 og-type: article
+twitter: "@lavanguardia"
 ---
 
 {% assign newsarticle_data = site.data.newsarticles | where:"id", page.newsarticle %}
