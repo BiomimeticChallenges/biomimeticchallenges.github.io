@@ -19,8 +19,39 @@
     name: "La Vanguardia"
     logo: 
       type: "ImageObject"
-      url: "/assets/img/newsarticles/logo-lavanguardia-wbcha.jpg"
+      url: "/assets/img/newsarticles/logo-lavanguardia-amp-wbcha.png"
       width: 600
       height: 60
   description: "Barcelona, 11 abr (EFE).- Barcelona acogerá a mediados de junio una jornada mundial sobre biomimética, una metodología que observa la naturaleza como fuente de inspiración para la obtención de soluciones a los problemas humanos."
+  image-no-amp: "/assets/img/newsarticles/lavanguardia-no-amp-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-no-amp-lavanguardia-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/12/la-vanguardia-barcelona-acogera-una-jornada-mundial-sobre-biomimetica-a-mediados-de-junio/"
   id: 00
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://www.lavanguardia.com/vida/20160411/401030673579/barcelona-acogera-una-jornada-mundial-sobre-biomimetica-a-mediados-de-junio.html"
+  headline: "Barcelona acogerá una jornada mundial sobre biomimética a mediados de junio"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/lavanguardia-wbcha-20160411.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-11T11:37:00+02:00"
+  dateModified: "2016-04-11T11:37:00+02:00"
+  author: 
+    type: "Organization"
+    name: "La Vanguardia"
+  publisher: 
+    type: "Organization"
+    name: "La Vanguardia"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-lavanguardia-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "Barcelona, 11 abr (EFE).- Barcelona acogerá a mediados de junio una jornada mundial sobre biomimética, una metodología que observa la naturaleza como fuente de inspiración para la obtención de soluciones a los problemas humanos."
+  image-no-amp: "/assets/img/newsarticles/lavanguardia-no-amp-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-no-amp-lavanguardia-wbcha.jpg"
+  id: 01

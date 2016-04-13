@@ -1,0 +1,26 @@
+		<div id="newsarticles" class="section align-center container">
+			<span class="icon section-icon icon-faces-users-04"></span>
+			<h3>Media impact</h3>
+			<p class="text-alt">See what media are saying about <span class="highlight">WBChA</span></p>
+			<br />
+			<br />
+
+			<div class="row">
+
+			{% for newsarticle in site.data.newsarticles limit: 1 %}
+
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper rounded"><a href="{{ newsarticle.permalink }}"><img src="{{ newsarticle.image-no-amp }}" alt="{{ newsarticle.name }}" class="img-responsive"></a></div>
+						<h3 class="name">{{ newsarticle.name }}</h3>
+						<h3 class="name">{{ newsarticle.publisher.name }}</h3>
+						<p class="text-alt"><small><strong>"{{ newsarticle.headline }}"</strong><br/>{{ newsarticle.datePublished | date: '%B %d, %Y' }}</small></p>
+						<p class="about">{{ newsarticle.description | truncate: 140 }} <br/><a href="{{ newsarticle.permalink }}">[+]</a></p>
+					</div>
+				</div>
+
+			{% endfor %}
+
+			</div>
+
+		</div>
