@@ -1,5 +1,16 @@
 - context: "http://schema.org"
   type: "Organization"
+  email: "thegaudiresearchinstitute@gmail.com"
+  url: http://www.tgaudiri.org/
+  sameAs:
+  permalink: /collaborators/2016/04/14/the-gaudi-research-institute/
+  logo: logo-the-gaudi-research-institute-wbcha.jpg
+  featured_src: bg-adv-sp-the-gaudi-research-inistitute-wbcha.jpg
+  name: "The Gaudí Research Insitute"
+  description: "The Gaudí Research Institute has been created to lead R & D from people who have curatorial studies and research works on Gaudí, who have led the relationship with universities and companies around the world taht have spent decades developing Gaudí's systems, who has organized numerous exhibitions and academic studies. This creation responds to the desire of international researchers that take a long career devoted to Gaudí and demanded a center where they and their disciples can attend. As well as that, after a century, it was an imperative and a debt that Gaudí was recognized and studied in his homeland as the univseral genius that he was."
+  id: 07
+- context: "http://schema.org"
+  type: "Organization"
   email: "marqueting@ub.edu"
   url: http://www.ub.edu/web/ub/en/index.html
   sameAs:
@@ -72,6 +83,17 @@
   name: "Global Education Magazine"
   description: "Global Education Magazine is inspired by universal values of the Declaration of Emerging Human Rights that aims to contribute to achieve the Millennium Development Goals by United Nations (MDGs) which is supported by the Regional Offices of Latin America and the Caribbean of UNESCO and UNHCR. An initiative launched by the teaching team that formulated the proposal most voted in the group “Sustainable Development for the Eradication of Poverty in Rio+20”. Global Education Magazine is an educational e-journal with international character that seeks to promote ideas and experiences from the work of educational professionals, as well as NGOs, Voluntary Associations, Supranational, National, Regional and Local Institutions and Organizations, that struggle every day to achieve the MDGs"
   id: 05
+- context: "http://schema.org"
+  type: "Organization"
+  email: "info@rchproduccions.com"
+  url: http://rchproduccions.com/
+  sameAs:
+  permalink: /collaborators/2016/04/14/rch-produccions/
+  logo: logo-rch-produccions-wbcha.jpg
+  featured_src: bg-adv-sp-rch-produccions-wbcha.jpg
+  name: "RCH Produccions"
+  description: "RCH Produccions, fotografia gran format."
+  id: 08
 - context: "http://schema.org"
   type: "Organization"
   email: "info@oxygen.cat"
