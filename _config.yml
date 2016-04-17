@@ -21,13 +21,14 @@ twitter_username: jekyllrb
 github_username:  jekyll
 sass:
   style: compressed
-twitter:          WBChaA
+twitter: WBChaA
 
 twitter-sentence: "| Enjoy #WBChA, #Biomimetics via @WBChaA"
 
 author:
-  name:           'Ramon Gil'
-  url:            https://twitter.com/freecates
+  name: 'Ramon Gil'
+  url: https://twitter.com/freecates
+  email: rgil@oxygen.cat
 
 gems:
   - jekyll-redirect-from
