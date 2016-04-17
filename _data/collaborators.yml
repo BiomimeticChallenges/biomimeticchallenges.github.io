@@ -35,16 +35,20 @@
   name: "Hèlix3c"
   description: "At Hèlix3c we invite you to think and act and thus transform: ourselves, our environment, and why not – the world we live in."
   id: 09
-# - context: "http://schema.org"
-#   type: "Organization"
-#   email: "info@butterflypark.es"
-#   url: http://www.butterflypark.es/en/
-#   permalink: /collaborators/2016/03/11/butterfly-park/
-#   logo: logo-butterfly-park-wbcha.jpg
-#   featured_src: bg-adv-sp-butterfly-park-wbcha.jpg
-#   name: "Butterfly Park"
-#   description: "We offer our visitors, young and old, the possibility to stroll amongst the tropical gardens and discover the captivating world of butterflies, parrots and other exotic animals. You will be amazed by our animals that roam freely within their natural habitats. Some of the world's most colorful species of butterflies will be fluttering freely around you and you may learn about their life cycle and the remarkable variety of existing species. This is a different kind of wildlife park, unique in Catalonia, with more than 15 years of dedication."
-#   id: 01
+- context: "http://schema.org"
+  type: "Organization"
+  email: "info@butterflypark.es"
+  url: http://www.butterflypark.es/en/
+  sameAs:
+    - "https://www.flickr.com/photos/butterflyparkempuriabrava/"
+    - "https://www.facebook.com/Butterfly-Park-Empuriabrava-124221787616376/"
+    - "https://www.tripadvisor.es/Attraction_Review-g1190243-d3454094-Reviews-Butterfly_Park_Empuriabrava-Castello_d_Empuries_Province_of_Girona_Catalonia.html"
+  permalink: /collaborators/2016/03/11/butterfly-park/
+  logo: logo-butterfly-park-wbcha.jpg
+  featured_src: bg-adv-sp-butterfly-park-wbcha.jpg
+  name: "Butterfly Park"
+  description: "We offer our visitors, young and old, the possibility to stroll amongst the tropical gardens and discover the captivating world of butterflies, parrots and other exotic animals. You will be amazed by our animals that roam freely within their natural habitats. Some of the world's most colorful species of butterflies will be fluttering freely around you and you may learn about their life cycle and the remarkable variety of existing species. This is a different kind of wildlife park, unique in Catalonia, with more than 15 years of dedication."
+  id: 01
 - context: "http://schema.org"
   type: "Organization"
   email: "reservations@almabarcelona.com"
