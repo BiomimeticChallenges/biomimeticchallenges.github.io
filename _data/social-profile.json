@@ -2,6 +2,7 @@
   "@type" : "Organization",
   "name" : "!st World Biomimetic Challenges and Awards",
   "url" : "https://www.biomimeticchallengesandawards.com/",
+  "logo": "https://www.biomimeticchallengesandawards.com/assets/img/wbcha_logo.png",
   "sameAs" : [ "https://www.facebook.com/worldbiomimetic/",
     "https://www.twitter.com/WBChaA"] 
 }

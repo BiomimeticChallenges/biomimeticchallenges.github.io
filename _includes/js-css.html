@@ -1,7 +1,9 @@
     <link rel="stylesheet" href="/css/main.css">
+    {% if page.title == 'Home' %}
     <script type="application/ld+json">
     {{ site.data.social-profile | jsonify }}
     </script>
+    {% endif %}
 
     <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
     <script>
