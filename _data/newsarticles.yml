@@ -245,10 +245,10 @@
   dateModified: "2016-04-15T12:13:00+02:00"
   author: 
     type: "Organization"
-    name: "Gente Digital"
+    name: "Automática e instrumentación"
   publisher: 
     type: "Organization"
-    name: "Gente Digital"
+    name: "Automática e instrumentación"
     logo: 
       type: "ImageObject"
       url: "/assets/img/newsarticles/logo-automatica-instrumentacion-amp-wbcha.png"
