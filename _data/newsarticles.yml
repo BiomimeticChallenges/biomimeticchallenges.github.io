@@ -172,3 +172,148 @@
   logo-no-amp: "/assets/img/newsarticles/logo-tectonicablog-no-amp-wbcha.jpg"
   permalink: "/newsarticles/2016/04/12/tectonicablog-jornada-de-biomimetica-en-la-in-3d-dustry/"
   id: 05
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://entrerayas.com/2016/04/el-nuevo-in3dustry-from-needs-to-solutions-acogera-la-primera-edicion-del-world-biomimetics-challenges-and-awards/"
+  headline: "El nuevo In(3D)ustry From Needs to Solutions acogerá la primera edición del World Biomimetics Challenges and Awards"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/entre-rayas-wbcha-20160411.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-11T11:39:00+02:00"
+  dateModified: "2016-04-11T11:39:00+02:00"
+  author: 
+    type: "Person"
+    name: "Eduard Pérez Moya"
+  publisher: 
+    type: "Organization"
+    name: "Entre Rayas"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-entre-rayas-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "El palacio 8 del recinto de Montjuïc de Fira de Barcelona acogerá, en el marco de la primera edición de In(3D)ustry From Needs to Solutions, el primer World Biomimetics Challenges & Awards, una jornada en la que analizará la biomimética, una metodología que observa la naturaleza como fuente de inspiración para la obtención de soluciones a los problemas humanos. Organizada por la World Biomimetics Foundation, la jornada tendrá lugar el 22 de junio incluida en el programa de sesiones del nuevo In(3D)ustry, un evento de ámbito internacional que analizará el presente y el futuro de la fabricación avanzada y aditiva."
+  image-no-amp: "/assets/img/newsarticles/entre-rayas-no-amp-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-entre-rayas-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/12/entre-rayas-el-nuevo-in-3d-ustry-acogera-la-primera-edicion-del-world-biomimetics-challenges-and-awards/"
+  id: 06
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://www.gentedigital.es/barcelona/noticia/1884464/barcelona-acogera-en-junio-un-evento-internacional-sobre-biomimetica/"
+  headline: "Barcelona acogerá en junio un evento internacional sobre biomimética"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/gente-digital-wbcha-20160411.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-11T12:13:00+02:00"
+  dateModified: "2016-04-11T12:13:00+02:00"
+  author: 
+    type: "Organization"
+    name: "Gente Digital"
+  publisher: 
+    type: "Organization"
+    name: "Gente Digital"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-gente-digital-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "El recinto de Montjüic de Fira de Barcelona acogerá el 22 de junio la primera edición de los 1st World Biomimetic Challenges & Awards, un evento anticipatorio del World Biomimetic Experience Summit 2017, donde se dará a conocer la realidad internacional de la biomimética como modelo emergente para abordar el progreso humano en equilibrio con el planeta y con la inspiración de la naturaleza."
+  image-no-amp: "/assets/img/newsarticles/gente-digital-no-amp-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-gente-digital-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/12/gente-digital-barcelona-acogera-en-junio-un-evento-internacional-sobre-biomimetica/"
+  id: 07
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://www.automaticaeinstrumentacion.com/es/notices/2016/04/barcelona-acoge-un-gran-encuentro-de-biomimetica-dentro-del-salon-de-fabricacion-aditiva-43742.php"
+  headline: "Barcelona acoge un gran encuentro de biomimética dentro del salón de fabricación aditiva"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/automatica-instrumentacion-wbcha-20160411.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-15T12:13:00+02:00"
+  dateModified: "2016-04-15T12:13:00+02:00"
+  author: 
+    type: "Organization"
+    name: "Gente Digital"
+  publisher: 
+    type: "Organization"
+    name: "Gente Digital"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-automatica-instrumentacion-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "En el marco de la primera edición de In(3D)ustry From Needs to Solutions, feria dedicada a la actualidad de las tecnologías aditivas que abrirá sus puertas del 21 al 23 de junio en Fira de Barcelona, se celebrará el World Biomimetics Challenges & Awards, una jornada en la que analizará la biomimética, una metodología que observa la naturaleza como fuente de inspiración para la obtención de soluciones a los problemas humanos. Desde la arquitectura de Gaudí hasta el Velcro, pasando por el tren de alta velocidad japonés, son ejemplos de la aplicación de la biomimética en disciplinas como la arquitectura o la ingeniería."
+  image-no-amp: "/assets/img/newsarticles/automatica-instrumentacion-no-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-automatica-instrumentacion-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/16/automatica-instrumentacion-barcelona-acoge-un-gran-encuentro-de-biomimetica-dentro-del-salon-de-fabricacion-aditiva/"
+  id: 08
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://www.aldia.cat/espanya/noticia-barcelona-acollira-juny-esdeveniment-internacional-biomimetica-20160411122940.html"
+  headline: "Barcelona acollirà al juny un esdeveniment internacional sobre biomimètica"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/al-dia-wbcha-20160411.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-11T12:13:00+02:00"
+  dateModified: "2016-04-11T12:13:00+02:00"
+  author: 
+    type: "Organization"
+    name: "Al Dia"
+  publisher: 
+    type: "Organization"
+    name: "Al Dia"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-al-dia-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "El recinte de Montjuïc de Fira de Barcelona acollirà el 22 de juny la primera edició dels 1st World Biomimetic Challenges & Awards, un esdeveniment anticipatori del World Biomimetic Experience Summit 2017, en què es donarà a conèixer la realitat internacional de la biomimètica com a model emergent per abordar el progrés humà en equilibri amb el planeta i amb la inspiració de la naturalesa."
+  image-no-amp: "/assets/img/newsarticles/al-dia-no-amp-wbcha-20160411.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-al-dia-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/12/al-dia-barcelona-acollira-juny-esdeveniment-internacional-biomimetica/"
+  id: 09
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://www.rtve.es/alacarta/audios/programa/vida-verda-qui-son-els-biomimetics-fira-per-terra/3570442/"
+  headline: "Vida verda - Qui són els Biomimètics + Fira per la Terra"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/radio4-vida-verda-wbcha-20160416.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-16T12:13:00+02:00"
+  dateModified: "2016-04-16T12:13:00+02:00"
+  author: 
+    type: "Organization"
+    name: "Ràdio 4"
+  publisher: 
+    type: "Organization"
+    name: "Ràdio 4"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-radio4-vida-verda-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "Es més eficient inspirar-se en els models que la Natura ha desenvolupat amb èxit durant milions d’anys que no “partir de zero” invertint temps i recursos en recerca. Ho diu la biomimètica una pràctica que et convida a endinsar-te en els boscos i comprovar el funcionament dels arbres o els insectes per després aplicar-ho a innovacions en aerodinàmica, aeronàutica, arquitectura, disseny, energia, robòtica o planificació urbana i social. Ho coneixen bé Jordi Carrasco de Helix3C i Daniel Fuentes, membre a Catalunya de la World Biomimetics Foundation. Parlem de la Fira per la Terra que arriba ja a la 21 edició al Parc de la Ciutadella de Barcelona. La fira es celebra cada any entorn el 22 d’abril quan es recorda el Dia de la Terra. Els participants a la Fira i el Mercat per la Terra han signat la Carta de la Terra per la protecció mediambiental , els drets humans, el desenvolupament igualitari i la pau al món. Donem dades d’ús energètic real mitjançant fonts renovables. Escoltem la música de: Aniam-Tu mous el món; Litoral-Un segle de paisatges; El petit de Ca l’Eril-I tantes figues; Litus-Lletra de Metge; Inercia-Papallones."
+  image-no-amp: "/assets/img/newsarticles/radio4-vida-verda-no-amp-wbcha-20160416.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-radio4-vida-verda-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/16/radio4-vida-verda-qui-son-els-biomimetics-fira-per-terra/"
+  id: 10
