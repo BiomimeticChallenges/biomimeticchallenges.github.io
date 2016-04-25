@@ -121,6 +121,23 @@
   type: "Person"
   worksFor:
     type: "Organization"
+    name: "3BL Associates"
+    url: "http://www.3blassociates.com/"
+  email: "designforsustainability@gmail.com"
+  image: "tariq-al-olaimy-wbcha.jpg"
+  featured_src: bg-adv-spk-tariq-al-olaimy-wbcha.jpg
+  jobTitle: "Co-founder"
+  name: "Tariq Al-Olaimy"
+  sameAs: 
+    - "https://www.linkedin.com/in/tariqalolaimy"
+    - "https://twitter.com/tariqal"
+  permalink: /advisors/2016/04/25/tariq-al-olaimy/
+  description: "Co-founder of 3BL Associates, which is a people + planet strategy consultancy and think-do-tank that was established to re-imagine a more sustainable and regenerative Middle East. In a world of complexity,crosscutting issues like peace, health and climate change cannot be solved in silo. 3BL works at the intersection of issues through a systems-thinking, values based approach. With values that are deeply rooted in the wisdom of nature, and as an Ubuntu Peer Coach, much of Tariq’s work is towards building more cohesive and more compassionate communities of purpose. Tariq is also the co-founder of Diabetes.bh, the first online education and community platform for diabetes in Bahrain, which is recognized as a ’World Diabetes Day Champion’ by the International Diabetes Federation. With a strong focus on climate change issues, he is a founding National Coordinator of the Arab Youth Climate Movement (AYCM), which is now present in 17 different MENA countries, as well as a climate policy tracker. He is a co-chair of UNESCO's Global Action Programme on Education for Sustainable Development partner network, and as an educator at heart, Tariq has conducted workshops,trainings, and speaking engagements across five different continents. Tariq is a member of several leadership networks and initiatives; a Global Shaper of the World Economic Forum; a One Young World Ambassador; a BMW Foundation Young World Leader; US IVLP graduate; a TEDxBahrainona -curator; and an alumnus of global organizations such as AIESEC, Common Purpose and Singularity University. Tariq holds a B.Sc. in Investment and Financial Risk Management from Cass Business School London, and is a certified Biomimicry Specialist through Biomimicry3.8. He believes that nature is the ultimate classroom, teacher, lesson and the book."
+  id: 14
+- context: "http://schema.org"
+  type: "Person"
+  worksFor:
+    type: "Organization"
     name: "Centre for the Study of Natural Design at DJCAD, University of Dundee"
     url: "http://www.dundee.ac.uk/"
   email: "D.SanchezRuano@dundee.ac.uk"
