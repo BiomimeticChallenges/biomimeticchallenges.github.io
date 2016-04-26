@@ -317,3 +317,32 @@
   logo-no-amp: "/assets/img/newsarticles/logo-radio4-vida-verda-no-amp-wbcha.jpg"
   permalink: "/newsarticles/2016/04/16/radio4-vida-verda-qui-son-els-biomimetics-fira-per-terra/"
   id: 10
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://bioniccity.weebly.com/blog/world-biomimetic-challenges-awards"
+  headline: "World Biomimetic Challenges & Awards"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/bionic-city-wbcha-20160414.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-16T14:13:00+02:00"
+  dateModified: "2016-04-16T14:13:00+02:00"
+  author: 
+    type: "Organization"
+    name: "Bionic City"
+  publisher: 
+    type: "Organization"
+    name: "Bionic City"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-bionic-city-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "The inaugural World Biomimetic Challenges and Awards aim to strengthen an emergent field and to connect outstanding projects from near and far. WBCA will recognise projects in prototype, final development, or deployment, which are based on a concept, technology, product, service or process intended to meet a real-world challenge. "
+  image-no-amp: "/assets/img/newsarticles/bionic-city-no-amp-wbcha-20160414.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-bionic-city-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/14/world-biomimetic-challenges-awards/"
+  id: 11
