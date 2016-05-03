@@ -52,18 +52,18 @@
   type: "Person"
   worksFor:
     type: "Organization"
-    name: "MedPAN"
+    name: "Universitat de Barcelona"
     url: "http://www.medpan.org/en/home"
   email: "pcanals@depana.org"
   image: "puri-canals-wbcha.jpg"
   featured_src: bg-adv-spk-puri-canals-wbcha.jpg
-  jobTitle: "President of MedPAN"
+  jobTitle: "PhD in Biochemistry and Physiology"
   name: "Puri Canals"
   sameAs: 
     - "https://www.linkedin.com/in/puri-canals-616a146a"
     - "https://twitter.com/MedPAN"
   permalink: /advisors/2016/03/21/puri-canals/
-  description: "President of MEDPAN. Lecturer associated to Physiology, at Rovira i Virgili University. She was Vice-president of UICN (International Union for The nature conservation) between 2000-2008. Depana member. She was President of Iberic Committee for the Nature Defense and Vice-president of Environment Comittee for Barcelona Council. Advisory Committee member for the sustainable Development (CADS).  EUROSITE committee member, Netherlands"
+  description: "Purificació Canals has a BSc in Biological Sciences from Barcelona University (UB) (1986) and a PhD in Biochemistry and Physiology from UB (1996). She works as international free-lance consultant on marine and coastal conservation. She’s the President of MedPAN (Mediterranean Network of Marine Protected Areas Managers) since 2009; Member of the Advisory Council for Sustainable Development of Catalonia (CADS) since 2014; and Member of the Scientific Council of Conservatoire du Littoral (French Coastal Governmental Agency) since 2004. Since 1996 she teaches Physiology at the Faculty of Medicine of University Rovira i Virgili (Tarragona). Among other positions, she was Regional Councillor of IUCN (International Union for Nature Conservation) for West Europe (2000-2008); Vice-president of IUCN (2004-2008); President of the Preparatory Committee of the IV World Conservation Congress organized by IUCN in Barcelona (2006-2008); Professor of Aeronautical Medicine at University Rovira i Vigili (2001-2005); President of the League for the Defence of Natural Heritage (DEPANA) (1994-2010) and President of the Iberian Council for Defence of Nature (CIDN) (1998-2010)."
   id: 03
 - context: "http://schema.org"
   type: "Person"
