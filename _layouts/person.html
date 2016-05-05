@@ -9,6 +9,22 @@ layout: default
 <div class="container">
 
   <div class="post-content">
+    <ol class="breadcrumb">
+      <li><a href="{{ site.base_url }}/">Home</a></li>
+      {% if page.class == "newsarticle" %}
+      <li><a href="{{ site.base_url }}/press-release/#newsarticles">Press</a></li>
+      {% endif %}
+      {% if page.class == "speakers" %}
+      <li><a href="{{ site.base_url }}/#speakers">Speakers</a></li>
+      {% endif %}
+      {% if page.class == "advisors" %}
+      <li><a href="{{ site.base_url }}/#advisors">Advisors</a></li>
+      {% endif %}
+      {% if page.class == "collaborators" %}
+      <li><a href="{{ site.base_url }}/#collaborators">Collaborators</a></li>
+      {% endif %}
+      <li class="active">{% if page.class == "newsarticle" %}"{{page.title | truncate: 70 }}..."{% else %}{{ page.title }}{% endif %}</li>
+    </ol>
     {{ content }}
 
   {% if page.share %}<hr/><div class="social-share text-center">
