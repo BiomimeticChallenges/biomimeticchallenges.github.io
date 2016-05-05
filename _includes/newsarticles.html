@@ -7,6 +7,24 @@
 
 			<div class="row">
 
+			{% for newsarticle in site.data.newsarticles reversed limit: 3 offset: 12%}
+
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper rounded"><a href="{{ newsarticle.permalink }}"><img src="{{ newsarticle.image-no-amp }}" alt="{{ newsarticle.name }}" class="img-responsive"></a></div>
+						<h3 class="name">{{ newsarticle.name }}</h3>
+						<h3 class="name">{{ newsarticle.publisher.name }}</h3>
+						<p class="text-alt"><small><strong>"{{ newsarticle.headline }}"</strong><br/>{{ newsarticle.datePublished | date: '%B %d, %Y' }}</small></p>
+						<p class="about">{{ newsarticle.description | truncate: 140 }} <br/><a href="{{ newsarticle.permalink }}">[+]</a></p>
+					</div>
+				</div>
+
+			{% endfor %}
+
+			</div>
+
+			<div class="row">
+
 			{% for newsarticle in site.data.newsarticles reversed limit: 3 offset: 9%}
 
 				<div class="col-sm-4">

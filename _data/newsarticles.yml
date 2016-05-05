@@ -346,3 +346,32 @@
   logo-no-amp: "/assets/img/newsarticles/logo-bionic-city-no-amp-wbcha.jpg"
   permalink: "/newsarticles/2016/04/14/world-biomimetic-challenges-awards/"
   id: 11
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://unescochair.blogs.uoc.edu/2016/04/29/chronicle-of-a-biomimetic-celebration/"
+  headline: "Chronicle of a biomimetic celebration"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/unesco-chair-uoc-wbcha-20160505.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-29T14:13:00+02:00"
+  dateModified: "2016-04-29T14:13:00+02:00"
+  author: 
+    type: "Organization"
+    name: "Unesco Chair UOC"
+  publisher: 
+    type: "Organization"
+    name: "Unesco Chair UOC"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-unesco-chair-uoc-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "A circular room, dark light, dance, mimics, saxophone music, audio-visual projections and much more. You might think that this is a discotheque, but it is not. It is a top notch intellectual performance. Last March 19th we went to CCCB to celebrate the 10th anniversary of Hèlix3c, the “constructory” specialized in services that generate non-conventional thinking and transformative action. On the stage stood out the presence of Pere Monràs, the founder and inspirational leader of Hèlix3c."
+  image-no-amp: "/assets/img/newsarticles/unesco-chair-uoc-no-amp-wbcha-20160505.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-unesco-chair-uoc-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/05/05/chronicle-of-a-biomimetic-celebration/"
+  id: 12
