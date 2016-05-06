@@ -1,0 +1,14 @@
+- context: "http://schema.org"
+  type: "Organization"
+  email: hispaunesco@aecid.es
+  url: http://www.aecid.es/ES/sectores-de-cooperaci%C3%B3n/cultura-y-ciencia/unesco/comisi%C3%B3n-nacional
+  sameAs:
+    - "https://twitter.com/espunesco"
+    - "http://www.unesco.org/nac/geoportal.php?country=ES&language=S"
+    - "http://www.unesco.org/new/es/unesco/worldwide/europe-and-north-america/spain/"
+  logo: logo-unesco-wbcha.jpg
+  featured_src: bg-adv-sp-unesco-wbcha.jpg
+  permalink: /supporters/2016/05/06/unesco/
+  name: "Comisión Nacional Española de Cooperación con la UNESCO"
+  description: "The Spanish Commission for Cooperation with UNESCO is the body responsible for channeling citizen participation in matters of UNESCO and is associated with the governing bodies."
+  id: 00

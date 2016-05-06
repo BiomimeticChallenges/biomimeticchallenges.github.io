@@ -100,6 +100,19 @@
           <meta name="twitter:description" content="{{ partner.description | strip_html | strip_newlines | truncate: 160 }}">
           <meta name="twitter:image:src" content="{{ site.url }}/assets/img/sponsors/{{ speaker.featured_src }}">
       {% endif %}
+      {% if page.category == 'supporters' %}
+          {% assign supporter_data = site.data.supporters | where:"id", page.supporter %}
+          {% assign supporter = supporter_data | first %}
+          <meta property="og:image" content="{{ site.url }}/assets/img/sponsors/{{ supporter.featured_src }}" />
+          <meta property="og:description" content="{{ supporter.description | strip_html | strip_newlines | truncate: 160 }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }} &ndash; {% if page.category != '' %}{{ page.category }}{% endif %} &middot; {{ site.title }}">
+          <meta name="twitter:description" content="{{ supporter.description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}/assets/img/sponsors/{{ speaker.featured_src }}">
+      {% endif %}
       {% if page.category == 'place' %}
           {% assign place_data = site.data.places | where:"id", page.place %}
           {% assign place = place_data | first %}

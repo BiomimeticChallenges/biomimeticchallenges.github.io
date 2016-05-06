@@ -194,6 +194,32 @@
   </script>
 {% endif %}
 
+{% if page.class == 'supporters' %}
+  {% assign supporter_data = site.data.supporters | where:"id", page.supporter %}
+  {% assign supporter = supporter_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "{{ supporter.context }}",
+    "@type": "{{ supporter.type }}",
+    "email": "{{ supporter.email }}",
+    "url": "{{ supporter.url }}",
+    "sameAs": [
+    {% for sameAs in supporter.sameAs %}
+    {% if forloop.last != true %}
+    "{{ supporter.sameAs[forloop.index0] }}",
+    {% endif %}
+    {% if forloop.last == true %}
+    "{{ supporter.sameAs[forloop.index0] }}"
+    {% endif %}
+    {% endfor %}
+    ],
+    "logo": "{{ site.url }}/img/assets/sponsors/{{ supporter.logo }}",
+    "name": "{{ supporter.name }}",
+    "description": "{{ supporter.description }}"
+  }
+  </script>
+{% endif %}
+
 
 {% if page.class == 'videos' %}
   {% assign video_data = site.data.videos | where:"id", page.video %}
