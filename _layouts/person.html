@@ -23,6 +23,9 @@ layout: default
       {% if page.class == "collaborators" %}
       <li><a href="{{ site.base_url }}/#collaborators">Collaborators</a></li>
       {% endif %}
+      {% if page.class == "supporters" %}
+      <li><a href="{{ site.base_url }}/#supporters">Support</a></li>
+      {% endif %}
       <li class="active">{% if page.class == "newsarticle" %}"{{page.title | truncate: 70 }}..."{% else %}{{ page.title }}{% endif %}</li>
     </ol>
     {{ content }}
