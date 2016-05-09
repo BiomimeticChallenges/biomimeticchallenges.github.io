@@ -8,7 +8,7 @@ og-type: article
 class: ""
 ---
 
-<section id="awards" class="section overlay overlay-clr bg-cover bg4 light-text align-center">
+<section class="section overlay overlay-clr bg-cover bg4 light-text align-center">
 <div class="container">
 <h2>Register your project to  <strong>Awards</strong> now!</h2>
 
