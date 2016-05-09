@@ -34,6 +34,14 @@
 						</div>
 						{% endfor %}
 					</div>
+					<div class="row">
+						<h6>Support</h6>
+						{% for supporter in site.data.supporters %}
+						<div class="col-md-2 col-md-offset-5">
+							<div class="sponsor inline"><a href="{{supporter.permalink }}"><img src="assets/img/sponsors/{{ supporter.logo-home }}" alt=""></a></div>
+						</div>
+						{% endfor %}
+					</div>
 				</div>
 				<div class="sponsors visible-xs visible-sm">
 					<h6>Promoter</h6>
@@ -43,6 +51,10 @@
 					<h6>Organizers</h6>
 					{% for organizer in site.data.organizers %}
 					<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo-home }}" alt=""></a></div>
+					{% endfor %}
+					<h6>Support</h6>
+					{% for supporter in site.data.supporters %}
+					<div class="sponsor inline"><a href="{{supporter.permalink }}"><img src="assets/img/sponsors/{{ supporter.logo-home }}" alt=""></a></div>
 					{% endfor %}
 				</div>
 				<hr/>
