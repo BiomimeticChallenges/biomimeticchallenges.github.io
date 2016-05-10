@@ -1,14 +1,14 @@
 ---
 layout: person
-title:  "Chronicle of a biomimetic celebration"
-date:   2016-05-05 08:11:23 +0100
+title:  "El Nuevo In(3d)Ustry From Needs To Solutions Acogerá La Primera Edición Del World Biomimetics Challenges And Awards"
+date:   2016-04-12 09:11:23 +0100
 category: newsarticles
 share: true
 class: newsarticle
 og: true
-newsarticle: 13
+newsarticle: 12
 og-type: article
-twitter: "@UOCunescochair"
+twitter: "@soloindustria"
 ---
 
 {% assign newsarticle_data = site.data.newsarticles | where:"id", page.newsarticle %}

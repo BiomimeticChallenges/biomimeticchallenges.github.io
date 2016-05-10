@@ -350,6 +350,35 @@
   type: "NewsArticle"
   mainEntityOfPage: 
     type: "WebPage"
+    id: "http://directorio.soloindustria.com/el-nuevo-in3dustry-from-needs-to-solutions-acogera-la-primera-edicion-del-world-biomimetics-challenges-and-awards/"
+  headline: "El Nuevo In(3d)Ustry From Needs To Solutions Acogerá La Primera Edición Del World Biomimetics Challenges And Awards"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/soloindustria-wbcha-20160412.png"
+    height: 696
+    width: 696
+  datePublished: "2016-04-12T14:13:00+02:00"
+  dateModified: "2016-04-12T14:13:00+02:00"
+  author: 
+    type: "Organization"
+    name: "Sólo Indústria"
+  publisher: 
+    type: "Organization"
+    name: "Sólo Indústria"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-soloindustria-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "El palacio 8 del recinto de Montjuïc de Fira de Barcelona acogerá, en el marco de la primera edición de In(3D)ustry From Needs to Solutions, el primer World Biomimetics Challenges & Awards, una jornada en la que analizará la biomimética, una metodología que observa la naturaleza como fuente de inspiración para la obtención de soluciones a los problemas humanos. Organizada por la World Biomimetics Foundation, la jornada tendrá lugar el 22 de junio incluida en el programa de sesiones del nuevo In(3D)ustry, un evento de ámbito internacional que analizará el presente y el futuro de la fabricación avanzada y aditiva."
+  image-no-amp: "/assets/img/newsarticles/soloindustria-no-amp-wbcha-20160412.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-soloindustria-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/04/12/el-nuevo-in3dustry-acogera-la-primera-edicion-del-world-biomimetics-challenges-and-awards/"
+  id: 12
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
     id: "http://unescochair.blogs.uoc.edu/2016/04/29/chronicle-of-a-biomimetic-celebration/"
   headline: "Chronicle of a biomimetic celebration"
   image: 
@@ -374,4 +403,4 @@
   image-no-amp: "/assets/img/newsarticles/unesco-chair-uoc-no-amp-wbcha-20160505.png"
   logo-no-amp: "/assets/img/newsarticles/logo-unesco-chair-uoc-no-amp-wbcha.jpg"
   permalink: "/newsarticles/2016/05/05/chronicle-of-a-biomimetic-celebration/"
-  id: 12
+  id: 13
