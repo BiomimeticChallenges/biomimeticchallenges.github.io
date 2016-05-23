@@ -7,14 +7,14 @@
 
 # Site settings
 permalink: pretty
-title: "World Biomimetic Challenges & Awards. Barcelona"
+title: "World Biomimetic Challenges & Conscience. Barcelona"
 subtitle: "Biomimetics, a bioinspiring cosmovision"
 tsgline: "An emerging social, cultural, economic and industrial reality"
 email: info@biomimeticchallengesawards.com
 date: "22 June"
 location: Barcelona
 description: > # this means to ignore newlines until "baseurl:"
-  Next 22th June starts the first edition of World Biomimetics Challenges & Awards in collaboration with In(3D)dustry World Congress (Fira de Barcelona). The event is well underway for the coming World Biomimetic Experience Summit 2017 that will get to know a new social, economic and industrial reality by a bioinspirer Cosmo vision.
+  Next 22th June starts the first edition of World Biomimetics Challenges & Conscience in collaboration with In(3D)dustry World Congress (Fira de Barcelona). The event is well underway for the coming World Biomimetic Experience Summit 2017 that will get to know a new social, economic and industrial reality by a bioinspirer Cosmo vision.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.biomimeticchallengesandawards.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
