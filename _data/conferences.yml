@@ -9,7 +9,7 @@
   name: "Biomimetic: A bioinspiring cosmovision (final title to be confirmed soon)"
   offers: 
     type: "Offer"
-    url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-awards-23980115170"
+    url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170"
     price: "100"
     priceCurrency: "Euro"
     availability: "http://schema.org/InStock"
@@ -41,7 +41,7 @@
   name: "Biomimetic: A bioinspiring cosmovision (final title to be confirmed soon)"
   offers: 
     type: "Offer"
-    url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-awards-23980115170"
+    url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170"
     price: "100"
     priceCurrency: "Euro"
     availability: "http://schema.org/InStock"
@@ -73,7 +73,7 @@
   name: "Biomimetic: A bioinspiring cosmovision (final title to be confirmed soon)"
   offers: 
     type: "Offer"
-    url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-awards-23980115170"
+    url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170"
     price: "100"
     priceCurrency: "Euro"
     availability: "http://schema.org/InStock"
@@ -93,4 +93,37 @@
   startDate: "2016-06-22T18:35"
   endDate: "2016-06-22T19:15"
   description: "Nel Hofstra will perform a conference about Biomimetics at the 1st World Biomimetic Challenges and Awards that will take place in Barcelona on 2016/06/22. The title of the conference will be revealed soon."
-  featured_src: bg-adv-spk-lynn-reaser-wbcha.jpg
+  featured_src: bg-adv-spk-nel-hofstra-wbcha.jpg
+- context: "http://schema.org"
+  id: 03
+  type: "EducationEvent"
+  location: 
+    type: "EventVenue"
+    name: "Fira de Barcelona"
+    address: "Avinguda de la Reina Maria Cristina, s/n, 08004 Barcelona"
+    googleMap: "https://www.google.es/maps/dir//Fira+de+Barcelona,+Avinguda+de+la+Reina+Maria+Cristina,+s%2Fn,+08004+Barcelona,+Espanya/"
+  name: "Gala Dinner Inspired by nature"
+  offers: 
+    type: "Offer"
+    url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170"
+    price: "150"
+    priceCurrency: "Euro"
+    availability: "http://schema.org/InStock"
+  performer:
+    type: "Person"
+    worksFor:
+      type: "Organization"
+      name: "Restaurant Can Jubany"
+      url: "http://www.canjubany.com/"
+    email: "comunicacio@canjubany.com"
+    image: "nandu-jubany-wbcha.jpg"
+    featured_src: bg-adv-spk-nandu-jubany-wbcha.jpg
+    jobTitle: "One Star Michelin Chef"
+    name: "Nandu Jubany"
+    sameAs: "http://www.canjubany.com/en/nandujubany"
+  permalink: /conferences/2016/05/23/gala-dinner-wbcha-nandu-jubany/
+  startDate: "2016-06-22T20:15"
+  endDate: "2016-06-22T21:45"
+  description: "When I still didn't know what was biomimetics, we were already doing it in the kitchen of Can Jubany. Because for us biomimetics is nothing more than common sense. If nature has already solved a thousand problems and live in balance, why we shouldn't learn from it? Nature has been wrong a thousand times doing trial and error, but it has come to solutions."
+  description-2: "With dishes like 'we will find truffles in our olives', for example, we bring biomimetics at table as a gastronomic surprising way of adding our grain of sand to the awareness of the power of nature coupled with creativity. Observing nature and applying it to cooking we discovered the explosive potential of biomimicry."
+  featured_src: bg-adv-spk-nandu-jubany-wbcha.jpg
