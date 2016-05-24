@@ -1,0 +1,26 @@
+		<div id="videos" class="section align-center container">
+			<span class="icon section-icon icon-documents-bookmarks-09"></span>
+			<h3>Videos</h3>
+			<p class="text-alt">See what people are saying about <span class="highlight">WBChaC</span></p>
+			<br />
+			<br />
+
+			<div class="row">
+
+			{% for video in site.data.videos reversed limit: 3 %}
+
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper rounded"><a href="{{ video.permalink }}"><img src="{{ video.image-no-amp }}" alt="{{ video.name }}" class="img-responsive"></a></div>
+						<h3 class="name">{{ video.name }}</h3>
+						<h3 class="name">{{ video.publisher.name }}</h3>
+						<p class="text-alt"><small><strong>"{{ video.headline }}"</strong><br/>{{ video.datePublished | date: '%B %d, %Y' }}</small></p>
+						<p class="about">{{ video.description | truncate: 140 }} <br/><a href="{{ video.permalink }}">[+]</a></p>
+					</div>
+				</div>
+
+			{% endfor %}
+
+			</div>
+
+		</div>

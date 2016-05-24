@@ -230,15 +230,15 @@
     "@type": "{{ video.type }}",
     "name": "{{ video.title }}",
     "description": "{{ video.description }}",
-    "embedUrl": "{{ site.url }}/{{ video.video-container }}",
-    "contentUrl": "{{ site.url }}/public/video/{{ video.source-webm }}",
-    "thumbnailUrl": "{{ site.url }}/public/video/{{ video.poster }}",
+    "embedUrl": "{{ site.url }}{{ video.video-container }}",
+    "contentUrl": "{{ site.url }}{{ video.path }}{{ video.source-webm }}",
+    "thumbnailUrl": "{{ site.url }}{{ video.path }}{{ video.poster }}",
     "@id": "{{ site.url }}{{ page.url }}",
     "datePublished": "{{ video.dataPublished }}",
     "uploadDate": "{{ video.dataPublished }}",
     "author": {
       "@type": "Organization",
-      "name": "Artinpocket"
+      "name": "World Biomimetic Foundation"
     }
   }  
   </script>
