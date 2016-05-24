@@ -9,10 +9,13 @@ og: true
 og-type: video
 twitter: "@zoubeirazouz"
 video: 1
+advisor: 08
 ---
 
 {% assign video_data = site.data.videos | where:"id", page.video %}
 {% assign video = video_data | first %}
+{% assign advisor_data = site.data.advisors | where:"id", page.advisor %}
+{% assign advisor = advisor_data | first %}
 <figure class="no-margin margin-bottom-1">
     <div class="embed-container embed-container_{{ video.aspect-ratio }}">
         <video id="teaser" controls preload="auto" poster="{{ video.path }}{{ video.poster }}">
@@ -21,7 +24,7 @@ video: 1
         </video>
     </div>
     <figcaption>
-      <p><small><strong>{{ video.title }}</strong></small></p>
+      <p><small><strong>{{ video.title }}</strong> (more about <a href="{{ advisor.permalink }}">{{ video.author }}</a>)</small></p>
     </figcaption>
 </figure>
 
