@@ -11,6 +11,7 @@
   codec-mp4: video/mp4
   codec-webm: video/webm
   video-container: /video-zoubeir-azouz-wbcha/
+  permalink: /videos/2016/05/24/zoubeir-azouz-video-support/
   type: "VideoObject"
   context: "http://schema.org"
-  dataPublished: "2016-05-24"
+  datePublished: "2016-05-24"
