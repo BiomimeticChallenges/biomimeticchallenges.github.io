@@ -29,6 +29,9 @@ layout: default
       {% if page.class == "conferences" %}
       <li><a href="{{ site.base_url }}/#schedule">Schedule</a></li>
       {% endif %}
+      {% if page.class == "videos" %}
+      <li><a href="{{ site.base_url }}/videos/">Videos</a></li>
+      {% endif %}
       <li class="active">{% if page.class == "newsarticle" %}"{{page.title | truncate: 70 }}..."{% else %}{{ page.title }}{% endif %}</li>
     </ol>
     {{ content }}
