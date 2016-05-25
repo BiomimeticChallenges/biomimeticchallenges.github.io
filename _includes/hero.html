@@ -13,8 +13,8 @@
 						<div class="col-md-2 col-md-offset-3">
 							<h6>Promoter</h6>
 						</div>
-						<div class="col-md-2 col-md-offset-1">
-							<h6>Organizers</h6>
+						<div class="col-md-2 col-md-offset-2">
+							<h6>Organizer</h6>
 						</div>
 					</div>
 					<div class="row">
@@ -24,15 +24,15 @@
 						</div>
 						{% endfor %}
 						{% for organizer in site.data.organizers limit: 1 %}
-						<div class="col-md-2">
+						<div class="col-md-2 col-md-offset-2">
 							<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo-home }}" alt=""></a></div>
 						</div>
-						{% endfor %}
+						{% endfor %}<!-- 
 						{% for organizer in site.data.organizers limit: 1 offset: 1 %}
 						<div class="col-md-2">
 							<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo-home }}" alt=""></a></div>
 						</div>
-						{% endfor %}
+						{% endfor %} -->
 					</div>
 					<div class="row">
 						<h6>Support</h6>
@@ -59,7 +59,7 @@
 				</div>
 				<hr/>
 				<div class="btns-container">
-					<a href="#awards" class="btn btn-md">REGISTER</a>
+					<a href="#inscriptions" class="btn btn-md">SIGN UP TO THE EVENT!</a>
 				</div>
 			</div>
 		</div>

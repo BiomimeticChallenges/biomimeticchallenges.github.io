@@ -56,8 +56,8 @@ Awards Recognition
 
 ##### a) Winner Projects 
 		
-- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **[1st World Biomimetic Challenges & Awards](/)**’ website.
-- Visibility in the Partners Mass Media from **1st World Biomimetic Challenges & Awards**.
+- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **[1st World Biomimetic Challenges & Conscience](/)**’ website.
+- Visibility in the Partners Mass Media from **1st World Biomimetic Challenges & Conscience**.
 - Delivery of an sculpture given by [Gaudí Research Institute](http://www.tgaudiri.org/index.php/qui-som).
 - Invitation to the acts that will be organized from the World Biomimetic Foundation
 - Delivery of invitations to assist to the conferences.
@@ -65,14 +65,14 @@ Awards Recognition
 ##### b) Finalist Projects
 
 - Delivery of a Diploma
-- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **1st World Biomimetic Challenges & Awards**’ website.
+- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **1st World Biomimetic Challenges & Conscience**’ website.
 
 #### 2. Projects in germination process
 
 ##### a) Winner projects
 
-- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **1st World Biomimetic Challenges & Awards**’ website.
-- Visibility in the Partners Mass Media from **1st World Biomimetic Challenges & Awards**.
+- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **1st World Biomimetic Challenges & Conscience**’ website.
+- Visibility in the Partners Mass Media from **1st World Biomimetic Challenges & Conscience**.
 - Presentation of the project at the **[World Biomimetic Summit 2017](/#summit17)**
 - Contribution of relations from the World Biomimetic Foundation, for the interaction with the partners that gives economic, scientific and strategic value to the project.
 - Delivery of an sculpture given by Gaudí Research Institute.
@@ -82,4 +82,4 @@ Awards Recognition
 ##### b) Finalist projects
 
 - Delivery of a Diploma
-- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **1st World Biomimetic Challenges & Awards**’ website.
+- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **1st World Biomimetic Challenges & Conscience**’ website.

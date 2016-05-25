@@ -6,7 +6,7 @@
     name: "Fira de Barcelona"
     address: "Avinguda de la Reina Maria Cristina, s/n, 08004 Barcelona"
     googleMap: "https://www.google.es/maps/dir//Fira+de+Barcelona,+Avinguda+de+la+Reina+Maria+Cristina,+s%2Fn,+08004+Barcelona,+Espanya/"
-  name: "Biomimetic: A bioinspiring cosmovision (final title to be confirmed soon)"
+  name: "Biomimetics: A bioinspiring cosmovision (final title to be confirmed soon)"
   offers: 
     type: "Offer"
     url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170"
@@ -38,7 +38,7 @@
     name: "Fira de Barcelona"
     address: "Avinguda de la Reina Maria Cristina, s/n, 08004 Barcelona"
     googleMap: "https://www.google.es/maps/dir//Fira+de+Barcelona,+Avinguda+de+la+Reina+Maria+Cristina,+s%2Fn,+08004+Barcelona,+Espanya/"
-  name: "Biomimetic: A bioinspiring cosmovision (final title to be confirmed soon)"
+  name: "Biomimetics: A bioinspiring cosmovision (final title to be confirmed soon)"
   offers: 
     type: "Offer"
     url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170"
@@ -70,7 +70,7 @@
     name: "Fira de Barcelona"
     address: "Avinguda de la Reina Maria Cristina, s/n, 08004 Barcelona"
     googleMap: "https://www.google.es/maps/dir//Fira+de+Barcelona,+Avinguda+de+la+Reina+Maria+Cristina,+s%2Fn,+08004+Barcelona,+Espanya/"
-  name: "Biomimetic: A bioinspiring cosmovision (final title to be confirmed soon)"
+  name: "Biomimetics: A bioinspiring cosmovision (final title to be confirmed soon)"
   offers: 
     type: "Offer"
     url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170"
@@ -125,5 +125,5 @@
   startDate: "2016-06-22T20:15"
   endDate: "2016-06-22T21:45"
   description: "When I still didn't know what was biomimetics, we were already doing it in the kitchen of Can Jubany. Because for us biomimetics is nothing more than common sense. If nature has already solved a thousand problems and live in balance, why we shouldn't learn from it? Nature has been wrong a thousand times doing trial and error, but it has come to solutions."
-  description-2: "With dishes like 'we will find truffles in our olives', for example, we bring biomimetics at table as a gastronomic surprising way of adding our grain of sand to the awareness of the power of nature coupled with creativity. Observing nature and applying it to cooking we discovered the explosive potential of biomimicry."
+  description-2: "With dishes like 'we will find truffles in our olives', for example, we bring biomimetics at table as a gastronomic surprising way of adding our grain of sand to the awareness of the power of nature coupled with creativity. Observing nature and applying it to cooking we discovered the explosive potential of biomimetics."
   featured_src: bg-adv-spk-nandu-jubany-wbcha.jpg

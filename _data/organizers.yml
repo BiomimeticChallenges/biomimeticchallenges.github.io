@@ -1,23 +1,23 @@
-- context: "http://schema.org"
-  type: "Organization"
-  email: "info@firabarcelona.com"
-  url: http://www.firabarcelona.com/en/home
-  sameAs:
-    - "https://twitter.com/fira_barcelona"
-  permalink: /organizers/2016/03/11/fira-de-barcelona/
-  logo: logo-fira-barcelona-wbcha.jpg
-  logo-home: logo-fira-barcelona-wbcha-home.png
-  featured_src: bg-adv-sp-fira-barcelona-wbcha.jpg
-  name: "Fira de Barcelona"
-  description: "Fira de Barcelona's activity, venues, experience and leadership make it one of the most important trade fair institutions in Europe."
-  member:
-    type: "OrganizationRole"
-    member:
-      type: "Person"
-      name: "Albert Riera"
-      email: ariera@firabarcelona.com
-    roleName: "Commercial Director. Sponsorship"
-  id: 00
+# - context: "http://schema.org"
+#   type: "Organization"
+#   email: "info@firabarcelona.com"
+#   url: http://www.firabarcelona.com/en/home
+#   sameAs:
+#     - "https://twitter.com/fira_barcelona"
+#   permalink: /organizers/2016/03/11/fira-de-barcelona/
+#   logo: logo-fira-barcelona-wbcha.jpg
+#   logo-home: logo-fira-barcelona-wbcha-home.png
+#   featured_src: bg-adv-sp-fira-barcelona-wbcha.jpg
+#   name: "Fira de Barcelona"
+#   description: "Fira de Barcelona's activity, venues, experience and leadership make it one of the most important trade fair institutions in Europe."
+#   member:
+#     type: "OrganizationRole"
+#     member:
+#       type: "Person"
+#       name: "Albert Riera"
+#       email: ariera@firabarcelona.com
+#     roleName: "Commercial Director. Sponsorship"
+#   id: 00
 - context: "http://schema.org"
   type: "Organization"
   email: "ateliermice@ateliermice.com"
