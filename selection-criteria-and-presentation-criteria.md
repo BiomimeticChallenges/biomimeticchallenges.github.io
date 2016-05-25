@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Selection and Presentation Criteria of Awards" 
+title: "Selection and Presentation Criteria of Projects" 
 permalink: /selection-criteria-and-presentation-criteria/
 share: true
 og: true
@@ -10,7 +10,7 @@ class: ""
 
 <section class="section overlay overlay-clr bg-cover bg4 light-text align-center">
 <div class="container">
-<h2>Register your project to  <strong>Awards</strong> now!</h2>
+<h2>Register your <strong>project</strong> now!</h2>
 
 <a href="mailto:info@biomimeticchallengesandawards.com?subject=I%20want%20further%20information%20on%20WBChA%20Projects%20registration&amp;body=To%20whom%20it%20may%20concern%3A%20I%20want%20further%20information%20on%20WBChA%20Projects%20registration.%20Thanks%20a%20lot" class="btn btn-lg btn-outline">Register</a>
 <br />
