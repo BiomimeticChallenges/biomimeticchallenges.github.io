@@ -237,8 +237,18 @@
     "datePublished": "{{ video.datePublished }}",
     "uploadDate": "{{ video.datePublished }}",
     "author": {
-      "@type": "Organization",
-      "name": "World Biomimetic Foundation"
+      "@type": "video.author.type",
+      "name": "video.author.name",
+      "sameAs": [
+      {% for sameAs in video.sameAs %}
+      {% if forloop.last != true %}
+      "{{ video.sameAs[forloop.index0] }}",
+      {% endif %}
+      {% if forloop.last == true %}
+      "{{ video.sameAs[forloop.index0] }}"
+      {% endif %}
+      {% endfor %}
+      ]
     }
   }  
   </script>

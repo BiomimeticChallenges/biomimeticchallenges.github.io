@@ -12,6 +12,7 @@ video: 1
 advisor: 08
 ---
 
+
 {% assign video_data = site.data.videos | where:"id", page.video %}
 {% assign video = video_data | first %}
 {% assign advisor_data = site.data.advisors | where:"id", page.advisor %}
@@ -24,7 +25,7 @@ advisor: 08
         </video>
     </div>
     <figcaption>
-      <p><small><strong>{{ video.title }}</strong> (more about <a href="{{ advisor.permalink }}">{{ video.author }}</a>)</small></p>
+      <p><small><strong>{{ video.title }}</strong> (more about <a href="{{ advisor.permalink }}">{{ video.author.name }}</a>)</small></p>
     </figcaption>
 </figure>
 

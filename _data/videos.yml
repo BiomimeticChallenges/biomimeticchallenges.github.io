@@ -1,11 +1,15 @@
-- id: 1
-  aspect-ratio: 16-9
+- aspect-ratio: 16-9
   path: /assets/video/video-zoubeir-azouz-wbcha/
   source-mp4: video-zoubeir-azouz-wbcha.mp4
   source-webm: video-zoubeir-azouz-wbcha.webm
   poster: video-zoubeir-azouz-wbcha.png
   title: "Zoubier Azouz supports the 1st World Biomimetic Challenges and Conscience."
-  author: "Zoubier Azouz"
+  author: 
+    type: "Person"
+    name: "Zoubier Azouz"
+    sameAs: 
+    - "https://www.linkedin.com/in/zoubeir-azouz-2097a957"
+    - "https://twitter.com/zoubeirazouz"
   description: "Zoubier Azouz supports the 1st World Biomimetic Challenges and Conscience that will take place in Barcelona on June 22th 2016. The event is well underway for the coming World Biomimetic Experience Summit 2017 that will get to know a new social, economic and industrial reality by a bioinspirer Cosmo vision."
   width: 1024
   height: 576
@@ -16,3 +20,27 @@
   type: "VideoObject"
   context: "http://schema.org"
   datePublished: "2016-05-24"
+  id: 1
+- aspect-ratio: 16-9
+  path: /assets/video/video-life-joe-howes-wbcha/
+  source-mp4: video-life-joe-howes-wbcha.mp4
+  source-webm: video-life-joe-howes-wbcha.webm
+  poster: video-life-joe-howes-wbcha.png
+  title: "Life"
+  author: 
+    type: "Person"
+    name: "Joe Howes"
+    sameAs: 
+    - "https://vimeo.com/foldingrain"
+    - "https://twitter.com/hythmjoe"
+  description: "The project is a self-education on procedural animation in the open-source 3D animation tool 'Blender'. It was inspired by a short sequence on Conway in the documentary series 'Into the Universe with Stephen Hawking'. The sequence used a grid of squares to represent cells, and I was disappointed there were no adorable little beasties to elevate the simulation beyond its mathematical roots for the benefit of non-scientists."
+  width: 1024
+  height: 576
+  codec-mp4: video/mp4
+  codec-webm: video/webm
+  video-container: /video-life-joe-howes-wbcha/
+  permalink: /videos/2014/02/21/life-joe-howes-wbcha/
+  type: "VideoObject"
+  context: "http://schema.org"
+  datePublished: "2014-02-21"
+  id: 2
