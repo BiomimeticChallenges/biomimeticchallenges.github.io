@@ -237,10 +237,10 @@
     "datePublished": "{{ video.datePublished }}",
     "uploadDate": "{{ video.datePublished }}",
     "author": {
-      "@type": "video.author.type",
-      "name": "video.author.name",
+      "@type": "{{ video.author.type }}",
+      "name": "{{ video.author.name }}",
       "sameAs": [
-      {% for sameAs in video.sameAs %}
+      {% for sameAs in video.author.sameAs %}
       {% if forloop.last != true %}
       "{{ video.author.sameAs[forloop.index0] }}",
       {% endif %}

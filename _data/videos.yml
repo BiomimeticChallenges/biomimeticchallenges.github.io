@@ -33,6 +33,7 @@
     sameAs: 
     - "https://vimeo.com/foldingrain"
     - "https://twitter.com/hythmjoe"
+    - "http://josephhowes.com/post.php"
   description: "The project is a self-education on procedural animation in the open-source 3D animation tool 'Blender'. It was inspired by a short sequence on Conway in the documentary series 'Into the Universe with Stephen Hawking'. The sequence used a grid of squares to represent cells, and I was disappointed there were no adorable little beasties to elevate the simulation beyond its mathematical roots for the benefit of non-scientists."
   width: 1280
   height: 720
