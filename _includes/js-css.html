@@ -242,10 +242,10 @@
       "sameAs": [
       {% for sameAs in video.sameAs %}
       {% if forloop.last != true %}
-      "{{ video.sameAs[forloop.index0] }}",
+      "{{ video.author.sameAs[forloop.index0] }}",
       {% endif %}
       {% if forloop.last == true %}
-      "{{ video.sameAs[forloop.index0] }}"
+      "{{ video.author.sameAs[forloop.index0] }}"
       {% endif %}
       {% endfor %}
       ]
