@@ -7,7 +7,7 @@ share: true
 class: videos
 og: true
 og-type: video
-twitter: "@hythmjoe"
+twitter: "@rhythmjoe"
 video: 2
 ---
 
