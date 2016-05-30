@@ -7,6 +7,7 @@ share: true
 class: speakers
 og: true
 speaker: 02
+video: 6
 og-type: article
 twitter: "@sahtouris"
 ---
@@ -18,4 +19,17 @@ twitter: "@sahtouris"
 	<h3 class="name">{{ speaker.name }}</h3>
 	<p class="text-alt"><small><strong>{{ speaker.jobTitle }}</strong><br/><a href="{{ speaker.worksFor.url }}" title="{{ speaker.worksFor.name }}">{{ speaker.worksFor.name }}</a></small></p>
 	<p class="about text-left">{{ speaker.description}} </p>
+{% assign video_data = site.data.videos | where:"id", page.video %}
+{% assign video = video_data | first %}
+<figure class="no-margin margin-bottom-1">
+    <div class="embed-container embed-container_{{ video.aspect-ratio }}">
+        <video id="teaser" controls preload="auto" poster="{{ video.path }}{{ video.poster }}">
+            <source src="{{ video.path }}{{ video.source-webm}}" type='video/webm; codecs="vorbis,vp8"'>
+            <source src="{{ video.path }}{{ video.source-mp4 }}" type='video/mp4; codecs="aac,h264"'>
+        </video>
+    </div>
+    <figcaption>
+      <p><small><strong>{{ video.title }}</strong></small></p>
+    </figcaption>
+</figure>
 </div>
