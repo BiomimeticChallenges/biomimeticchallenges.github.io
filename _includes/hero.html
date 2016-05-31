@@ -28,18 +28,25 @@
 						<div class="col-md-2 col-md-offset-2">
 							<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo-home }}" alt=""></a></div>
 						</div>
-						{% endfor %}<!-- 
-						{% for organizer in site.data.organizers limit: 1 offset: 1 %}
-						<div class="col-md-2">
-							<div class="sponsor inline"><a href="{{organizer.permalink }}"><img src="assets/img/sponsors/{{ organizer.logo-home }}" alt=""></a></div>
-						</div>
-						{% endfor %} -->
+						{% endfor %}
 					</div>
 					<div class="row">
-						<h6>Support</h6>
+						<div class="col-md-2 col-md-offset-3">
+							<h6>Support</h6>
+						</div>
+						<div class="col-md-2 col-md-offset-2">
+							<h6>Partner</h6>
+						</div>
+					</div>
+					<div class="row">
 						{% for supporter in site.data.supporters %}
-						<div class="col-md-2 col-md-offset-5">
+						<div class="col-md-2 col-md-offset-3">
 							<div class="sponsor inline"><a href="{{supporter.permalink }}"><img src="assets/img/sponsors/{{ supporter.logo-home }}" alt=""></a></div>
+						</div>
+						{% endfor %}
+						{% for partner in site.data.partners limit: 1 %}
+						<div class="col-md-2 col-md-offset-2">
+							<div class="sponsor inline"><a href="{{partner.permalink }}"><img src="assets/img/sponsors/{{ partner.logo-home }}" alt=""></a></div>
 						</div>
 						{% endfor %}
 					</div>
@@ -56,6 +63,10 @@
 					<h6>Support</h6>
 					{% for supporter in site.data.supporters %}
 					<div class="sponsor inline"><a href="{{supporter.permalink }}"><img src="assets/img/sponsors/{{ supporter.logo-home }}" alt=""></a></div>
+					{% endfor %}
+					<h6>Partner</h6>
+					{% for partner in site.data.partners %}
+					<div class="sponsor inline"><a href="{{partner.permalink }}"><img src="assets/img/sponsors/{{ partner.logo-home }}" alt=""></a></div>
 					{% endfor %}
 				</div>
 				<hr/>

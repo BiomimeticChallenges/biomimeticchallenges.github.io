@@ -1,12 +1,13 @@
 - context: "http://schema.org"
   type: "Organization"
-  url: http://www.in3dustry.com/en/home
+  url: http://www.ara.cat
   sameAs:
-    - "https://twitter.com/in3dustry"
-    - "https://www.facebook.com/in3dustry"
-  logo: logo-in-3d-ustry-wbcha.jpg
-  featured_src: bg-adv-sp-in-3d-ustry-wbcha.jpg
-  permalink: /partners/2016/03/11/in-3d-ustry/
-  name: "In(3D)ustry"
-  description: "IN(3D)USTRY From Needs to Solutions goes beyond case studies and machinery into widespread implementation optimizing the entire manufacturing chain, creating a value chain based of different market needs offering solutions to optimize the entire supply chain."
+    - "https://twitter.com/diariARA"
+    - "https://www.facebook.com/diariARA"
+  logo: logo-ara-wbcha.jpg
+  logo-home: logo-ara-wbcha-home.jpg
+  featured_src: bg-adv-sp-ara-wbcha.jpg
+  permalink: /partners/2016/03/11/diari-ara/
+  name: "Ara.cat"
+  description: "Ara.cat, the leading newspaper in Catalan with the latest news, is the Partner Media of 1st World Biomimetic Challenges and Conscience."
   id: 00
