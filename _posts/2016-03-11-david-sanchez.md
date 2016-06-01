@@ -24,7 +24,7 @@ twitter: "@SymbioDave"
 <figure class="no-margin margin-bottom-1">
     <div class="embed-container embed-container_{{ video.aspect-ratio }}">
         <video id="teaser" controls preload="auto" poster="{{ video.path }}{{ video.poster }}">
-            <source src="{{ video.path }}{{ video.source-webm}}" type='video/webm; codecs="vorbis,vp8"'>
+            <source src="{{ video.path }}{{ video.source-webm}}" type='video/webm; codecs="opus,vp9"'>
             <source src="{{ video.path }}{{ video.source-mp4 }}" type='video/mp4; codecs="aac,h264"'>
         </video>
     </div>
