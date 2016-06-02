@@ -206,3 +206,49 @@
   context: "http://schema.org"
   datePublished: "2016-06-01"
   id: 9
+- aspect-ratio: 16-9
+  path: /assets/video/video-francesc-collmalivern-wbcha/
+  source-mp4: video-francesc-collmalivern-wbcha.mp4
+  source-webm: video-francesc-collmalivern-wbcha.webm
+  poster: video-francesc-collmalivern-wbcha.png
+  title: "Francesc Collmalivern supports the 1st World Biomimetic Challenges and Conscience."
+  author: 
+    type: "Person"
+    name: "Francesc Collmalivern"
+    sameAs: 
+    - "https://www.linkedin.com/in/francesc-collmalivern-i-reig-49b0b028"
+    - "https://twitter.com/fcollmalivern"
+  description: "Francesc Collmalivern supports the 1st World Biomimetic Challenges and Conscience that will take place in Barcelona on June 22th 2016. The event is well underway for the coming World Biomimetic Experience Summit 2017 that will get to know a new social, economic and industrial reality by a bioinspirer Cosmo vision."
+  width: 1024
+  height: 576
+  codec-mp4: video/mp4
+  codec-webm: video/webm
+  video-container: /video-francesc-collmalivern-wbcha/
+  permalink: /videos/2016/06/02/francesc-collmalivern-video-support/
+  type: "VideoObject"
+  context: "http://schema.org"
+  datePublished: "2016-06-01"
+  id: 10
+- aspect-ratio: 16-9
+  path: /assets/video/video-tariq-al-olaimy-wbcha/
+  source-mp4: video-tariq-al-olaimy-wbcha.mp4
+  source-webm: video-tariq-al-olaimy-wbcha.webm
+  poster: video-tariq-al-olaimy-wbcha.png
+  title: "Tariq Al-Olaimy supports the 1st World Biomimetic Challenges and Conscience."
+  author: 
+    type: "Person"
+    name: "Tariq Al-Olaimy"
+    sameAs: 
+    - "https://www.linkedin.com/in/tariqalolaimy"
+    - "https://twitter.com/tariqal"
+  description: "Tariq Al-Olaimy supports the 1st World Biomimetic Challenges and Conscience that will take place in Barcelona on June 22th 2016. The event is well underway for the coming World Biomimetic Experience Summit 2017 that will get to know a new social, economic and industrial reality by a bioinspirer Cosmo vision."
+  width: 1024
+  height: 576
+  codec-mp4: video/mp4
+  codec-webm: video/webm
+  video-container: /video-tariq-al-olaimy-wbcha/
+  permalink: /videos/2016/06/02/tariq-al-olaimy-video-support/
+  type: "VideoObject"
+  context: "http://schema.org"
+  datePublished: "2016-06-02"
+  id: 11
