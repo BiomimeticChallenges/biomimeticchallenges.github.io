@@ -19,7 +19,7 @@ video {
 <section class="teaser">
 	<figure class="no-margin">
 	    <div class="embed-container embed-container_{{ video.aspect-ratio }}">
-	        <video id="teaser" controls preload="auto" poster="{{ video.path }}{{ video.poster }}">
+	        <video id="teaser" controls preload="auto" autoplay poster="{{ video.path }}{{ video.poster }}">
 	            <source src="{{ video.path }}{{ video.source-webm}}" type='video/webm; codecs="opus,vp9"'>
 	            <source src="{{ video.path }}{{ video.source-mp4 }}" type='video/mp4; codecs="aac,h264"'>
 	        </video>
