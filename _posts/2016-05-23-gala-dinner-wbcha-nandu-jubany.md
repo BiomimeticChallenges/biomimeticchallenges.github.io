@@ -21,7 +21,7 @@ twitter: "@nandujubany"
 	<p class="text-alt"><small>{{ conference.startDate | date: "%B %d %-H:%M, %Y" }} | <strong>{{ conference.location.name }}</strong> | <a href="{{ conference.location.googleMap }}">{{ conference.location.address }}</a></small></p>
 	<div class="btns-container">
 		<p>Enjoy the experience!</p>
-		<a href="/#inscriptions" class="btn btn-md">Buy now!</a>
+		<a href="https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170" class="btn btn-md">Buy now!</a>
 		<p><small>(you will be redirected to our partner <strong>EventBrite</strong> in order to get your ticket)</small></p>
 	</div>
 	<hr/>
