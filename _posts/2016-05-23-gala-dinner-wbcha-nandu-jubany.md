@@ -19,9 +19,11 @@ twitter: "@nandujubany"
 	<p class="text-alt"><small><strong>{{ conference.performer.name }}</strong><br/>{{ conference.performer.jobTitle }}</small></p>
 	<h3 class="name"><a href="{{ conference.offers.url }}">{{ conference.name }}</a></h3>
 	<p class="text-alt"><small>{{ conference.startDate | date: "%B %d %-H:%M, %Y" }} | <strong>{{ conference.location.name }}</strong> | <a href="{{ conference.location.googleMap }}">{{ conference.location.address }}</a></small></p>
-	<p class="about text-left">{{ conference.description}} </p>
-	<p class="about text-left">{{ conference.description-2}} </p>
 	<div class="btns-container">
-		<a href="/#inscriptions" class="btn btn-md">SIGN UP TO THE EVENT!</a>
+		<p>Enjoy the experience!</p>
+		<a href="/#inscriptions" class="btn btn-md">Buy now!</a>
+		<p><small>(you will be redirected to our partner <strong>EventBrite</strong> in order to get your ticket)</small></p>
 	</div>
+	<hr/>
+	<p class="about text-left">{{ conference.description}} </p>
 </div>
