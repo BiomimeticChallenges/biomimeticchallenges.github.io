@@ -18,7 +18,7 @@ twitter: "@nandujubany"
 	<div class="photo-wrapper rounded"><img src="/assets/img/speakers/{{ conference.performer.image-recipe }}" alt="{{ conference.description-2 }}" class="img-responsive"></div>
 	<p class="text-alt"><small><strong>{{ conference.performer.name }}</strong><br/>{{ conference.performer.jobTitle }}</small></p>
 	<h3 class="name"><a href="{{ conference.offers.url }}">{{ conference.name }}</a></h3>
-	<p><small>(<a target="_blank" href="/assets/pdf/{{ conference.featured_doc }}"><i class="fa fa-download"></i> the menu</a>)</small></p>
+	<p><small>(<a target="_blank" title="{{ conference.name }} | Menu" href="/assets/pdf/{{ conference.featured_doc }}"><i class="fa fa-download"></i> the menu</a>)</small></p>
 	<p class="text-alt"><small>{{ conference.startDate | date: "%B %d %-H:%M, %Y" }} | <strong>{{ conference.location.name }}</strong> | <a href="{{ conference.location.googleMap }}">{{ conference.location.address }}</a></small></p>
 	<div class="btns-container">
 		<p>Enjoy the experience!</p>
