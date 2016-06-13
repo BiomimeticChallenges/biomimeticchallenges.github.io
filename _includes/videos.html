@@ -71,4 +71,21 @@
 
 			</div>
 
+			<div class="row">
+
+			{% for video in site.data.videos limit: 3 offset: 12 %}
+
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper"><a href="{{ video.permalink }}"><img src="{{ video.path }}{{ video.poster }}" alt="{{ video.name }}" class="img-responsive"></a></div>
+						<h3 class="name">{{ video.title }}</h3>
+						<p class="text-alt"><small>{{ video.datePublished | date: '%B %d, %Y' }}</small></p>
+						<p class="about">{{ video.description | truncate: 140 }} <br/><a href="{{ video.permalink }}">[+]</a></p>
+					</div>
+				</div>
+
+			{% endfor %}
+
+			</div>
+
 		</div>

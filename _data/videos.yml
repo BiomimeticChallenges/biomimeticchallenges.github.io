@@ -275,3 +275,26 @@
   context: "http://schema.org"
   datePublished: "2016-06-07"
   id: 12
+- aspect-ratio: 16-9
+  path: /assets/video/video-spider-webs-wbcha/
+  source-mp4: video-spider-webs-wbcha.mp4
+  source-webm: video-spider-webs-wbcha.webm
+  poster: video-spider-webs-wbcha.png
+  title: "Spider webs inspire a glass that saves thousands of bird life."
+  author: 
+    type: "Organization"
+    name: "Arnold Glas"
+    sameAs: 
+    - "http://www.ornilux.com/index.html"
+    - "http://www.arnold-glas.de/deutsch/startseite.html"
+  description: "Ornilux, a spider web inspired glass from German company Arnold Glas, saves thousands of birds life. Learning from nature at 1st World Biomimetic Challenges and Conscience that will take place in Barcelona on June 22th 2016. The event is well underway for the coming World Biomimetic Experience Summit 2017 that will get to know a new social, economic and industrial reality by a bioinspirer Cosmo vision."
+  width: 1024
+  height: 576
+  codec-mp4: video/mp4
+  codec-webm: video/webm
+  video-container: /video-spider-webs-wbcha/
+  permalink: /videos/2016/06/13/spider-webs-video-support/
+  type: "VideoObject"
+  context: "http://schema.org"
+  datePublished: "2016-06-13"
+  id: 13
