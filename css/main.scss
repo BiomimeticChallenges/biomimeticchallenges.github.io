@@ -5741,6 +5741,10 @@ article.post ol{
   list-style-type: decimal;
 }
 
+article.post ol, article.post ul {
+  padding: 1em;
+} 
+
 section#inscriptions ol, section#inscriptions ul {
   list-style-type: none;
 }
