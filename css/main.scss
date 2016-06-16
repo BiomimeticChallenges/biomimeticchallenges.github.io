@@ -5737,11 +5737,11 @@ button[type="submit"] .loading {
 section ol, section ul, article.post ul {
   list-style: inherit;
 }
-article.post ol{
+article.post ol, section#projects-criteria ol {
   list-style-type: decimal;
 }
 
-article.post ol, article.post ul {
+article.post ol, article.post ul, section#projects-criteria ol {
   padding: 1em;
 } 
 

@@ -22,7 +22,7 @@ class: ""
 Selection Criteria
 -----
 
-The following criteria represent some of the qualities that defines the winners for the Projects, chosen by Advisory Committee:
+The following criteria represent some of the author’s qualities of the ideas and projects:
 
 - The effort to incorporate in their personal conscience and professional aspects of biomimetic values: ethic, reconnection, cooperative action, among others.
 - To transfer the biomimetic knowledge in their context or ecosystem.
