@@ -43,43 +43,7 @@ With the objective of getting into the Challenge needs to provide:
 7. Video (3 min. Max.): The video must to give a vision of the project and to bring the remarkable e innovative ideas. The video has to be uploaded on the website www.worldbiomimetics.org
 8. Presentation document (PDF format. Maximum 10 pages, DIN-A4 size): PowerPoint presentation. 
 9. All the materials submitted must to be written in Catalan, Spanish or English.
-10. **Deadline presentation** for all projects is **October 2017**.
+10. **Deadline presentation** for all ideas and projects is **October 2017**.
 11. By participating in the contest, the participants and winners authorize to World Biomimetic Foundation to exploit the image rights (including the name) of each of them, on the website [World Biomimetic Foundation](http://www.worldbiomimetic.org/), social media and the different media, for the main purpose of publishing the results of the Projects and the submitted projects at the same time, for advertising and promotion of their services, without any right to compensation and without any territorial or temporary limitation, accepting the collection and image reproduction for the aim and on the terms indicated in order to the Ley 1/1982, from 5th May, about the civil protection and the right to honor, to the personal and family privacy.
 12. Participants and winners grant to World Biomimetic Foundation, exclusively and for free, all the property industrial and intellectual rights (reproduction, distribution, public communication and transformation rights) which may arise to submitted projects, for all legally established deadline and for a world territory, as it can be used by World Biomimetic Foundation on their websites, social media and in the different media, to the only intention of World Biomimetic Foundation.
 
-Projects Recognition
------
-
-[World Biomimetic Foundation](http://www.worldbiomimetic.org/) recognize the winner and finalist projects in two categories:
-
-#### 1. Existing Projects
-
-##### a) Winner Projects 
-		
-- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **[1st World Biomimetic Challenges & Conscience](/)**’ website.
-- Visibility in the Partners Mass Media from **1st World Biomimetic Challenges & Conscience**.
-- Delivery of an sculpture given by [Gaudí Research Institute](http://www.tgaudiri.org/index.php/qui-som).
-- Invitation to the acts that will be organized from the World Biomimetic Foundation
-- Delivery of invitations to assist to the conferences.
-
-##### b) Finalist Projects
-
-- Delivery of a Diploma
-- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **1st World Biomimetic Challenges & Conscience**’ website.
-
-#### 2. Projects in germination process
-
-##### a) Winner projects
-
-- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **1st World Biomimetic Challenges & Conscience**’ website.
-- Visibility in the Partners Mass Media from **1st World Biomimetic Challenges & Conscience**.
-- Presentation of the project at the **[World Biomimetic Summit 2017](/#summit17)**
-- Contribution of relations from the World Biomimetic Foundation, for the interaction with the partners that gives economic, scientific and strategic value to the project.
-- Delivery of an sculpture given by Gaudí Research Institute.
-- Invitation to the acts that will be organized from the World Biomimetic Foundation
-- Delivery of invitations to assist to the conferences.
-
-##### b) Finalist projects
-
-- Delivery of a Diploma
-- Visibility in the Social Media and in World Biomimetic Foundation’s website and in the **1st World Biomimetic Challenges & Conscience**’ website.
