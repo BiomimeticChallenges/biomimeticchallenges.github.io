@@ -38,27 +38,27 @@
 								<div class="panel-group" id="day1_auditorium1_timeline">
 
 									<!-- Lecture start -->
-									<!-- <div class="panel schedule-item">
+									<div class="panel schedule-item">
 										<div class="lecture-icon-wrapper">
 											<span class="fa fa-calendar"></span>
 										</div>
 										<a data-toggle="collapse" data-parent="#day1_auditorium1_timeline" href="#day1_auditorium1_time1" class="schedule-item-toggle">
-											<strong class="time highlight"><span class="icon icon-office-24"></span>16:30</strong>
+											<strong class="time highlight"><span class="icon icon-office-24"></span>17:00</strong>
 											<h6 class="title">Reception<i class="icon icon-arrows-06"></i></h6>
 										</a>
-									</div> -->
+									</div>
 									<!-- Lecture end -->
 
 									<!-- Lecture start -->
-									<!-- <div class="panel schedule-item">
+									<div class="panel schedule-item">
 										<div class="lecture-icon-wrapper">
 											<span class="fa fa-calendar"></span>
 										</div>
 										<a data-toggle="collapse" data-parent="#day1_auditorium1_timeline" href="#day1_auditorium1_time2" class="schedule-item-toggle">
-											<strong class="time highlight"><span class="icon icon-office-24"></span>17:00</strong>
+											<strong class="time highlight"><span class="icon icon-office-24"></span>17:30</strong>
 											<h6 class="title">Welcome by Speech<i class="icon icon-arrows-06"></i></h6>
 										</a>
-									</div> -->
+									</div>
 									<!-- Lecture end -->
 
 									{% for conference in site.data.conferences | limit: 3%}
@@ -79,13 +79,40 @@
 									</div>
 									<!-- Lecture end -->
 									{% endfor %}
+									<!-- Lecture start -->
 									<div class="panel schedule-item">
 										<div class="lecture-icon-wrapper">
 											<span class="fa fa-trophy"></span>
 										</div>
-										<a data-toggle="collapse" data-parent="#day1_auditorium1_timeline" href="#day1_auditorium1_time6" class="schedule-item-toggle">
-											<strong class="time highlight"><span class="icon icon-office-24"></span>19:15</strong>
+										<a data-toggle="collapse" data-parent="#day1_auditorium1_timeline" href="#day1_auditorium1_05" class="schedule-item-toggle">
+											<strong class="time highlight"><span class="icon icon-office-24"></span>19:00</strong>
 											<h6 class="title">Present the Projects<i class="icon icon-arrows-06"></i></h6>
+										</a>
+										<div id="day1_auditorium1_05" class="panel-collapse collapse schedule-item-body">
+											<article>
+												<strong class="highlight speaker-name">19:05 Bionure</strong>
+											</article>
+											<article>
+												<strong class="highlight speaker-name">19:10 Sangakoo</strong>
+											</article>
+											<article>
+												<strong class="highlight speaker-name">19:15 Zoo de Tel-Aviv</strong>
+											</article>
+											<article>
+												<strong class="highlight speaker-name">19:20 Espora 3C</strong>
+											</article>
+										</div>
+									</div>
+									<!-- Lecture end -->
+
+									<!-- Lecture start -->
+									<div class="panel schedule-item">
+										<div class="lecture-icon-wrapper">
+											<span class="fa fa-calendar"></span>
+										</div>
+										<a data-toggle="collapse" data-parent="#day1_auditorium1_timeline" href="#day1_auditorium1_time1" class="schedule-item-toggle">
+											<strong class="time highlight"><span class="icon icon-office-24"></span>19:30</strong>
+											<h6 class="title">Closing by Dr Pere Monràs<i class="icon icon-arrows-06"></i></h6>
 										</a>
 									</div>
 									<!-- Lecture end -->

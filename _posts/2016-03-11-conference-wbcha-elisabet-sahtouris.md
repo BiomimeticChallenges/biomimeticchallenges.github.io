@@ -6,7 +6,7 @@ category: conferences
 share: true
 class: conferences
 og: true
-conference: 00
+conference: 01
 og-type: article
 ---
 
