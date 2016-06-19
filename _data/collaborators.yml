@@ -24,19 +24,6 @@
   id: 00
 - context: "http://schema.org"
   type: "Organization"
-  email: "comunicacio@helix3c.com"
-  url: "http://helix3c.com/?lang=en"
-  sameAs:
-    - "https://twitter.com/helix3c"
-    - "https://www.facebook.com/h%C3%A8lix3c-305526616130813/"
-  permalink: /collaborators/2016/04/14/helix-3c/
-  logo: logo-helix-3c-wbcha.jpg
-  featured_src: bg-adv-sp-helix-3c-wbcha.jpg
-  name: "Hèlix3c"
-  description: "At Hèlix3c we invite you to think and act and thus transform: ourselves, our environment, and why not – the world we live in."
-  id: 09
-- context: "http://schema.org"
-  type: "Organization"
   email: "info@butterflypark.es"
   url: http://www.butterflypark.es/en/
   sameAs:

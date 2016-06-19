@@ -39,9 +39,16 @@
 				{% endfor %}
 			</div>
 			<hr/>
+			<h3>Symbiotic Partner</h3>
+			<div class="sponsors">
+				{% for partner in site.data.partners limit: 1 offset: 1 %}
+				<div class="sponsor inline"><a href="{{partner.permalink }}"><img src="assets/img/sponsors/{{ partner.logo }}" alt=""></a></div>
+				{% endfor %}
+			</div>
+			<hr/>
 			<h3>Partner Media</h3>
 			<div class="sponsors">
-				{% for partner in site.data.partners %}
+				{% for partner in site.data.partners limit: 1 %}
 				<div class="sponsor inline"><a href="{{partner.permalink }}"><img src="assets/img/sponsors/{{ partner.logo }}" alt=""></a></div>
 				{% endfor %}
 			</div>
