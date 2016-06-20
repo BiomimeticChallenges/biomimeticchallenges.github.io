@@ -1,18 +1,5 @@
 - context: "http://schema.org"
   type: "Organization"
-  url: http://www.ara.cat
-  sameAs:
-    - "https://twitter.com/diariARA"
-    - "https://www.facebook.com/diariARA"
-  logo: logo-ara-wbcha.jpg
-  logo-home: logo-ara-wbcha-home.jpg
-  featured_src: bg-adv-sp-ara-wbcha.jpg
-  permalink: /partners/2016/03/11/diari-ara/
-  name: "Ara.cat"
-  description: "Ara.cat, the leading newspaper in Catalan with the latest news, is the Partner Media of 1st World Biomimetic Challenges and Conscience."
-  id: 00
-- context: "http://schema.org"
-  type: "Organization"
   email: "comunicacio@helix3c.com"
   url: "http://helix3c.com/?lang=en"
   sameAs:
@@ -25,3 +12,32 @@
   name: "Hèlix3c"
   description: "At Hèlix3c we invite you to think and act and thus transform: ourselves, our environment, and why not – the world we live in."
   id: 1
+- context: "http://schema.org"
+  type: "Organization"
+  email: hispaunesco@aecid.es
+  url: http://www.aecid.es/ES/sectores-de-cooperaci%C3%B3n/cultura-y-ciencia/unesco/comisi%C3%B3n-nacional
+  sameAs:
+    - "https://twitter.com/espunesco"
+    - "http://www.unesco.org/nac/geoportal.php?country=ES&language=S"
+    - "http://www.unesco.org/new/es/unesco/worldwide/europe-and-north-america/spain/"
+  logo: logo-unesco-wbcha.jpg
+  logo-home: logo-unesco-wbcha-home.jpg
+  featured_src: bg-adv-sp-unesco-wbcha.jpg
+  permalink: /partners/2016/05/06/unesco/
+  name: "Comisión Nacional Española de Cooperación con la UNESCO"
+  description: "UNESCO supports the 1st World Biomimetic Challenges and Conscience through the Spanish Commission for Cooperation. The Spanish Commission for Cooperation with UNESCO is the body responsible for channeling citizen participation in matters of UNESCO and is associated with the governing bodies."
+  id: 2
+- context: "http://schema.org"
+  type: "Organization"
+  url: http://www.ara.cat
+  sameAs:
+    - "https://twitter.com/diariARA"
+    - "https://www.facebook.com/diariARA"
+  logo: logo-ara-wbcha.jpg
+  logo-home: logo-ara-wbcha-home.jpg
+  featured_src: bg-adv-sp-ara-wbcha.jpg
+  permalink: /partners/2016/03/11/diari-ara/
+  name: "Ara.cat"
+  description: "Ara.cat, the leading newspaper in Catalan with the latest news, is the Partner Media of 1st World Biomimetic Challenges and Conscience."
+  id: 00
+

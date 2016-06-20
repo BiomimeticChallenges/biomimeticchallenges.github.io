@@ -1,15 +1,17 @@
 - context: "http://schema.org"
   type: "Organization"
-  email: hispaunesco@aecid.es
-  url: http://www.aecid.es/ES/sectores-de-cooperaci%C3%B3n/cultura-y-ciencia/unesco/comisi%C3%B3n-nacional
+  email: ccb2.act@gencat.cat
+  url: http://www.catalunya.com/
   sameAs:
-    - "https://twitter.com/espunesco"
-    - "http://www.unesco.org/nac/geoportal.php?country=ES&language=S"
-    - "http://www.unesco.org/new/es/unesco/worldwide/europe-and-north-america/spain/"
-  logo: logo-unesco-wbcha.jpg
-  logo-home: logo-unesco-wbcha-home.jpg
-  featured_src: bg-adv-sp-unesco-wbcha.jpg
-  permalink: /supporters/2016/05/06/unesco/
-  name: "Comisión Nacional Española de Cooperación con la UNESCO"
-  description: "UNESCO supports the 1st World Biomimetic Challenges and Conscience through the Spanish Commission for Cooperation. The Spanish Commission for Cooperation with UNESCO is the body responsible for channeling citizen participation in matters of UNESCO and is associated with the governing bodies."
-  id: 00
+    - "https://twitter.com/catexperience"
+    - "https://www.facebook.com/catalunyaexperience"
+    - "https://www.youtube.com/user/CatalunyaExperience"
+    - "https://plus.google.com/+Catalunyaexperience1"
+    - "https://www.instagram.com/catalunyaexperience/"
+  logo: logo-catalunya-wbcha.jpg
+  logo-home: logo-catalunya-wbcha-home.jpg
+  featured_src: bg-adv-sp-catalunya-wbcha.jpg
+  permalink: /supporters/2016/05/06/catalunya/
+  name: "Catalunya Experience"
+  description: "Catalunya Experience the 1st World Biomimetic Challenges and Conscience. Catalunya Convention Bureau (CCB) is a programme by the Catalan Tourist Board whose aim, in its fifth year, is to be a benchmark of the MICE industry in Catalonia, improving the cooperation and participation of the Catalan tourism offer, giving visibility to its potential as an institution."
+  id: 0
