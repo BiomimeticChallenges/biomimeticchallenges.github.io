@@ -24,6 +24,18 @@
   id: 00
 - context: "http://schema.org"
   type: "Organization"
+  email: " info@gaudibcnprojects.com"
+  url: http://gaudibcnprojects.com/
+  sameAs:
+    - "https://www.facebook.com/GaudiBCNprojects/"
+  permalink: /collaborators/2016/06/20/gaudi-barcelona-projects/
+  logo: logo-gaudi-barcelona-projects-wbcha.jpg
+  featured_src: bg-adv-sp-gaudi-barcelona-projects-wbcha.jpg
+  name: "Gaudí Barcelona Projects"
+  description: "Gaudí Barcelona Projects, created in 2012 with the aim of disseminating all scientific literature on Antonio Gaudi accumulated over the years by The Gaudi Research Institute and the most prestigious technological universities in the world, as well as the completion and commissioning of all types of based projects dissemination, application and development of legacy Gaudí."
+  id: 12
+- context: "http://schema.org"
+  type: "Organization"
   email: "info@butterflypark.es"
   url: http://www.butterflypark.es/en/
   sameAs:
@@ -98,6 +110,43 @@
   name: "RCH Produccions"
   description: "RCH Produccions, fotografia gran format."
   id: 08
+- context: "http://schema.org"
+  type: "Organization"
+  email: "info@westudio.cat"
+  url: http://www.westudio.cat/
+  sameAs:
+    - "https://www.youtube.com/user/WestudioFotografia"
+    - "https://www.facebook.com/westudiofotografia"
+  permalink: /collaborators/2016/06/20/westudio/
+  logo: logo-westudio-wbcha.jpg
+  featured_src: bg-adv-sp-westudio-wbcha.jpg
+  name: "WeStudio"
+  description: "Photo and video"
+  id: 9
+- context: "http://schema.org"
+  type: "Organization"
+  email: "nivel10@nivel10.cat"
+  url: http://nivel10.cat/indexangl.html
+  sameAs:
+  permalink: /collaborators/2016/06/20/nivel10/
+  logo: logo-nivel10-wbcha.jpg
+  featured_src: bg-adv-sp-nivel10-wbcha.jpg
+  name: "Nivel 10"
+  description: "NIVEL10 Moving Sound S.L. hires a company that integrates rent and show lighting services, professional sound and video as well as the installation of these technical equipment where necessary."
+  id: 10
+- context: "http://schema.org"
+  type: "Organization"
+  email: "fermi-bohigas@fermi-bohigas.cat"
+  url: http://fermibohigas.com/ca/
+  sameAs:
+    - "https://www.facebook.com/CavesBohigas"
+    - "https://twitter.com/CavesBohigas"
+  permalink: /collaborators/2016/06/20/fermi-bohigas/
+  logo: logo-fermi-bohigas-wbcha.jpg
+  featured_src: bg-adv-sp-fermi-bohigas-wbcha.jpg
+  name: "Fermí Bohigas"
+  description: "Caves Bohigas is a wine producer of wines and champagnes with more than eight centuries of history. Located in a privileged enclave of Anoia in Òdena specifically the wineries and vineyards of Can Macia with more than 35 hectares of vineyards and 200 extension between vineyards, wheat fields and forests."
+  id: 11
 - context: "http://schema.org"
   type: "Organization"
   email: "info@oxygen.cat"
