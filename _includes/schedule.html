@@ -49,17 +49,24 @@
 									</div>
 									<!-- Lecture end -->
 
+									{% for advisor in site.data.advisors | limit: 1 offset: 3 %}
 									<!-- Lecture start -->
 									<div class="panel schedule-item">
 										<div class="lecture-icon-wrapper">
-											<span class="fa fa-calendar"></span>
+											<a href="{{ advisor.permalink }}"><img src="assets/img/advisors/{{ advisor.image }}" alt="{{ advisor.name }}" class="img-responsive"></a>
 										</div>
-										<a data-toggle="collapse" data-parent="#day1_auditorium1_timeline" href="#day1_auditorium1_time2" class="schedule-item-toggle">
+										<a data-toggle="collapse" data-parent="#day1_auditorium1_timeline" href="#day1_auditorium1_{{ advisor.id }}" class="schedule-item-toggle">
 											<strong class="time highlight"><span class="icon icon-office-24"></span>17:30</strong>
 											<h6 class="title">Welcome by Speech<i class="icon icon-arrows-06"></i></h6>
 										</a>
+										<div id="day1_auditorium1_{{ advisor.id }}" class="panel-collapse collapse schedule-item-body">
+											<article>
+												<a href="{{ advisor.permalink }}"><strong class="highlight speaker-name">{{ advisor.name }}</strong>, Advisory Council for the Sustainable Development of Catalonia</a>
+											</article>
+										</div>
 									</div>
 									<!-- Lecture end -->
+									{% endfor %}
 
 									{% for conference in site.data.conferences | limit: 3%}
 									<!-- Lecture start -->
@@ -111,8 +118,20 @@
 											<span class="fa fa-calendar"></span>
 										</div>
 										<a data-toggle="collapse" data-parent="#day1_auditorium1_timeline" href="#day1_auditorium1_time1" class="schedule-item-toggle">
+											<strong class="time highlight"><span class="icon icon-office-24"></span>19:25</strong>
+											<h6 class="title">World Biomimetic Foundation. Daniel Fuentes, Director.<i class="icon icon-arrows-06"></i></h6>
+										</a>
+									</div>
+									<!-- Lecture end -->
+
+									<!-- Lecture start -->
+									<div class="panel schedule-item">
+										<div class="lecture-icon-wrapper">
+											<span class="fa fa-calendar"></span>
+										</div>
+										<a data-toggle="collapse" data-parent="#day1_auditorium1_timeline" href="#day1_auditorium1_time1" class="schedule-item-toggle">
 											<strong class="time highlight"><span class="icon icon-office-24"></span>19:30</strong>
-											<h6 class="title">Closing by Dr Pere Monràs<i class="icon icon-arrows-06"></i></h6>
+											<h6 class="title">Closing by Dr Pere Monràs, Hèlix3C Founder.<i class="icon icon-arrows-06"></i></h6>
 										</a>
 									</div>
 									<!-- Lecture end -->

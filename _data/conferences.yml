@@ -6,7 +6,7 @@
     name: "Palau Robert"
     address: "Passeig de Gràcia, 107, 08008 Barcelona"
     googleMap: "https://www.google.es/maps/dir/''/Palau+Robert,+Passeig+de+Gr%C3%A0cia,+107,+08008+Barcelona/@41.3960478,2.089371,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x12a4a296acbaa69b:0x94d9b1da92e3034c!2m2!1d2.1594109!2d41.396069"
-  name: "Biomimetics: A bioinspiring cosmovision (final title to be confirmed soon)"
+  name: "Biomimetics: A bioinspiring cosmovision"
   offers: 
     type: "Offer"
     url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170"
@@ -38,7 +38,7 @@
     name: "Palau Robert"
     address: "Passeig de Gràcia, 107, 08008 Barcelona"
     googleMap: "https://www.google.es/maps/dir/''/Palau+Robert,+Passeig+de+Gr%C3%A0cia,+107,+08008+Barcelona/@41.3960478,2.089371,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x12a4a296acbaa69b:0x94d9b1da92e3034c!2m2!1d2.1594109!2d41.396069"
-  name: "Biomimetics: A bioinspiring cosmovision (final title to be confirmed soon)"
+  name: "Biomimetics: A bioinspiring cosmovision (video conference)"
   offers: 
     type: "Offer"
     url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170"
@@ -60,7 +60,7 @@
   permalink: /conferences/2016/03/11/conference-wbcha-elisabet-sahtouris/
   startDate: "2016-06-22T18:10"
   endDate: "2016-06-22T18:25"
-  description: "Elisabet Sahtouris will perform a conference about Biomimetics at the 1st World Biomimetic Challenges and Conscience that will take place in Barcelona on 2016/06/22. The title of the conference will be revealed soon."
+  description: "Elisabet Sahtouris will perform a video conference about Biomimetics at the 1st World Biomimetic Challenges and Conscience that will take place in Barcelona on 2016/06/22. The title of the conference will be revealed soon."
   featured_src: bg-adv-spk-elisabeth-sahtouris-wbcha.jpg
 - context: "http://schema.org"
   id: 02
@@ -70,7 +70,7 @@
     name: "Palau Robert"
     address: "Passeig de Gràcia, 107, 08008 Barcelona"
     googleMap: "https://www.google.es/maps/dir/''/Palau+Robert,+Passeig+de+Gr%C3%A0cia,+107,+08008+Barcelona/@41.3960478,2.089371,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x12a4a296acbaa69b:0x94d9b1da92e3034c!2m2!1d2.1594109!2d41.396069"
-  name: "Biomimetics: A bioinspiring cosmovision (final title to be confirmed soon)"
+  name: "Biomimetics: A bioinspiring cosmovision"
   offers: 
     type: "Offer"
     url: "https://www.eventbrite.es/e/entradas-1st-world-biomimetic-challenges-and-conscience-23980115170"
