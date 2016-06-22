@@ -404,3 +404,32 @@
   logo-no-amp: "/assets/img/newsarticles/logo-unesco-chair-uoc-no-amp-wbcha.jpg"
   permalink: "/newsarticles/2016/05/05/chronicle-of-a-biomimetic-celebration/"
   id: 13
+- context: "http://schema.org"
+  type: "NewsArticle"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "http://www.ara.cat/estils_i_gent/Biomimetica-natura-font-dinspiracio_0_1599440052.html"
+  headline: "Biomimètica: la natura com a font d’inspiració"
+  image: 
+    type: "ImageObject"
+    url: "/assets/img/newsarticles/diari-ara-wbcha-20160620.png"
+    height: 696
+    width: 696
+  datePublished: "2016-06-20T14:13:00+02:00"
+  dateModified: "2016-06-20T14:22:15+02:00"
+  author: 
+    type: "Person"
+    name: "Nereida Carrillo"
+  publisher: 
+    type: "Organization"
+    name: "Diari Ara"
+    logo: 
+      type: "ImageObject"
+      url: "/assets/img/newsarticles/logo-diari-ara-amp-wbcha.png"
+      width: 600
+      height: 60
+  description: "El velcro que s’enganxa com el card, la pintura que repel·leix l’aigua com la flor de lotus i es desfà de les gotes de la pluja o els banyadors que imiten la pell dels taurons són només alguns dels molts exemples de productes dissenyats per l’home després de trobar un referent a la natura. Precisament això és el que propugna la biomimètica, una filosofia que investigadors de tots els camps estan abraçant cada vegada amb més èmfasi. La natura està esdevenint una musa de luxe per a experts de les disciplines més variades, des de l’economia a la robòtica, passant per l’arquitectura o el tèxtil."
+  image-no-amp: "/assets/img/newsarticles/diari-ara-no-amp-wbcha-20160620.png"
+  logo-no-amp: "/assets/img/newsarticles/logo-diari-ara-no-amp-wbcha.jpg"
+  permalink: "/newsarticles/2016/06/20/biomimetica-natura-font-d-inspiracio/"
+  id: 14
